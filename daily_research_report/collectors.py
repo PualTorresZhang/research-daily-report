@@ -131,7 +131,12 @@ def collect_web(
             continue
         if not source_allows_url(source, url):
             continue
-        inferred_at = infer_datetime_from_url(url, start)
+        inferred_at = infer_datetime_from_url(url, start) or infer_datetime_from_text(
+            link.parent.get_text(" ") if link.parent else "",
+            start,
+        )
+        if source.meta.get("require_date_from_url") and inferred_at is None:
+            continue
         if inferred_at is not None and not in_day(inferred_at, start, end):
             continue
         items.append(
@@ -285,6 +290,30 @@ def infer_datetime_from_url(url: str, start: datetime) -> datetime | None:
         year = int(match.group(1))
         month = int(match.group(2))
         day = int(match.group(3)) if len(match.groups()) >= 3 else 1
+        try:
+            return datetime(year, month, day, tzinfo=start.tzinfo)
+        except ValueError:
+            return None
+    return None
+
+
+def infer_datetime_from_text(text: str, start: datetime) -> datetime | None:
+    patterns = [
+        r"(20\d{2})[-/年.](\d{1,2})[-/月.](\d{1,2})",
+        r"(\d{1,2})[-/月.](\d{1,2})日?",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text)
+        if not match:
+            continue
+        if len(match.groups()) == 3:
+            year = int(match.group(1))
+            month = int(match.group(2))
+            day = int(match.group(3))
+        else:
+            year = start.year
+            month = int(match.group(1))
+            day = int(match.group(2))
         try:
             return datetime(year, month, day, tzinfo=start.tzinfo)
         except ValueError:

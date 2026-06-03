@@ -5,16 +5,59 @@ sources:
     url: https://news.cctv.com/rss/china.xml
     enabled: true
 
+  - name: CCTV新闻联播
+    category: 附：新闻联播
+    type: web
+    url: https://tv.cctv.com/lm/xwlb/index.shtml
+    selector: a
+    include_url_patterns:
+      - "tv\\.cctv\\.com/.*/VIDE"
+      - "tv\\.cctv\\.com/.*/ARTI"
+    require_date_from_url: true
+    enabled: true
+
   - name: 新华社
     category: 要闻
     type: rss
     url: http://www.news.cn/politics/news_politics.xml
     enabled: true
 
+  - name: 新华社
+    category: 要闻
+    type: web
+    url: https://www.news.cn/politics/
+    selector: a
+    include_url_patterns:
+      - "news\\.cn/.*/20\\d{2}[-/]\\d{2}[-/]\\d{2}/"
+      - "news\\.cn/.*/20\\d{6}/"
+    require_date_from_url: true
+    enabled: true
+
+  - name: 人民日报
+    category: 要闻
+    type: web
+    url: http://paper.people.com.cn/rmrb/html/
+    selector: a
+    include_url_patterns:
+      - "paper\\.people\\.com\\.cn/rmrb/html/20\\d{2}-\\d{2}/\\d{2}/"
+    require_date_from_url: true
+    enabled: true
+
   - name: 国务院
     category: 要闻
     type: rss
     url: https://www.gov.cn/pushinfo/v150203/pushinfo.xml
+    enabled: true
+
+  - name: 国务院
+    category: 要闻
+    type: web
+    url: https://www.gov.cn/yaowen/
+    selector: a
+    include_url_patterns:
+      - "gov\\.cn/yaowen/liebiao/20\\d{6}/"
+      - "gov\\.cn/zhengce/20\\d{6}/"
+    require_date_from_url: true
     enabled: true
 
   - name: 外交部
@@ -24,6 +67,7 @@ sources:
     selector: a
     include_url_patterns:
       - "/web/wjdt_674879/"
+    require_date_from_url: true
     enabled: true
 
   - name: 商务部
@@ -33,6 +77,7 @@ sources:
     selector: a
     include_url_patterns:
       - "/xwfb/"
+    require_date_from_url: false
     enabled: true
 
   - name: 央行
@@ -42,6 +87,7 @@ sources:
     selector: a
     include_url_patterns:
       - "/goutongjiaoliu/113456/113469/"
+    require_date_from_url: true
     enabled: true
 
   - name: 国家发改委
@@ -51,6 +97,7 @@ sources:
     selector: a
     include_url_patterns:
       - "/xwdt/xwfb/"
+    require_date_from_url: true
     enabled: true
 
   - name: 国台办
@@ -60,12 +107,23 @@ sources:
     selector: a
     include_url_patterns:
       - "gwytb\\.gov\\.cn/.*/t20\\d{6}_"
+    require_date_from_url: true
     enabled: true
 
   - name: 中纪委国家监委
     category: 反腐
     type: rss
     url: https://www.ccdi.gov.cn/rss.xml
+    enabled: true
+
+  - name: 中纪委国家监委
+    category: 反腐
+    type: web
+    url: https://www.ccdi.gov.cn/scdcn/
+    selector: a
+    include_url_patterns:
+      - "ccdi\\.gov\\.cn/.*/20\\d{6}/"
+    require_date_from_url: true
     enabled: true
 
   - name: 财联社
@@ -84,6 +142,12 @@ sources:
     category: 涉外
     type: rss
     url: https://www.reutersagency.com/feed/?best-topics=china&post_type=best
+    enabled: true
+
+  - name: FT China
+    category: 涉外
+    type: rss
+    url: https://www.ft.com/china?format=rss
     enabled: true
 
   - name: BBC China

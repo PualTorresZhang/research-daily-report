@@ -13,7 +13,7 @@ def render_markdown(report: dict) -> str:
         lines.extend([f"## {chinese_number(section_number)}、{section['name']}", ""])
         items = section.get("items", [])
         if not items:
-            lines.extend(["昨日无重大增量。", ""])
+            lines.extend([section.get("status") or "昨日无重大增量。", ""])
         for idx, item in enumerate(items, 1):
             lines.extend(
                 [
@@ -84,4 +84,3 @@ def chinese_number(value: int) -> str:
         12: "十二",
     }
     return numbers.get(value, str(value))
-

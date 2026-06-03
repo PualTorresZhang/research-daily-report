@@ -7,6 +7,7 @@ from pathlib import Path
 
 from daily_research_report.collectors import collect_sources
 from daily_research_report.config import load_sources
+from daily_research_report.curation import curate_items
 from daily_research_report.dedup import deduplicate
 from daily_research_report.feishu import push_report
 from daily_research_report.llm import generate_report
@@ -37,10 +38,20 @@ def main() -> None:
     start, end = day_window(report_date, args.timezone)
     sources = load_sources(args.sources)
     raw_items = collect_sources(sources, start, end, args.max_items_per_source)
-    items = deduplicate(raw_items)
-    logging.info("Collected %s raw items, %s after deduplication", len(raw_items), len(items))
+    deduped_items = deduplicate(raw_items)
+    curated = curate_items(deduped_items, report_date)
+    items = curated.items
+    logging.info(
+        "Collected %s raw items, %s after deduplication, %s after curation",
+        len(raw_items),
+        len(deduped_items),
+        len(items),
+    )
+    for check in curated.diagnostics.get("mandatory_checks", []):
+        if not check.get("ok"):
+            logging.warning("Mandatory check failed: %s", check["label"])
 
-    report = generate_report(report_date, items)
+    report = generate_report(report_date, items, diagnostics=curated.diagnostics)
     md_path, html_path = write_report(
         report,
         output_dir=Path(args.output_dir),
