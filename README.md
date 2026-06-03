@@ -151,6 +151,8 @@ export REPORT_PUBLIC_URL="https://example.com/reports/2026-06-02.html"
 python -m daily_research_report.cli --push
 ```
 
+GitHub Actions 中的飞书详情链接会自动追加 `?v=<run_id>`，避免打开到浏览器或 GitHub Pages 缓存里的旧日报。
+
 ### 方式二：飞书应用机器人
 
 如果你手上是应用的 `app_id` / `app_secret`，需要再准备一个接收群的 `chat_id`：

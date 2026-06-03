@@ -57,7 +57,7 @@ jobs:
           else
             REPORT_DATE="$(TZ=Asia/Shanghai date -v-1d +%Y-%m-%d 2>/dev/null || TZ=Asia/Shanghai date -d yesterday +%Y-%m-%d)"
           fi
-          REPORT_PUBLIC_URL="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/reports/${REPORT_DATE}.html"
+          REPORT_PUBLIC_URL="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/reports/${REPORT_DATE}.html?v=${{ github.run_id }}"
           python -m daily_research_report.cli --date "$REPORT_DATE" --push --public-url "$REPORT_PUBLIC_URL"
 
       - name: Commit report
