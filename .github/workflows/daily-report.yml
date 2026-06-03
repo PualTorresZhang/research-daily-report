@@ -2,8 +2,8 @@ name: Daily Research Report
 
 on:
   schedule:
-    # 10:30 Beijing time is 02:30 UTC.
-    - cron: "30 2 * * *"
+    # 10:00 Beijing time is 02:00 UTC.
+    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       report_date:
