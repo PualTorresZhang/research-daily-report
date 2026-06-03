@@ -34,6 +34,10 @@
 
 ```bash
 export OPENAI_API_KEY="sk-..."
+export OPENAI_BASE_URL=""
+export LLM_API_KEY=""
+export LLM_BASE_URL=""
+export LLM_MODEL=""
 export FEISHU_WEBHOOK_URL="https://open.feishu.cn/open-apis/bot/v2/hook/..."
 export FEISHU_WEBHOOK_SECRET="可选，机器人启用签名校验时填写"
 export NEWS_API_KEY="可选，MVP 暂未默认使用"
@@ -41,7 +45,15 @@ export OPENAI_MODEL="gpt-4.1-mini"
 export REPORT_TIMEZONE="Asia/Shanghai"
 ```
 
-未配置 `OPENAI_API_KEY` 时，系统仍会生成一个可运行的降级版日报，但不会做深度合并与情报化改写。
+默认使用 OpenAI API。也可以改用兼容 OpenAI Chat Completions 格式的其他模型服务：
+
+```bash
+export LLM_API_KEY="其他服务商 API Key"
+export LLM_BASE_URL="https://api.example.com/v1"
+export LLM_MODEL="provider-model-name"
+```
+
+`LLM_*` 优先级高于 `OPENAI_*`。未配置任何可用 API key 时，系统仍会生成一个可运行的降级版日报，但不会做深度合并与情报化改写。
 
 ## 本地运行
 
@@ -180,14 +192,19 @@ export FEISHU_RECEIVE_ID_TYPE="email"
 1. 将项目推送到 GitHub 仓库。
 2. 在仓库 `Settings → Secrets and variables → Actions` 添加：
    - `OPENAI_API_KEY`
+   - 或者使用其他兼容模型：`LLM_API_KEY`
    - `FEISHU_WEBHOOK_URL`
    - `FEISHU_WEBHOOK_SECRET`，如需要
    - 或者使用应用机器人方式：`FEISHU_APP_ID`、`FEISHU_APP_SECRET`、`FEISHU_RECEIVE_ID`
    - `NEWS_API_KEY`，如后续扩展新闻 API
-3. 工作流 `.github/workflows/daily-report.yml` 已配置：
+3. 在仓库 Variables 中可选添加：
+   - `LLM_BASE_URL`
+   - `LLM_MODEL`
+   - `OPENAI_MODEL`
+4. 工作流 `.github/workflows/daily-report.yml` 已配置：
    - cron: `0 2 * * *`
    - 对应北京时间每天 `10:00`
-4. 也可以在 Actions 页面手动触发，并输入 `report_date`。
+5. 也可以在 Actions 页面手动触发，并输入 `report_date`。
 
 ## 本地 crontab 方案
 
