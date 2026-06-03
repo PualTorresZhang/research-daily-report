@@ -1,0 +1,142 @@
+sources:
+  - name: 新闻联播
+    category: 附：新闻联播
+    type: rss
+    url: https://news.cctv.com/rss/china.xml
+    enabled: true
+
+  - name: 新华社
+    category: 要闻
+    type: rss
+    url: http://www.news.cn/politics/news_politics.xml
+    enabled: true
+
+  - name: 国务院
+    category: 要闻
+    type: rss
+    url: https://www.gov.cn/pushinfo/v150203/pushinfo.xml
+    enabled: true
+
+  - name: 外交部
+    category: 涉外
+    type: web
+    url: https://www.mfa.gov.cn/web/wjdt_674879/
+    selector: a
+    include_url_patterns:
+      - "/web/wjdt_674879/"
+    enabled: true
+
+  - name: 商务部
+    category: 贸易科技战
+    type: web
+    url: https://www.mofcom.gov.cn/xwfb/
+    selector: a
+    include_url_patterns:
+      - "/xwfb/"
+    enabled: true
+
+  - name: 央行
+    category: 经济
+    type: web
+    url: http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/index.html
+    selector: a
+    include_url_patterns:
+      - "/goutongjiaoliu/113456/113469/"
+    enabled: true
+
+  - name: 国家发改委
+    category: 经济
+    type: web
+    url: https://www.ndrc.gov.cn/xwdt/xwfb/
+    selector: a
+    include_url_patterns:
+      - "/xwdt/xwfb/"
+    enabled: true
+
+  - name: 国台办
+    category: 涉台
+    type: web
+    url: http://www.gwytb.gov.cn/xwdt/
+    selector: a
+    include_url_patterns:
+      - "gwytb\\.gov\\.cn/.*/t20\\d{6}_"
+    enabled: true
+
+  - name: 中纪委国家监委
+    category: 反腐
+    type: rss
+    url: https://www.ccdi.gov.cn/rss.xml
+    enabled: true
+
+  - name: 财联社
+    category: 经济
+    type: rss
+    url: https://www.cls.cn/nodeapi/telegraphList
+    enabled: false
+
+  - name: 第一财经
+    category: 经济
+    type: rss
+    url: https://www.yicai.com/rss/
+    enabled: true
+
+  - name: Reuters China
+    category: 涉外
+    type: rss
+    url: https://www.reutersagency.com/feed/?best-topics=china&post_type=best
+    enabled: true
+
+  - name: BBC China
+    category: 热点地区
+    type: rss
+    url: https://feeds.bbci.co.uk/zhongwen/simp/rss.xml
+    enabled: true
+
+  - name: OpenAI News
+    category: 科技与产业
+    type: rss
+    url: https://openai.com/news/rss.xml
+    enabled: true
+
+  - name: Anthropic News
+    category: 科技与产业
+    type: rss
+    url: https://www.anthropic.com/news/rss.xml
+    enabled: true
+
+  - name: Google DeepMind Blog
+    category: 科技与产业
+    type: rss
+    url: https://deepmind.google/blog/rss.xml
+    enabled: true
+
+  - name: NVIDIA Newsroom
+    category: 科技与产业
+    type: rss
+    url: https://nvidianews.nvidia.com/news.rss
+    enabled: true
+
+  - name: Microsoft AI Blog
+    category: 科技与产业
+    type: rss
+    url: https://blogs.microsoft.com/ai/feed/
+    enabled: true
+
+  - name: Meta AI Blog
+    category: 科技与产业
+    type: rss
+    url: https://ai.meta.com/blog/rss/
+    enabled: true
+
+  - name: NewsAPI China AI
+    category: 科技与产业
+    type: api
+    url: https://newsapi.org/v2/everything?q=China%20AI&language=en&sortBy=publishedAt
+    enabled: false
+
+  - name: 手动补充
+    category: 要闻
+    type: manual
+    enabled: true
+    url: manual://items
+    items: []
