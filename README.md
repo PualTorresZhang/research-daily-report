@@ -38,6 +38,7 @@ export OPENAI_BASE_URL=""
 export LLM_API_KEY=""
 export LLM_BASE_URL=""
 export LLM_MODEL=""
+export LLM_MAX_TOKENS="12000"
 export FEISHU_WEBHOOK_URL="https://open.feishu.cn/open-apis/bot/v2/hook/..."
 export FEISHU_WEBHOOK_SECRET="可选，机器人启用签名校验时填写"
 export NEWS_API_KEY="可选，MVP 暂未默认使用"
@@ -51,6 +52,7 @@ export REPORT_TIMEZONE="Asia/Shanghai"
 export LLM_API_KEY="其他服务商 API Key"
 export LLM_BASE_URL="https://api.example.com/v1"
 export LLM_MODEL="provider-model-name"
+export LLM_MAX_TOKENS="12000"
 ```
 
 `LLM_*` 优先级高于 `OPENAI_*`。未配置任何可用 API key 时，系统仍会生成一个可运行的降级版日报，但不会做深度合并与情报化改写。
@@ -200,6 +202,7 @@ export FEISHU_RECEIVE_ID_TYPE="email"
 3. 在仓库 Variables 中可选添加：
    - `LLM_BASE_URL`
    - `LLM_MODEL`
+   - `LLM_MAX_TOKENS`，默认 `12000`
    - `OPENAI_MODEL`
 4. 工作流 `.github/workflows/daily-report.yml` 已配置：
    - cron: `0 2 * * *`

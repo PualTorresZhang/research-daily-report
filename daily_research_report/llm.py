@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 from collections import defaultdict
 from datetime import date
 
@@ -38,6 +39,7 @@ def generate_report(report_date: date, items: list[NewsItem], model: str | None 
     api_key = os.getenv("LLM_API_KEY") or os.getenv("OPENAI_API_KEY")
     base_url = os.getenv("LLM_BASE_URL") or os.getenv("OPENAI_BASE_URL")
     selected_model = model or os.getenv("LLM_MODEL") or os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
+    max_tokens = int(os.getenv("LLM_MAX_TOKENS", "12000"))
     if not api_key:
         return fallback_report(report_date, items)
 
@@ -80,9 +82,10 @@ def generate_report(report_date: date, items: list[NewsItem], model: str | None 
                 },
             ],
             temperature=0.2,
+            max_tokens=max_tokens,
         )
         content = response.choices[0].message.content or "{}"
-        return normalize_report(json.loads(content), report_date, items)
+        return normalize_report(load_json_content(content), report_date, items)
     except Exception as exc:  # noqa: BLE001
         LOGGER.warning("LLM generation failed, falling back to template report: %s", exc)
         return fallback_report(report_date, items)
@@ -113,6 +116,27 @@ def fallback_report(report_date: date, items: list[NewsItem]) -> dict:
         "index": index_items(items),
         "meta": {"llm_used": False},
     }
+
+
+def load_json_content(content: str) -> dict:
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError:
+        extracted = extract_json_object(content)
+        if extracted and extracted != content:
+            return json.loads(extracted)
+        raise
+
+
+def extract_json_object(content: str) -> str | None:
+    fenced = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", content, flags=re.DOTALL)
+    if fenced:
+        return fenced.group(1)
+    start = content.find("{")
+    end = content.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        return content[start : end + 1]
+    return None
 
 
 def normalize_report(report: dict, report_date: date, items: list[NewsItem]) -> dict:

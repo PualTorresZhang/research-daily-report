@@ -41,6 +41,7 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_MAX_TOKENS: ${{ vars.LLM_MAX_TOKENS || '12000' }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           FEISHU_WEBHOOK_SECRET: ${{ secrets.FEISHU_WEBHOOK_SECRET }}
