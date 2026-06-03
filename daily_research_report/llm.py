@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import logging
 import os
 from collections import defaultdict
 from datetime import date
@@ -8,6 +9,8 @@ from datetime import date
 from openai import OpenAI
 
 from daily_research_report.models import NewsItem
+
+LOGGER = logging.getLogger(__name__)
 
 SECTIONS = [
     "要闻",
@@ -58,24 +61,28 @@ def generate_report(report_date: date, items: list[NewsItem], model: str | None 
             ],
         },
     }
-    response = client.chat.completions.create(
-        model=model or os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
-        response_format={"type": "json_object"},
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {
-                "role": "user",
-                "content": (
-                    "请基于以下采集材料生成昨日研究院版日报。"
-                    "材料不足时不要硬凑；同一事件合并；每条新闻最多3个重点。\n"
-                    f"{json.dumps(payload, ensure_ascii=False)}"
-                ),
-            },
-        ],
-        temperature=0.2,
-    )
-    content = response.choices[0].message.content or "{}"
-    return normalize_report(json.loads(content), report_date, items)
+    try:
+        response = client.chat.completions.create(
+            model=model or os.getenv("OPENAI_MODEL", "gpt-4.1-mini"),
+            response_format={"type": "json_object"},
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {
+                    "role": "user",
+                    "content": (
+                        "请基于以下采集材料生成昨日研究院版日报。"
+                        "材料不足时不要硬凑；同一事件合并；每条新闻最多3个重点。\n"
+                        f"{json.dumps(payload, ensure_ascii=False)}"
+                    ),
+                },
+            ],
+            temperature=0.2,
+        )
+        content = response.choices[0].message.content or "{}"
+        return normalize_report(json.loads(content), report_date, items)
+    except Exception as exc:  # noqa: BLE001
+        LOGGER.warning("LLM generation failed, falling back to template report: %s", exc)
+        return fallback_report(report_date, items)
 
 
 def fallback_report(report_date: date, items: list[NewsItem]) -> dict:
@@ -139,4 +146,3 @@ def index_items(items: list[NewsItem]) -> list[dict]:
 
 def format_title(report_date: date) -> str:
     return f"研究院版日报｜{report_date.year}年{report_date.month}月{report_date.day}日"
-
