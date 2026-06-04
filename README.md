@@ -1,6 +1,6 @@
 # 研究院版日报自动生成与飞书推送系统
 
-每天北京时间 10:00 自动采集“昨日”新闻，生成研究院情报简报风格的 Markdown 与 HTML 日报，并通过飞书群机器人推送摘要。
+每天北京时间 10:07 自动采集“昨日”新闻，生成研究院情报简报风格的 Markdown 与 HTML 日报，并通过飞书群机器人推送摘要；10:22 设置一次兜底检查，若日报已存在则不重复推送。
 
 ## 项目结构
 
@@ -207,14 +207,16 @@ export FEISHU_RECEIVE_ID_TYPE="email"
    - `LLM_MAX_TOKENS`，默认 `12000`
    - `OPENAI_MODEL`
 4. 工作流 `.github/workflows/daily-report.yml` 已配置：
-   - cron: `0 2 * * *`
-   - 对应北京时间每天 `10:00`
+   - cron: `7 2 * * *`
+   - 对应北京时间每天 `10:07`
+   - cron: `22 2 * * *`
+   - 对应北京时间每天 `10:22` 兜底，若日报已存在则跳过
 5. 也可以在 Actions 页面手动触发，并输入 `report_date`。
 
 ## 本地 crontab 方案
 
 ```cron
-0 10 * * * cd /path/to/research-daily-report && /path/to/python -m daily_research_report.cli --push >> logs/daily.log 2>&1
+7 10 * * * cd /path/to/research-daily-report && /path/to/python -m daily_research_report.cli --push >> logs/daily.log 2>&1
 ```
 
 注意 crontab 的机器时区需要是北京时间；如果不是，请换算时间或设置 `TZ=Asia/Shanghai`。

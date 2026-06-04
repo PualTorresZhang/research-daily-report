@@ -2,8 +2,10 @@ name: Daily Research Report
 
 on:
   schedule:
-    # 10:00 Beijing time is 02:00 UTC.
-    - cron: "0 2 * * *"
+    # 10:07 Beijing time is 02:07 UTC. Avoid GitHub Actions top-of-hour load.
+    - cron: "7 2 * * *"
+    # 10:22 Beijing time fallback. It skips if the report already exists.
+    - cron: "22 2 * * *"
   workflow_dispatch:
     inputs:
       report_date:
@@ -56,6 +58,10 @@ jobs:
             REPORT_DATE="${{ github.event.inputs.report_date }}"
           else
             REPORT_DATE="$(TZ=Asia/Shanghai date -v-1d +%Y-%m-%d 2>/dev/null || TZ=Asia/Shanghai date -d yesterday +%Y-%m-%d)"
+          fi
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "reports/${REPORT_DATE}.html" ]; then
+            echo "reports/${REPORT_DATE}.html already exists; skip duplicate scheduled push."
+            exit 0
           fi
           REPORT_PUBLIC_URL="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/reports/${REPORT_DATE}.html?v=${{ github.run_id }}"
           python -m daily_research_report.cli --date "$REPORT_DATE" --push --public-url "$REPORT_PUBLIC_URL"
