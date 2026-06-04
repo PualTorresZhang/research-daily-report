@@ -290,9 +290,12 @@ def normalize_report(
     if compiler_context:
         report.setdefault("clusters", compiler_context.get("clusters", []))
         report.setdefault("candidates", compiler_context.get("candidates", []))
-        report.setdefault("quality_scores", compiler_context.get("quality_scores", {}))
-        report.setdefault("benchmark_eval", compiler_context.get("benchmark_eval", {}))
-        report.setdefault("top_issue_cards", top_issue_cards(compiler_context.get("clusters", [])))
+        if not isinstance(report.get("quality_scores"), dict):
+            report["quality_scores"] = compiler_context.get("quality_scores", {})
+        if not isinstance(report.get("benchmark_eval"), dict):
+            report["benchmark_eval"] = compiler_context.get("benchmark_eval", {})
+        if not isinstance(report.get("top_issue_cards"), list):
+            report["top_issue_cards"] = top_issue_cards(compiler_context.get("clusters", []))
         report["meta"].setdefault("pipeline_version", compiler_context.get("pipeline_version"))
     ensure_research_sections(report)
     apply_diagnostic_status(report, diagnostics)
