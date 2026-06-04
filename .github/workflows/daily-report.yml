@@ -44,6 +44,7 @@ jobs:
           LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
           LLM_MODEL: ${{ vars.LLM_MODEL }}
           LLM_MAX_TOKENS: ${{ vars.LLM_MAX_TOKENS || '12000' }}
+          LLM_TIMEOUT_SECONDS: ${{ vars.LLM_TIMEOUT_SECONDS || '90' }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4.1-mini' }}
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           FEISHU_WEBHOOK_SECRET: ${{ secrets.FEISHU_WEBHOOK_SECRET }}
@@ -53,6 +54,7 @@ jobs:
           FEISHU_RECEIVE_ID_TYPE: ${{ vars.FEISHU_RECEIVE_ID_TYPE || 'email' }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           REPORT_TIMEZONE: Asia/Shanghai
+        timeout-minutes: 8
         run: |
           if [ -n "${{ github.event.inputs.report_date }}" ]; then
             REPORT_DATE="${{ github.event.inputs.report_date }}"

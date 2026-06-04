@@ -47,10 +47,11 @@ def generate_report(
     base_url = os.getenv("LLM_BASE_URL") or os.getenv("OPENAI_BASE_URL")
     selected_model = model or os.getenv("LLM_MODEL") or os.getenv("OPENAI_MODEL", "gpt-4.1-mini")
     max_tokens = int(os.getenv("LLM_MAX_TOKENS", "12000"))
+    timeout_seconds = float(os.getenv("LLM_TIMEOUT_SECONDS", "90"))
     if not api_key:
         return fallback_report(report_date, items, diagnostics=diagnostics, compiler_context=compiler_context)
 
-    client = OpenAI(api_key=api_key, base_url=base_url)
+    client = OpenAI(api_key=api_key, base_url=base_url, timeout=timeout_seconds, max_retries=1)
     payload = {
         "report_date": report_date.isoformat(),
         "required_sections": SECTIONS,
@@ -101,6 +102,7 @@ def generate_report(
             temperature=0.2,
             max_tokens=max_tokens,
         )
+        LOGGER.info("LLM response received from %s", selected_model)
         content = response.choices[0].message.content or "{}"
         return normalize_report(
             load_json_content(content),
