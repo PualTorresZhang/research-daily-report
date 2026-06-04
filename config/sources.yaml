@@ -110,6 +110,16 @@ sources:
     require_date_from_url: true
     enabled: true
 
+  - name: 国防部
+    category: 涉台
+    type: web
+    url: http://www.mod.gov.cn/gfbw/qwfb/
+    selector: a
+    include_url_patterns:
+      - "mod\\.gov\\.cn/.*/content_"
+    require_date_from_url: false
+    enabled: true
+
   - name: 中纪委国家监委
     category: 反腐
     type: rss
@@ -123,6 +133,54 @@ sources:
     selector: a
     include_url_patterns:
       - "ccdi\\.gov\\.cn/.*/20\\d{6}/"
+    require_date_from_url: true
+    enabled: true
+
+  - name: 最高法
+    category: 要闻
+    type: web
+    url: https://www.court.gov.cn/
+    selector: a
+    include_url_patterns:
+      - "court\\.gov\\.cn/.*"
+    require_date_from_url: false
+    enabled: true
+
+  - name: 最高检
+    category: 要闻
+    type: web
+    url: https://www.spp.gov.cn/spp/jcxw/index.shtml
+    selector: a
+    include_url_patterns:
+      - "spp\\.gov\\.cn/.*"
+    require_date_from_url: false
+    enabled: true
+
+  - name: 中国新闻网
+    category: 要闻
+    type: rss
+    url: https://www.chinanews.com.cn/rss/scroll-news.xml
+    enabled: true
+
+  - name: 澎湃
+    category: 要闻
+    type: rss
+    url: https://www.thepaper.cn/rss_newsDetail.jsp
+    enabled: true
+
+  - name: 财新
+    category: 经济
+    type: rss
+    url: https://www.caixin.com/rss/
+    enabled: false
+
+  - name: 经济日报
+    category: 经济
+    type: web
+    url: http://www.ce.cn/xwzx/gnsz/gdxw/
+    selector: a
+    include_url_patterns:
+      - "ce\\.cn/.*20\\d{2}.*"
     require_date_from_url: true
     enabled: true
 
@@ -149,6 +207,24 @@ sources:
     type: rss
     url: https://www.ft.com/china?format=rss
     enabled: true
+
+  - name: Bloomberg
+    category: 涉外
+    type: rss
+    url: https://feeds.bloomberg.com/markets/news.rss
+    enabled: false
+
+  - name: AP
+    category: 涉外
+    type: rss
+    url: https://apnews.com/hub/china?output=rss
+    enabled: false
+
+  - name: Nikkei
+    category: 涉外
+    type: rss
+    url: https://asia.nikkei.com/rss/feed/nar
+    enabled: false
 
   - name: BBC China
     category: 热点地区

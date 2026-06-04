@@ -15,6 +15,8 @@ SOURCE_DAILY_CAPS = {
     "央行": 2,
     "CCTV新闻联播": 5,
     "FT China": 3,
+    "最高法": 5,
+    "最高检": 5,
 }
 
 SOURCE_PRIORITY = {
@@ -25,7 +27,10 @@ SOURCE_PRIORITY = {
     "国务院": "P0",
     "外交部": "P0",
     "国台办": "P0",
+    "国防部": "P0",
     "中纪委国家监委": "P0",
+    "最高法": "P0",
+    "最高检": "P0",
     "央行": "P0",
     "商务部": "P0",
     "国家发改委": "P0",
@@ -33,6 +38,10 @@ SOURCE_PRIORITY = {
     "证券时报": "P1",
     "第一财经": "P1",
     "界面新闻": "P1",
+    "中国新闻网": "P1",
+    "澎湃": "P1",
+    "财新": "P1",
+    "经济日报": "P1",
     "Reuters China": "P1",
     "FT": "P1",
     "FT China": "P1",
@@ -160,8 +169,10 @@ def classify_item(item: NewsItem, text: str) -> str:
     source = item.source_name
     if source in {"新闻联播", "CCTV新闻联播"}:
         return "附：新闻联播"
-    if source == "中纪委国家监委" or has_any(text, ("审查调查", "接受纪律审查", "监察调查", "处分", "违纪违法", "反腐")):
+    if source == "中纪委国家监委" or has_any(text, ("审查调查", "接受纪律审查", "监察调查", "处分", "违纪违法", "反腐", "双开", "公诉")):
         return "反腐"
+    if source in {"最高法", "最高检"}:
+        return "要闻"
     if source == "国台办" or has_any(text, ("台湾", "台海", "台独", "两岸", "民进党", "赖清德")):
         return "涉台"
     if has_any(text, AI_KEYWORDS):

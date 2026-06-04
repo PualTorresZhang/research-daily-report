@@ -11,6 +11,9 @@
       --muted: #52616b;
       --line: #d9e2ec;
       --accent: #0b5cad;
+      --accent-soft: #eef6ff;
+      --ok: #0f766e;
+      --warn: #b45309;
       --bg: #f7f9fb;
       --paper: #ffffff;
     }
@@ -22,7 +25,7 @@
       line-height: 1.68;
     }
     main {
-      max-width: 900px;
+      max-width: 980px;
       margin: 0 auto;
       padding: 40px 20px 64px;
       background: var(--paper);
@@ -42,6 +45,27 @@
       font-size: 20px;
       letter-spacing: 0;
     }
+    h2:nth-of-type(1) {
+      border-bottom-color: transparent;
+      color: var(--accent);
+    }
+    h2:nth-of-type(2) + ul {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 10px;
+      padding-left: 0;
+      list-style: none;
+    }
+    h2:nth-of-type(2) + ul li {
+      margin: 0;
+      padding: 12px 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--accent-soft);
+    }
+    h2:nth-of-type(3) + ul {
+      columns: 2;
+    }
     p {
       margin: 10px 0;
     }
@@ -50,6 +74,24 @@
     }
     li {
       margin: 6px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 14px 0 22px;
+      font-size: 14px;
+    }
+    th, td {
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #f1f5f9;
+    }
+    strong {
+      color: #172033;
     }
     a {
       color: var(--accent);
@@ -68,6 +110,9 @@
       h2 {
         font-size: 18px;
       }
+      h2:nth-of-type(3) + ul {
+        columns: 1;
+      }
     }
   </style>
 </head>
@@ -75,4 +120,3 @@
   <main>{{ body | safe }}</main>
 </body>
 </html>
-

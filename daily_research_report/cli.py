@@ -6,6 +6,7 @@ import os
 from pathlib import Path
 
 from daily_research_report.collectors import collect_sources
+from daily_research_report.compiler import build_compiler_context
 from daily_research_report.config import load_sources
 from daily_research_report.curation import curate_items
 from daily_research_report.dedup import deduplicate
@@ -51,13 +52,31 @@ def main() -> None:
         if not check.get("ok"):
             logging.warning("Mandatory check failed: %s", check["label"])
 
-    report = generate_report(report_date, items, diagnostics=curated.diagnostics)
-    md_path, html_path = write_report(
+    compiler_context = build_compiler_context(
+        report_date,
+        items,
+        diagnostics=curated.diagnostics,
+        raw_count=len(raw_items),
+        dedup_count=len(deduped_items),
+    )
+    logging.info(
+        "Built %s candidates and %s issue clusters",
+        len(compiler_context.get("candidates", [])),
+        len(compiler_context.get("clusters", [])),
+    )
+
+    report = generate_report(
+        report_date,
+        items,
+        diagnostics=curated.diagnostics,
+        compiler_context=compiler_context,
+    )
+    md_path, html_path, json_path = write_report(
         report,
         output_dir=Path(args.output_dir),
         template_dir=Path(args.template_dir),
     )
-    logging.info("Wrote %s and %s", md_path, html_path)
+    logging.info("Wrote %s, %s and %s", md_path, html_path, json_path)
 
     if args.push:
         ok = push_report(report["title"], md_path, html_path, public_url=args.public_url)
