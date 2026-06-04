@@ -11,6 +11,9 @@
       --muted: #52616b;
       --line: #d9e2ec;
       --accent: #0b5cad;
+      --accent-soft: #eef6ff;
+      --ok: #0f766e;
+      --warn: #b45309;
       --bg: #f7f9fb;
       --paper: #ffffff;
     }
@@ -22,7 +25,7 @@
       line-height: 1.68;
     }
     main {
-      max-width: 900px;
+      max-width: 980px;
       margin: 0 auto;
       padding: 40px 20px 64px;
       background: var(--paper);
@@ -42,6 +45,27 @@
       font-size: 20px;
       letter-spacing: 0;
     }
+    h2:nth-of-type(1) {
+      border-bottom-color: transparent;
+      color: var(--accent);
+    }
+    h2:nth-of-type(2) + ul {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 10px;
+      padding-left: 0;
+      list-style: none;
+    }
+    h2:nth-of-type(2) + ul li {
+      margin: 0;
+      padding: 12px 14px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--accent-soft);
+    }
+    h2:nth-of-type(3) + ul {
+      columns: 2;
+    }
     p {
       margin: 10px 0;
     }
@@ -50,6 +74,24 @@
     }
     li {
       margin: 6px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 14px 0 22px;
+      font-size: 14px;
+    }
+    th, td {
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: #f1f5f9;
+    }
+    strong {
+      color: #172033;
     }
     a {
       color: var(--accent);
@@ -68,282 +110,273 @@
       h2 {
         font-size: 18px;
       }
+      h2:nth-of-type(3) + ul {
+        columns: 1;
+      }
     }
   </style>
 </head>
 <body>
   <main><h1>研究院版日报｜2026年6月3日</h1>
-<h2>一、要闻</h2>
+<h2>今日总判断</h2>
+<p>今日重点集中在涉台政治相关议题：国台办：欢迎台湾业者参与大陆微短剧创作、涉台政治相关议题：国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒、外交部：斯威士兰与“台独”分裂势力捆绑没有前途。该判断来自结构化议题簇，未调用 LLM 深度改写。</p>
+<h2>重点议题卡片</h2>
+<ul>
+<li><strong>涉台政治相关议题：国台办：欢迎台湾业者参与大陆微短剧创作</strong>（C007）：同一对象国家/地区与议题类型。 聚合键：台湾:涉台政治；包含3条候选。</li>
+<li><strong>涉台政治相关议题：国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒</strong>（C008）：同一对象国家/地区与议题类型。 聚合键：国台办:涉台政治；包含6条候选。</li>
+<li><strong>外交部：斯威士兰与“台独”分裂势力捆绑没有前途</strong>（C009）：单条高优先级候选，暂无可交叉合并来源。</li>
+<li><strong>黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03</strong>（C006）：单条高优先级候选，暂无可交叉合并来源。</li>
+<li><strong>宏观与市场相关议题：郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议</strong>（C014）：同一宏观政策、市场数据或监管链条。 聚合键：宏观与市场；包含3条候选。</li>
+</ul>
+<h2>栏目目录</h2>
+<ul>
+<li>高层与政策</li>
+<li>组织人事</li>
+<li>反腐政法</li>
+<li>涉台涉外</li>
+<li>AI与科技产业</li>
+<li>宏观与市场</li>
+<li>地方与社会治理</li>
+</ul>
+<h2>一、高层与政策</h2>
 <ol>
-<li>国务院当天发布（未成功抓取）</li>
+<li>超员载客、违法载人事故频发 公安部交管局发出提示</li>
 </ol>
-<p>事件：根据诊断信息，国务院当天发布内容未成功抓取，需人工复核。</p>
-<p>重点：
-- 未成功抓取
-- 需人工复核</p>
-<p>观察：</p>
-<p>来源：</p>
+<p>【事实】超员载客、违法载人事故频发 公安部交管局发出提示</p>
+<p>【背景/补充】 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
+<p>来源：
+- <a href="https://www.news.cn/legal/20260603/b3235794e730454cb8453239baad73f0/c.html">B｜新华社</a></p>
 <ol start="2">
 <li>广电总局部署微短剧有害低俗和侵权盗版专项治理</li>
 </ol>
-<p>事件：国家广播电视总局部署针对微短剧的有害低俗和侵权盗版专项治理工作。</p>
-<p>重点：
-- 专项治理
-- 微短剧
-- 有害低俗</p>
-<p>观察：表明监管部门对微短剧内容进一步收紧。</p>
+<p>【事实】广电总局部署微短剧有害低俗和侵权盗版专项治理</p>
+<p>【背景/补充】 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="http://www.news.cn/politics/20260603/03921dff52f34f6f922c85fec19b0f04/c.html">新华社</a></p>
+- <a href="http://www.news.cn/politics/20260603/03921dff52f34f6f922c85fec19b0f04/c.html">B｜新华社</a></p>
 <ol start="3">
-<li>天津集中销毁毒品90余公斤</li>
+<li>政策相关议题：完整版 《新闻联播》 20260603 19:00</li>
 </ol>
-<p>事件：天津集中销毁毒品90余公斤，展现禁毒成果。</p>
-<p>重点：
-- 集中销毁
-- 毒品
-- 90余公斤</p>
-<p>观察：</p>
+<p>【事实】完整版 《新闻联播》 20260603 19:00；完整版 [视频]长线外资看好中国 持续加码硬科技；完整版 [视频]美丽中国行</p>
+<p>【背景/补充】 聚合依据：同一政策链条或高层活动。 聚合键：政策；包含6条候选。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://www.news.cn/legal/20260603/97435f11113b4173a1cfe13d52a2c84e/c.html">新华社</a></p>
+- <a href="https://tv.cctv.com/2026/06/03/VIDEojsgGEibjPsOWHRkLbD9260603.shtml">B｜CCTV新闻联播</a>
+- <a href="https://tv.cctv.com/2026/06/03/VIDEnQmSxBxX3dGH3OvBzvMO260603.shtml">B｜CCTV新闻联播</a>
+- <a href="https://tv.cctv.com/2026/06/03/VIDEqoRiuGdRYqjYZnUgU5pk260603.shtml">B｜CCTV新闻联播</a>
+- <a href="https://www.news.cn/legal/20260603/97435f11113b4173a1cfe13d52a2c84e/c.html">B｜新华社</a>
+- <a href="https://www.news.cn/legal/20260603/c6215b0ae5ca4034aaa7c313cc6ea6d0/c.html">B｜新华社</a>
+- <a href="https://www.news.cn/legal/20260603/b3c50f4cd1d84abcb424c5de251b0b7a/c.html">B｜新华社</a></p>
 <ol start="4">
-<li>国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用</li>
+<li>完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开</li>
 </ol>
-<p>事件：国家计算机病毒应急处理中心检测发现71款移动应用存在违法违规收集使用个人信息行为。</p>
-<p>重点：
-- 71款应用
-- 个人信息
-- 违法违规</p>
-<p>观察：个人信息保护执法持续加强。</p>
+<p>【事实】完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开</p>
+<p>【背景/补充】 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://www.news.cn/legal/20260603/c6215b0ae5ca4034aaa7c313cc6ea6d0/c.html">新华社</a></p>
+- <a href="https://tv.cctv.com/2026/06/03/VIDEQXFWsXC4bU1SHI1PM19k260603.shtml">B｜CCTV新闻联播</a></p>
 <ol start="5">
-<li>一名潜逃境外10余年的经济犯罪嫌疑人被押解回国</li>
+<li>完整版 [视频]韩正会见下任联合国秘书长候选人</li>
 </ol>
-<p>事件：一名潜逃境外10余年的经济犯罪嫌疑人被成功押解回国。</p>
-<p>重点：
-- 潜逃10余年
-- 押解回国
-- 经济犯罪</p>
-<p>观察：</p>
+<p>【事实】完整版 [视频]韩正会见下任联合国秘书长候选人</p>
+<p>【背景/补充】 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://www.news.cn/legal/20260603/b3c50f4cd1d84abcb424c5de251b0b7a/c.html">新华社</a></p>
-<h2>二、经济</h2>
+- <a href="https://tv.cctv.com/2026/06/03/VIDEbn9MvDZ7qpDQFgYm0jKV260603.shtml">B｜CCTV新闻联播</a></p>
+<h2>二、组织人事</h2>
+<p>未见重大新增。</p>
+<h2>三、反腐政法</h2>
 <ol>
-<li>郑栅洁主任主持召开国有企业座谈会</li>
+<li>黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03</li>
 </ol>
-<p>事件：国家发改委主任郑栅洁主持召开国有企业座谈会，围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议。</p>
-<p>重点：
-- 国有企业座谈会
-- 深化国资国企改革
-- 服务国家战略</p>
-<p>观察：显示中央层面推动国企改革和战略布局的持续力度。</p>
+<p>【事实】黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03</p>
+<p>【背景/补充】阶段：公诉。 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260603_1405679.html">国家发改委</a></p>
+- <a href="https://www.spp.gov.cn/spp/qwfb/202606/t20260603_728792.shtml">A｜最高检</a></p>
+<h2>四、涉台涉外</h2>
+<ol>
+<li>涉台政治相关议题：国台办：欢迎台湾业者参与大陆微短剧创作</li>
+</ol>
+<p>【事实】国台办：欢迎台湾业者参与大陆微短剧创作；国台办：台湾前途在于两岸关系和平发展和国家统一；国台办：会有更多台湾同胞充分认识“一国两制”优越性</p>
+<p>【背景/补充】对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：同一对象国家/地区与议题类型。 聚合键：台湾:涉台政治；包含3条候选。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
+<p>来源：
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769126.htm">A｜国台办</a>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769125.htm">A｜国台办</a>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769129.htm">A｜国台办</a></p>
 <ol start="2">
-<li>央行副行长陶玲出席中国互联网金融协会十周年工作座谈会</li>
+<li>涉台政治相关议题：国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒</li>
 </ol>
-<p>事件：中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会。</p>
-<p>重点：
-- 互联网金融协会
-- 十周年
-- 座谈会</p>
-<p>观察：</p>
+<p>【事实】国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒；国台办：第十八届海峡论坛将于6月中旬在福建举办；国台办：民进党当局跪美卖台且自欺欺人</p>
+<p>【背景/补充】对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：同一对象国家/地区与议题类型。 聚合键：国台办:涉台政治；包含6条候选。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314191251365/index.html">央行</a></p>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769128.htm">A｜国台办</a>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769130.htm">A｜国台办</a>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769127.htm">A｜国台办</a>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769124.htm">A｜国台办</a>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769123.htm">A｜国台办</a>
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769122.htm">A｜国台办</a></p>
 <ol start="3">
-<li>央行副行长邹澜出席上合组织成员国财长和央行行长会议</li>
+<li>外交部：斯威士兰与“台独”分裂势力捆绑没有前途</li>
 </ol>
-<p>事件：中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议。</p>
-<p>重点：
-- 上合组织
-- 财长和央行行长会议
-- 金融合作</p>
-<p>观察：</p>
+<p>【事实】外交部：斯威士兰与“台独”分裂势力捆绑没有前途</p>
+<p>【背景/补充】对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314175989980/index.html">央行</a></p>
-<h2>三、科技与产业</h2>
+- <a href="https://www.gwytb.gov.cn/bmst/202606/t20260603_12769146.htm">A｜国台办</a></p>
+<ol start="4">
+<li>区域风险相关议题：国务院台办新闻发布会辑录（2026-06-03）</li>
+</ol>
+<p>【事实】国务院台办新闻发布会辑录（2026-06-03）；兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照；「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？</p>
+<p>【背景/补充】对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含5条候选。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
+<p>来源：
+- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm">A｜国台办</a>
+- <a href="https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&amp;at_campaign=rss">C｜BBC China</a>
+- <a href="https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&amp;at_campaign=rss">C｜BBC China</a>
+- <a href="https://www.ft.com/content/1056546f-7239-4b67-b040-0b6aa4f5fb58">C｜FT China</a>
+- <a href="https://www.ft.com/content/b8478a33-f173-4fc0-9070-85f9c0f74909">C｜FT China</a></p>
+<ol start="5">
+<li>Chinese investors fear missing out on SpaceX IPO after crackdown</li>
+</ol>
+<p>【事实】Chinese investors fear missing out on SpaceX IPO after crackdown</p>
+<p>【背景/补充】对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
+<p>来源：
+- <a href="https://www.ft.com/content/159a6df9-4f4f-4d69-8d3c-5fd893492a9d">C｜FT China</a></p>
+<h2>五、AI与科技产业</h2>
 <ol>
 <li>黑龙江北大荒开展无人机AI田间苗情查验</li>
 </ol>
-<p>事件：黑龙江北大荒农垦集团利用无人机搭载AI系统进行田间苗情查验，提升农业效率。</p>
-<p>重点：
-- 无人机
-- AI
-- 田间苗情</p>
-<p>观察：AI赋能农业精细化管理的典型案例。</p>
+<p>【事实】黑龙江北大荒开展无人机AI田间苗情查验</p>
+<p>【背景/补充】按政策牵引、产业落地、治理风险、出海竞争归纳，普通企业案例降权。 聚合依据：单条高优先级候选，暂无可交叉合并来源。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://www.news.cn/photo/20260603/1fc6a585d2004d0e96aaec1b0bfb445d/c.html">新华社</a></p>
+- <a href="https://www.news.cn/photo/20260603/1fc6a585d2004d0e96aaec1b0bfb445d/c.html">B｜新华社</a></p>
 <ol start="2">
-<li>OpenAI推出GPT-Rosalind新能力：增强生命科学研究</li>
+<li>产业落地相关议题：Introducing new capabilities to GPT-Rosalind</li>
 </ol>
-<p>事件：OpenAI宣布GPT-Rosalind新增生物学推理、药物化学、基因组学分析及实验工作流等能力，旨在加速生命科学研究。</p>
-<p>重点：
-- GPT-Rosalind
-- 生命科学
-- 新能力</p>
-<p>观察：AI在专业科研领域渗透深化，GPT-Rosalind可能成为药物发现和基因组学的重要工具。</p>
+<p>【事实】Introducing new capabilities to GPT-Rosalind；How Wasmer used Codex to build a Node.js runtime for the edge</p>
+<p>【背景/补充】按政策牵引、产业落地、治理风险、出海竞争归纳，普通企业案例降权。 聚合依据：同一AI/产业链条，按政策牵引、产业落地、治理风险、出海竞争归纳。 聚合键：产业落地:产业落地；包含2条候选。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind">OpenAI News</a></p>
-<ol start="3">
-<li>Wasmer利用OpenAI Codex构建Edge Node.js运行时</li>
-</ol>
-<p>事件：Wasmer使用OpenAI Codex（基于GPT-5.5）构建Node.js边缘运行时，开发效率提升10-20倍，数周内完成交付。</p>
-<p>重点：
-- Codex
-- 边缘计算
-- Node.js运行时</p>
-<p>观察：AI辅助编程在边缘基础设施领域展示出显著效率优势。</p>
-<p>来源：
-- <a href="https://openai.com/index/wasmer">OpenAI News</a></p>
-<h2>四、涉台</h2>
+- <a href="https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind">C｜OpenAI News</a>
+- <a href="https://openai.com/index/wasmer">C｜OpenAI News</a></p>
+<h2>六、宏观与市场</h2>
 <ol>
-<li>国台办：第十八届海峡论坛将于6月中旬在福建举办</li>
+<li>宏观与市场相关议题：郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议</li>
 </ol>
-<p>事件：国台办宣布第十八届海峡论坛将于6月中旬在福建举办，体现两岸民间交流持续。</p>
-<p>重点：
-- 海峡论坛
-- 福建
-- 6月中旬</p>
-<p>观察：</p>
+<p>【事实】郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议；中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会；中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议</p>
+<p>【背景/补充】 聚合依据：同一宏观政策、市场数据或监管链条。 聚合键：宏观与市场；包含3条候选。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769130.htm">国台办</a></p>
-<ol start="2">
-<li>国台办回应赖清德当局抹黑大陆社交软件</li>
-</ol>
-<p>事件：国台办表示赖清德当局抹黑大陆社交软件表明其心虚胆寒，并批驳民进党当局跪美卖台、自欺欺人。同时重申台湾前途在于两岸关系和平发展和国家统一，强调“一国两制”优越性。</p>
-<p>重点：
-- 赖清德当局
-- 大陆社交软件
-- 民进党跪美卖台
-- 一国两制</p>
-<p>观察：针对赖清德当局言论进行系统性批驳，展现对台政策连续性。</p>
-<p>来源：
-- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769128.htm">国台办</a>
-- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769127.htm">国台办</a>
-- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769129.htm">国台办</a></p>
-<ol start="3">
-<li>国台办：大陆海警在相关海域执法巡查是正常履职行为</li>
-</ol>
-<p>事件：国台办回应大陆海警在相关海域执法巡查，强调是正常履职行为，并未直接提及具体事件。</p>
-<p>重点：
-- 海警执法
-- 正常履职</p>
-<p>观察：</p>
-<p>来源：
-- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769123.htm">国台办</a></p>
-<ol start="4">
-<li>国台办：欢迎台湾业者参与大陆微短剧创作；“闽超”推出对台系列活动</li>
-</ol>
-<p>事件：国台办表示欢迎台湾业者参与大陆微短剧创作，并介绍福建省“闽超”品牌推出对台系列活动，助力两岸融合发展示范区建设。</p>
-<p>重点：
-- 微短剧
-- 台湾业者
-- 闽超
-- 融合发展示范区</p>
-<p>观察：文化领域融合措施进一步细化。</p>
-<p>来源：
-- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769126.htm">国台办</a>
-- <a href="https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769122.htm">国台办</a></p>
-<h2>五、贸易科技战</h2>
-<p>昨日无重大增量。</p>
-<h2>六、涉外</h2>
+- <a href="https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260603_1405679.html">A｜国家发改委</a>
+- <a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314191251365/index.html">A｜央行</a>
+- <a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314175989980/index.html">A｜央行</a></p>
+<h2>七、地方与社会治理</h2>
 <ol>
-<li>外交部例行记者会（未成功抓取）</li>
+<li>P0相关议题：第二十七届全国检察理论研究年会在广西南宁召开</li>
 </ol>
-<p>事件：根据诊断信息，外交部例行记者会内容未成功抓取，需人工复核。</p>
-<p>重点：
-- 未成功抓取
-- 需人工复核</p>
-<p>观察：</p>
-<p>来源：</p>
-<ol start="2">
-<li>欧盟公布提升数字主权的全面计划</li>
-</ol>
-<p>事件：欧盟委员会公布一项全面计划，旨在增强欧洲数字主权，减少对外部技术依赖。</p>
-<p>重点：
-- 欧盟
-- 数字主权
-- 全面计划</p>
-<p>观察：欧盟在数字领域自主化进程加速，可能影响中美科技企业欧洲业务。</p>
+<p>【事实】第二十七届全国检察理论研究年会在广西南宁召开；重大犯罪检察；邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面</p>
+<p>【背景/补充】 聚合依据：同一社会治理议题。 聚合键：P0；包含9条候选。</p>
+<p>【观察】该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。</p>
+<p>【后续跟踪】关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。</p>
 <p>来源：
-- <a href="https://www.ft.com/content/1056546f-7239-4b67-b040-0b6aa4f5fb58">FT China</a></p>
-<ol start="3">
-<li>FT书评：《大国回归》——‘强权即公理’世界秩序的危险</li>
-</ol>
-<p>事件：《金融时报》书评探讨布伦丹·西姆斯新书《大国回归》，警告美中俄竞争下战争风险。</p>
-<p>重点：
-- 大国竞争
-- 战争风险
-- 书评</p>
-<p>观察：折射西方学术界对当前国际秩序恶化的担忧。</p>
-<p>来源：
-- <a href="https://www.ft.com/content/b8478a33-f173-4fc0-9070-85f9c0f74909">FT China</a></p>
-<ol start="4">
-<li>中国投资者担忧错过SpaceX IPO，监管层警告资本外流</li>
-</ol>
-<p>事件：据FT报道，中国投资者担心错过SpaceX的IPO，但同时中国监管层警告券商不得违规推介海外股份销售，担心资本外流。</p>
-<p>重点：
-- SpaceX IPO
-- 资本外流
-- 监管警告</p>
-<p>观察：显示中国资本管制与投资者海外配置需求之间的张力。</p>
-<p>来源：
-- <a href="https://www.ft.com/content/159a6df9-4f4f-4d69-8d3c-5fd893492a9d">FT China</a></p>
-<h2>七、热点地区</h2>
+- <a href="https://www.spp.gov.cn/tt/202606/t20260603_728823.shtml">A｜最高检</a>
+- <a href="https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml">A｜最高检</a>
+- <a href="https://www.court.gov.cn/zixun/xiangqing/501641.html">A｜最高法</a>
+- <a href="https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml">A｜最高检</a>
+- <a href="https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml">A｜最高检</a>
+- <a href="https://www.court.gov.cn/zixun/xiangqing/500991.html">A｜最高法</a>
+- <a href="https://www.court.gov.cn/xinshidai/xiangqing/501621.html">A｜最高法</a>
+- <a href="http://mail.court.gov.cn/">A｜最高法</a>
+- <a href="https://www.court.gov.cn/zixun/xiangqing/497241.html">A｜最高法</a></p>
+<h2>八、质量自检表</h2>
+<table>
+<thead>
+<tr>
+<th>指标</th>
+<th>结果</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>官方源覆盖率</td>
+<td>50%</td>
+</tr>
+<tr>
+<td>组织人事覆盖</td>
+<td>0%</td>
+</tr>
+<tr>
+<td>反腐政法覆盖</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>涉台涉外覆盖</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>AI栏目质量</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>链接可验证率</td>
+<td>100%</td>
+</tr>
+<tr>
+<td>议题簇合并率</td>
+<td>47%</td>
+</tr>
+<tr>
+<td>重复新闻率</td>
+<td>3%</td>
+</tr>
+<tr>
+<td>低价值资讯占比</td>
+<td>0%</td>
+</tr>
+<tr>
+<td>硬性检查通过数</td>
+<td>3/6</td>
+</tr>
+<tr>
+<td>说明</td>
+<td>议题簇合并率低于60%时，应优先补充外部校验源或手动源，避免单条新闻改写。</td>
+</tr>
+</tbody>
+</table>
+<h2>九、人工版 Benchmark 差距</h2>
+<ul>
+<li>覆盖率：30%</li>
+<li>未覆盖议题：高考保障与基础教育、十四五经济社会发展成就、二手房成交修复、太空算力产业、中国大模型与企业Agent、美国AI安全监管、郑丽文访美、强迫劳动关税、欧盟技术主权、所罗门安全协议、中日航班与日本防务、中菲摩擦</li>
+<li>稳定栏目缺口：组织人事</li>
+<li>说明：自动版应重点补齐人工版中的跨源合并、背景链条和组织人事/反腐/涉台/AI稳定覆盖。</li>
+</ul>
+<h2>十、原文索引</h2>
 <ol>
-<li>两岸跨境器官买卖链：台湾名医涉非法仲介病人赴大陆换肝换肾遭废照</li>
-</ol>
-<p>事件：BBC报道台湾知名肝病医生陈尧俐涉嫌与大陆医疗人员合作，长期仲介台湾病患到大陆接受器官移植，收取高额费用，已被吊销执照。案件揭露两岸近20年跨境器官买卖链。</p>
-<p>重点：
-- 器官买卖
-- 两岸跨境
-- 台医废照
-- 未必经官方确认</p>
-<p>观察：事件可能进一步影响两岸医疗合作声誉，大陆方面需回应是否参与查处。</p>
-<p>来源：
-- <a href="https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&amp;at_campaign=rss">BBC China</a></p>
-<ol start="2">
-<li>高雄转型“演唱会之都”：亚洲追星族改变城市面貌</li>
-</ol>
-<p>事件：BBC报道高雄市政府通过主题灯光、捷运广播、夜市券等措施，将港口重工业城市转型为亚洲歌迷喜爱的“演唱会之都”，但经济效益可持续性存疑。</p>
-<p>重点：
-- 高雄
-- 演唱会经济
-- 城市转型</p>
-<p>观察：高雄转型案例可作为城市文旅发展的参考，但需警惕泡沫风险。</p>
-<p>来源：
-- <a href="https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&amp;at_campaign=rss">BBC China</a></p>
-<h2>八、人事</h2>
-<p>昨日无重大增量。</p>
-<h2>九、反腐</h2>
-<ol>
-<li>中纪委当天通报（未成功抓取）</li>
-</ol>
-<p>事件：根据诊断信息，中纪委当天通报内容未成功抓取，需人工复核。</p>
-<p>重点：
-- 未成功抓取
-- 需人工复核</p>
-<p>观察：</p>
-<p>来源：</p>
-<h2>十、附：新闻联播</h2>
-<ol>
-<li>新闻联播摘要（2026年6月3日）</li>
-</ol>
-<p>事件：主要内容包括：新思想引领新征程——西部陆海新通道跑出高水平对外开放‘加速度’；丁薛祥在云南调研；韩正会见下任联合国秘书长候选人；树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开；长线外资看好中国、持续加码硬科技；美丽中国行等。</p>
-<p>重点：
-- 西部陆海新通道
-- 丁薛祥云南调研
-- 韩正会见
-- 正确政绩观
-- 外资看多硬科技</p>
-<p>观察：新闻联播重点突出对外开放、干部教育及外资信心。</p>
-<p>来源：
-- <a href="https://tv.cctv.com/2026/06/03/VIDEojsgGEibjPsOWHRkLbD9260603.shtml">CCTV新闻联播</a></p>
-<h2>十一、原文索引</h2>
-<ol>
+<li><a href="https://www.spp.gov.cn/spp/qwfb/202606/t20260603_728792.shtml">黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03</a>（最高检｜反腐）</li>
 <li><a href="https://www.news.cn/photo/20260603/1fc6a585d2004d0e96aaec1b0bfb445d/c.html">黑龙江北大荒开展无人机AI田间苗情查验</a>（新华社｜科技与产业）</li>
 <li><a href="https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260603_1405679.html">郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议</a>（国家发改委｜经济）</li>
 <li><a href="https://www.news.cn/legal/20260603/b3235794e730454cb8453239baad73f0/c.html">超员载客、违法载人事故频发 公安部交管局发出提示</a>（新华社｜人事）</li>
+<li><a href="https://www.spp.gov.cn/tt/202606/t20260603_728823.shtml">第二十七届全国检察理论研究年会在广西南宁召开</a>（最高检｜要闻）</li>
 <li><a href="http://www.news.cn/politics/20260603/03921dff52f34f6f922c85fec19b0f04/c.html">广电总局部署微短剧有害低俗和侵权盗版专项治理</a>（新华社｜要闻）</li>
 <li><a href="https://tv.cctv.com/2026/06/03/VIDEojsgGEibjPsOWHRkLbD9260603.shtml">完整版 《新闻联播》 20260603 19:00</a>（CCTV新闻联播｜附：新闻联播）</li>
 <li><a href="https://tv.cctv.com/2026/06/03/VIDEbn9MvDZ7qpDQFgYm0jKV260603.shtml">完整版 [视频]韩正会见下任联合国秘书长候选人</a>（CCTV新闻联播｜附：新闻联播）</li>
@@ -366,6 +399,14 @@
 <li><a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314191251365/index.html">中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会</a>（央行｜经济）</li>
 <li><a href="http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314175989980/index.html">中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议</a>（央行｜经济）</li>
 <li><a href="https://www.news.cn/legal/20260603/b3c50f4cd1d84abcb424c5de251b0b7a/c.html">一名潜逃境外10余年的经济犯罪嫌疑人被押解回国</a>（新华社｜要闻）</li>
+<li><a href="https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml">重大犯罪检察</a>（最高检｜要闻）</li>
+<li><a href="https://www.court.gov.cn/zixun/xiangqing/501641.html">邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面</a>（最高法｜要闻）</li>
+<li><a href="https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml">职务犯罪检察</a>（最高检｜要闻）</li>
+<li><a href="https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml">经济犯罪检察</a>（最高检｜要闻）</li>
+<li><a href="https://www.court.gov.cn/zixun/xiangqing/500991.html">第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本</a>（最高法｜要闻）</li>
+<li><a href="https://www.court.gov.cn/xinshidai/xiangqing/501621.html">第一观察丨总书记寄望红色基因薪火相传</a>（最高法｜要闻）</li>
+<li><a href="http://mail.court.gov.cn/">登录邮箱系统</a>（最高法｜要闻）</li>
+<li><a href="https://www.court.gov.cn/zixun/xiangqing/497241.html">最高法研判会商2026年第一季度司法审判数据 张军强...</a>（最高法｜要闻）</li>
 <li><a href="https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&amp;at_campaign=rss">兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照</a>（BBC China｜热点地区）</li>
 <li><a href="https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&amp;at_campaign=rss">「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？</a>（BBC China｜热点地区）</li>
 <li><a href="https://www.ft.com/content/1056546f-7239-4b67-b040-0b6aa4f5fb58">Brussels unveils sweeping plan to boost Europe’s digital sovereignty</a>（FT China｜涉外）</li>

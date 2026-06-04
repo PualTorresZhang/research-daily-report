@@ -1,0 +1,2535 @@
+{
+  "title": "研究院版日报｜2026年6月3日",
+  "daily_judgment": "今日重点集中在涉台政治相关议题：国台办：欢迎台湾业者参与大陆微短剧创作、涉台政治相关议题：国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒、外交部：斯威士兰与“台独”分裂势力捆绑没有前途。该判断来自结构化议题簇，未调用 LLM 深度改写。",
+  "top_issue_cards": [
+    {
+      "cluster_id": "C007",
+      "title": "涉台政治相关议题：国台办：欢迎台湾业者参与大陆微短剧创作",
+      "why_it_matters": "同一对象国家/地区与议题类型。 聚合键：台湾:涉台政治；包含3条候选。"
+    },
+    {
+      "cluster_id": "C008",
+      "title": "涉台政治相关议题：国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒",
+      "why_it_matters": "同一对象国家/地区与议题类型。 聚合键：国台办:涉台政治；包含6条候选。"
+    },
+    {
+      "cluster_id": "C009",
+      "title": "外交部：斯威士兰与“台独”分裂势力捆绑没有前途",
+      "why_it_matters": "单条高优先级候选，暂无可交叉合并来源。"
+    },
+    {
+      "cluster_id": "C006",
+      "title": "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03",
+      "why_it_matters": "单条高优先级候选，暂无可交叉合并来源。"
+    },
+    {
+      "cluster_id": "C014",
+      "title": "宏观与市场相关议题：郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议",
+      "why_it_matters": "同一宏观政策、市场数据或监管链条。 聚合键：宏观与市场；包含3条候选。"
+    }
+  ],
+  "sections": [
+    {
+      "name": "高层与政策",
+      "items": [
+        {
+          "cluster_id": "C001",
+          "title": "超员载客、违法载人事故频发 公安部交管局发出提示",
+          "facts": "超员载客、违法载人事故频发 公安部交管局发出提示",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/legal/20260603/b3235794e730454cb8453239baad73f0/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        },
+        {
+          "cluster_id": "C002",
+          "title": "广电总局部署微短剧有害低俗和侵权盗版专项治理",
+          "facts": "广电总局部署微短剧有害低俗和侵权盗版专项治理",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "http://www.news.cn/politics/20260603/03921dff52f34f6f922c85fec19b0f04/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        },
+        {
+          "cluster_id": "C003",
+          "title": "政策相关议题：完整版 《新闻联播》 20260603 19:00",
+          "facts": "完整版 《新闻联播》 20260603 19:00；完整版 [视频]长线外资看好中国 持续加码硬科技；完整版 [视频]美丽中国行",
+          "background": " 聚合依据：同一政策链条或高层活动。 聚合键：政策；包含6条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/03/VIDEojsgGEibjPsOWHRkLbD9260603.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/03/VIDEnQmSxBxX3dGH3OvBzvMO260603.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/03/VIDEqoRiuGdRYqjYZnUgU5pk260603.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/legal/20260603/97435f11113b4173a1cfe13d52a2c84e/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/legal/20260603/c6215b0ae5ca4034aaa7c313cc6ea6d0/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/legal/20260603/b3c50f4cd1d84abcb424c5de251b0b7a/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        },
+        {
+          "cluster_id": "C004",
+          "title": "完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开",
+          "facts": "完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/03/VIDEQXFWsXC4bU1SHI1PM19k260603.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        },
+        {
+          "cluster_id": "C005",
+          "title": "完整版 [视频]韩正会见下任联合国秘书长候选人",
+          "facts": "完整版 [视频]韩正会见下任联合国秘书长候选人",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/03/VIDEbn9MvDZ7qpDQFgYm0jKV260603.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织人事",
+      "items": [],
+      "status": "未见重大新增。"
+    },
+    {
+      "name": "反腐政法",
+      "items": [
+        {
+          "cluster_id": "C006",
+          "title": "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03",
+          "facts": "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03",
+          "background": "阶段：公诉。 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/qwfb/202606/t20260603_728792.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "涉台涉外",
+      "items": [
+        {
+          "cluster_id": "C007",
+          "title": "涉台政治相关议题：国台办：欢迎台湾业者参与大陆微短剧创作",
+          "facts": "国台办：欢迎台湾业者参与大陆微短剧创作；国台办：台湾前途在于两岸关系和平发展和国家统一；国台办：会有更多台湾同胞充分认识“一国两制”优越性",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：同一对象国家/地区与议题类型。 聚合键：台湾:涉台政治；包含3条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769126.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769125.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769129.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": "C008",
+          "title": "涉台政治相关议题：国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒",
+          "facts": "国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒；国台办：第十八届海峡论坛将于6月中旬在福建举办；国台办：民进党当局跪美卖台且自欺欺人",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：同一对象国家/地区与议题类型。 聚合键：国台办:涉台政治；包含6条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769128.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769130.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769127.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769124.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769123.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769122.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": "C009",
+          "title": "外交部：斯威士兰与“台独”分裂势力捆绑没有前途",
+          "facts": "外交部：斯威士兰与“台独”分裂势力捆绑没有前途",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/bmst/202606/t20260603_12769146.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            }
+          ]
+        },
+        {
+          "cluster_id": "C010",
+          "title": "区域风险相关议题：国务院台办新闻发布会辑录（2026-06-03）",
+          "facts": "国务院台办新闻发布会辑录（2026-06-03）；兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照；「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含5条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C",
+              "importance_score": 0.64
+            },
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C",
+              "importance_score": 0.64
+            },
+            {
+              "name": "FT China",
+              "url": "https://www.ft.com/content/1056546f-7239-4b67-b040-0b6aa4f5fb58",
+              "grade": "C",
+              "importance_score": 0.64
+            },
+            {
+              "name": "FT China",
+              "url": "https://www.ft.com/content/b8478a33-f173-4fc0-9070-85f9c0f74909",
+              "grade": "C",
+              "importance_score": 0.64
+            }
+          ]
+        },
+        {
+          "cluster_id": "C013",
+          "title": "Chinese investors fear missing out on SpaceX IPO after crackdown",
+          "facts": "Chinese investors fear missing out on SpaceX IPO after crackdown",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "FT China",
+              "url": "https://www.ft.com/content/159a6df9-4f4f-4d69-8d3c-5fd893492a9d",
+              "grade": "C",
+              "importance_score": 0.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI与科技产业",
+      "items": [
+        {
+          "cluster_id": "C011",
+          "title": "黑龙江北大荒开展无人机AI田间苗情查验",
+          "facts": "黑龙江北大荒开展无人机AI田间苗情查验",
+          "background": "按政策牵引、产业落地、治理风险、出海竞争归纳，普通企业案例降权。 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/photo/20260603/1fc6a585d2004d0e96aaec1b0bfb445d/c.html",
+              "grade": "B",
+              "importance_score": 0.91
+            }
+          ]
+        },
+        {
+          "cluster_id": "C012",
+          "title": "产业落地相关议题：Introducing new capabilities to GPT-Rosalind",
+          "facts": "Introducing new capabilities to GPT-Rosalind；How Wasmer used Codex to build a Node.js runtime for the edge",
+          "background": "按政策牵引、产业落地、治理风险、出海竞争归纳，普通企业案例降权。 聚合依据：同一AI/产业链条，按政策牵引、产业落地、治理风险、出海竞争归纳。 聚合键：产业落地:产业落地；包含2条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "OpenAI News",
+              "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+              "grade": "C",
+              "importance_score": 0.69
+            },
+            {
+              "name": "OpenAI News",
+              "url": "https://openai.com/index/wasmer",
+              "grade": "C",
+              "importance_score": 0.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "宏观与市场",
+      "items": [
+        {
+          "cluster_id": "C014",
+          "title": "宏观与市场相关议题：郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议",
+          "facts": "郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议；中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会；中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议",
+          "background": " 聚合依据：同一宏观政策、市场数据或监管链条。 聚合键：宏观与市场；包含3条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "国家发改委",
+              "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260603_1405679.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "央行",
+              "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314191251365/index.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "央行",
+              "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314175989980/index.html",
+              "grade": "A",
+              "importance_score": 0.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地方与社会治理",
+      "items": [
+        {
+          "cluster_id": "C015",
+          "title": "P0相关议题：第二十七届全国检察理论研究年会在广西南宁召开",
+          "facts": "第二十七届全国检察理论研究年会在广西南宁召开；重大犯罪检察；邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+          "background": " 聚合依据：同一社会治理议题。 聚合键：P0；包含9条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/tt/202606/t20260603_728823.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/xinshidai/xiangqing/501621.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "http://mail.court.gov.cn/",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+              "grade": "A",
+              "importance_score": 0.96
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "title": "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/qwfb/202606/t20260603_728792.shtml",
+      "category": "反腐"
+    },
+    {
+      "title": "黑龙江北大荒开展无人机AI田间苗情查验",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/photo/20260603/1fc6a585d2004d0e96aaec1b0bfb445d/c.html",
+      "category": "科技与产业"
+    },
+    {
+      "title": "郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议",
+      "source_name": "国家发改委",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260603_1405679.html",
+      "category": "经济"
+    },
+    {
+      "title": "超员载客、违法载人事故频发 公安部交管局发出提示",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/legal/20260603/b3235794e730454cb8453239baad73f0/c.html",
+      "category": "人事"
+    },
+    {
+      "title": "第二十七届全国检察理论研究年会在广西南宁召开",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/tt/202606/t20260603_728823.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "广电总局部署微短剧有害低俗和侵权盗版专项治理",
+      "source_name": "新华社",
+      "url": "http://www.news.cn/politics/20260603/03921dff52f34f6f922c85fec19b0f04/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "完整版 《新闻联播》 20260603 19:00",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/03/VIDEojsgGEibjPsOWHRkLbD9260603.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]韩正会见下任联合国秘书长候选人",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/03/VIDEbn9MvDZ7qpDQFgYm0jKV260603.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]长线外资看好中国 持续加码硬科技",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/03/VIDEnQmSxBxX3dGH3OvBzvMO260603.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]美丽中国行",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/03/VIDEqoRiuGdRYqjYZnUgU5pk260603.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/03/VIDEQXFWsXC4bU1SHI1PM19k260603.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "天津集中销毁毒品90余公斤",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/legal/20260603/97435f11113b4173a1cfe13d52a2c84e/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "外交部：斯威士兰与“台独”分裂势力捆绑没有前途",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/bmst/202606/t20260603_12769146.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/legal/20260603/c6215b0ae5ca4034aaa7c313cc6ea6d0/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769128.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：第十八届海峡论坛将于6月中旬在福建举办",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769130.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：民进党当局跪美卖台且自欺欺人",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769127.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：民进党当局胆敢出卖民族利益必遭唾弃和惩罚",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769124.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：欢迎台湾业者参与大陆微短剧创作",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769126.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：大陆海警在相关海域执法巡查是正常履职行为",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769123.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：台湾前途在于两岸关系和平发展和国家统一",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769125.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：会有更多台湾同胞充分认识“一国两制”优越性",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769129.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国台办：“闽超”推出对台系列活动助力两岸融合发展示范区建设",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769122.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "国务院台办新闻发布会辑录（2026-06-03）",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会",
+      "source_name": "央行",
+      "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314191251365/index.html",
+      "category": "经济"
+    },
+    {
+      "title": "中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议",
+      "source_name": "央行",
+      "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314175989980/index.html",
+      "category": "经济"
+    },
+    {
+      "title": "一名潜逃境外10余年的经济犯罪嫌疑人被押解回国",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/legal/20260603/b3c50f4cd1d84abcb424c5de251b0b7a/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "重大犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "category": "要闻"
+    },
+    {
+      "title": "职务犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "经济犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "category": "要闻"
+    },
+    {
+      "title": "第一观察丨总书记寄望红色基因薪火相传",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/xinshidai/xiangqing/501621.html",
+      "category": "要闻"
+    },
+    {
+      "title": "登录邮箱系统",
+      "source_name": "最高法",
+      "url": "http://mail.court.gov.cn/",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "category": "要闻"
+    },
+    {
+      "title": "兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "Brussels unveils sweeping plan to boost Europe’s digital sovereignty",
+      "source_name": "FT China",
+      "url": "https://www.ft.com/content/1056546f-7239-4b67-b040-0b6aa4f5fb58",
+      "category": "涉外"
+    },
+    {
+      "title": "The Return of the Great Powers — the perils of a ‘might is right’ world order",
+      "source_name": "FT China",
+      "url": "https://www.ft.com/content/b8478a33-f173-4fc0-9070-85f9c0f74909",
+      "category": "涉外"
+    },
+    {
+      "title": "Chinese investors fear missing out on SpaceX IPO after crackdown",
+      "source_name": "FT China",
+      "url": "https://www.ft.com/content/159a6df9-4f4f-4d69-8d3c-5fd893492a9d",
+      "category": "涉外"
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "source_name": "OpenAI News",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "category": "科技与产业"
+    },
+    {
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "source_name": "OpenAI News",
+      "url": "https://openai.com/index/wasmer",
+      "category": "科技与产业"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "C007",
+      "cluster_title": "涉台政治相关议题：国台办：欢迎台湾业者参与大陆微短剧创作",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769126.htm",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [
+        {
+          "name": "国台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769125.htm",
+          "grade": "A",
+          "importance_score": 1.0
+        },
+        {
+          "name": "国台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769129.htm",
+          "grade": "A",
+          "importance_score": 1.0
+        }
+      ],
+      "included_items": [
+        "N0019",
+        "N0021",
+        "N0022"
+      ],
+      "included_item_titles": [
+        "国台办：欢迎台湾业者参与大陆微短剧创作",
+        "国台办：台湾前途在于两岸关系和平发展和国家统一",
+        "国台办：会有更多台湾同胞充分认识“一国两制”优越性"
+      ],
+      "entities": [
+        "台湾",
+        "国台办"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 1.0,
+      "confidence_score": 0.98,
+      "why_grouped": "同一对象国家/地区与议题类型。 聚合键：台湾:涉台政治；包含3条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C008",
+      "cluster_title": "涉台政治相关议题：国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769128.htm",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [
+        {
+          "name": "国台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769130.htm",
+          "grade": "A",
+          "importance_score": 1.0
+        },
+        {
+          "name": "国台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769127.htm",
+          "grade": "A",
+          "importance_score": 1.0
+        },
+        {
+          "name": "国台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769124.htm",
+          "grade": "A",
+          "importance_score": 1.0
+        },
+        {
+          "name": "国台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769123.htm",
+          "grade": "A",
+          "importance_score": 1.0
+        },
+        {
+          "name": "国台办",
+          "url": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769122.htm",
+          "grade": "A",
+          "importance_score": 1.0
+        }
+      ],
+      "included_items": [
+        "N0015",
+        "N0016",
+        "N0017",
+        "N0018",
+        "N0020",
+        "N0023"
+      ],
+      "included_item_titles": [
+        "国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒",
+        "国台办：第十八届海峡论坛将于6月中旬在福建举办",
+        "国台办：民进党当局跪美卖台且自欺欺人",
+        "国台办：民进党当局胆敢出卖民族利益必遭唾弃和惩罚",
+        "国台办：大陆海警在相关海域执法巡查是正常履职行为",
+        "国台办：“闽超”推出对台系列活动助力两岸融合发展示范区建设"
+      ],
+      "entities": [
+        "国台办",
+        "民进党当局",
+        "福建",
+        "第十八届海峡论坛将于6月中旬在福建举办",
+        "赖清德当局"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 1.0,
+      "confidence_score": 0.98,
+      "why_grouped": "同一对象国家/地区与议题类型。 聚合键：国台办:涉台政治；包含6条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C009",
+      "cluster_title": "外交部：斯威士兰与“台独”分裂势力捆绑没有前途",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/bmst/202606/t20260603_12769146.htm",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0013"
+      ],
+      "included_item_titles": [
+        "外交部：斯威士兰与“台独”分裂势力捆绑没有前途"
+      ],
+      "entities": [
+        "外交部"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 1.0,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C006",
+      "cluster_title": "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03",
+      "primary_source": {
+        "name": "最高检",
+        "url": "https://www.spp.gov.cn/spp/qwfb/202606/t20260603_728792.shtml",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0001"
+      ],
+      "included_item_titles": [
+        "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03"
+      ],
+      "entities": [
+        "黑龙江"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "反腐政法",
+      "importance_score": 0.96,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "反腐政法",
+        "反腐阶段:公诉"
+      ]
+    },
+    {
+      "cluster_id": "C014",
+      "cluster_title": "宏观与市场相关议题：郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议",
+      "primary_source": {
+        "name": "国家发改委",
+        "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260603_1405679.html",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [
+        {
+          "name": "央行",
+          "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314191251365/index.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "央行",
+          "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314175989980/index.html",
+          "grade": "A",
+          "importance_score": 0.96
+        }
+      ],
+      "included_items": [
+        "N0003",
+        "N0025",
+        "N0026"
+      ],
+      "included_item_titles": [
+        "郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议",
+        "中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会",
+        "中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议"
+      ],
+      "entities": [
+        "上海",
+        "中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会",
+        "中国人民银行副行长陶玲出席中国互联网金融协会",
+        "成立十周年工作座谈会",
+        "郑栅洁主任主持召开国有企业座谈会"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "宏观与市场",
+      "importance_score": 0.96,
+      "confidence_score": 0.98,
+      "why_grouped": "同一宏观政策、市场数据或监管链条。 聚合键：宏观与市场；包含3条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ]
+    },
+    {
+      "cluster_id": "C015",
+      "cluster_title": "P0相关议题：第二十七届全国检察理论研究年会在广西南宁召开",
+      "primary_source": {
+        "name": "最高检",
+        "url": "https://www.spp.gov.cn/tt/202606/t20260603_728823.shtml",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/xinshidai/xiangqing/501621.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "http://mail.court.gov.cn/",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+          "grade": "A",
+          "importance_score": 0.96
+        }
+      ],
+      "included_items": [
+        "N0005",
+        "N0028",
+        "N0029",
+        "N0030",
+        "N0031",
+        "N0032",
+        "N0033",
+        "N0034",
+        "N0035"
+      ],
+      "included_item_titles": [
+        "第二十七届全国检察理论研究年会在广西南宁召开",
+        "重大犯罪检察",
+        "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+        "职务犯罪检察",
+        "经济犯罪检察",
+        "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+        "第一观察丨总书记寄望红色基因薪火相传",
+        "登录邮箱系统",
+        "最高法研判会商2026年第一季度司法审判数据 张军强..."
+      ],
+      "entities": [
+        "云南",
+        "广西",
+        "最高法研判会",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "第二十七届全国检察理论研究年会",
+        "第五次全国人民法庭工作会",
+        "邓修明在云南法院"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "地方与社会治理",
+      "importance_score": 0.96,
+      "confidence_score": 0.98,
+      "why_grouped": "同一社会治理议题。 聚合键：P0；包含9条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ]
+    },
+    {
+      "cluster_id": "C011",
+      "cluster_title": "黑龙江北大荒开展无人机AI田间苗情查验",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/photo/20260603/1fc6a585d2004d0e96aaec1b0bfb445d/c.html",
+        "grade": "B",
+        "importance_score": 0.91
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0002"
+      ],
+      "included_item_titles": [
+        "黑龙江北大荒开展无人机AI田间苗情查验"
+      ],
+      "entities": [
+        "黑龙江"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "AI与科技产业",
+      "importance_score": 0.91,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P0",
+        "产业落地"
+      ]
+    },
+    {
+      "cluster_id": "C001",
+      "cluster_title": "超员载客、违法载人事故频发 公安部交管局发出提示",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/legal/20260603/b3235794e730454cb8453239baad73f0/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0004"
+      ],
+      "included_item_titles": [
+        "超员载客、违法载人事故频发 公安部交管局发出提示"
+      ],
+      "entities": [
+        "公安部交管局"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C002",
+      "cluster_title": "广电总局部署微短剧有害低俗和侵权盗版专项治理",
+      "primary_source": {
+        "name": "新华社",
+        "url": "http://www.news.cn/politics/20260603/03921dff52f34f6f922c85fec19b0f04/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0006"
+      ],
+      "included_item_titles": [
+        "广电总局部署微短剧有害低俗和侵权盗版专项治理"
+      ],
+      "entities": [
+        "广电总局部署"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C003",
+      "cluster_title": "政策相关议题：完整版 《新闻联播》 20260603 19:00",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/03/VIDEojsgGEibjPsOWHRkLbD9260603.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/03/VIDEnQmSxBxX3dGH3OvBzvMO260603.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/03/VIDEqoRiuGdRYqjYZnUgU5pk260603.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/legal/20260603/97435f11113b4173a1cfe13d52a2c84e/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/legal/20260603/c6215b0ae5ca4034aaa7c313cc6ea6d0/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/legal/20260603/b3c50f4cd1d84abcb424c5de251b0b7a/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        }
+      ],
+      "included_items": [
+        "N0007",
+        "N0009",
+        "N0010",
+        "N0012",
+        "N0014",
+        "N0027"
+      ],
+      "included_item_titles": [
+        "完整版 《新闻联播》 20260603 19:00",
+        "完整版 [视频]长线外资看好中国 持续加码硬科技",
+        "完整版 [视频]美丽中国行",
+        "天津集中销毁毒品90余公斤",
+        "国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用",
+        "一名潜逃境外10余年的经济犯罪嫌疑人被押解回国"
+      ],
+      "entities": [
+        "天津"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.95,
+      "why_grouped": "同一政策链条或高层活动。 聚合键：政策；包含6条候选。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C004",
+      "cluster_title": "完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/03/VIDEQXFWsXC4bU1SHI1PM19k260603.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0011"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开"
+      ],
+      "entities": [
+        "暨继续派出中央指导组培训会",
+        "树立和践行正确政绩观学习教育中央指导组工作座谈会"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C005",
+      "cluster_title": "完整版 [视频]韩正会见下任联合国秘书长候选人",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/03/VIDEbn9MvDZ7qpDQFgYm0jKV260603.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0008"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]韩正会见下任联合国秘书长候选人"
+      ],
+      "entities": [
+        "韩正会"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C010",
+      "cluster_title": "区域风险相关议题：国务院台办新闻发布会辑录（2026-06-03）",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [
+        {
+          "name": "BBC China",
+          "url": "https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&at_campaign=rss",
+          "grade": "C",
+          "importance_score": 0.64
+        },
+        {
+          "name": "BBC China",
+          "url": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&at_campaign=rss",
+          "grade": "C",
+          "importance_score": 0.64
+        },
+        {
+          "name": "FT China",
+          "url": "https://www.ft.com/content/1056546f-7239-4b67-b040-0b6aa4f5fb58",
+          "grade": "C",
+          "importance_score": 0.64
+        },
+        {
+          "name": "FT China",
+          "url": "https://www.ft.com/content/b8478a33-f173-4fc0-9070-85f9c0f74909",
+          "grade": "C",
+          "importance_score": 0.64
+        }
+      ],
+      "included_items": [
+        "N0024",
+        "N0036",
+        "N0037",
+        "N0038",
+        "N0039"
+      ],
+      "included_item_titles": [
+        "国务院台办新闻发布会辑录（2026-06-03）",
+        "兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照",
+        "「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？",
+        "Brussels unveils sweeping plan to boost Europe’s digital sovereignty",
+        "The Return of the Great Powers — the perils of a ‘might is right’ world order"
+      ],
+      "entities": [
+        "国务院台办新闻发布会",
+        "這座曾以港口和重工業聞名的台灣南部",
+        "長期仲介台灣病患到中國醫院",
+        "高雄市政府"
+      ],
+      "time_span": {
+        "start": "2026-06-03T00:00:00+08:00",
+        "end": "2026-06-03T11:52:24+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.71,
+      "confidence_score": 0.98,
+      "why_grouped": "同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含5条候选。",
+      "link_grades": [
+        "A",
+        "C"
+      ],
+      "domain_tags": [
+        "P0",
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C012",
+      "cluster_title": "产业落地相关议题：Introducing new capabilities to GPT-Rosalind",
+      "primary_source": {
+        "name": "OpenAI News",
+        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+        "grade": "C",
+        "importance_score": 0.69
+      },
+      "supporting_sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/wasmer",
+          "grade": "C",
+          "importance_score": 0.69
+        }
+      ],
+      "included_items": [
+        "N0041",
+        "N0042"
+      ],
+      "included_item_titles": [
+        "Introducing new capabilities to GPT-Rosalind",
+        "How Wasmer used Codex to build a Node.js runtime for the edge"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-03T12:00:00+00:00",
+        "end": "2026-06-03T13:15:00+00:00"
+      },
+      "category": "AI与科技产业",
+      "importance_score": 0.69,
+      "confidence_score": 0.75,
+      "why_grouped": "同一AI/产业链条，按政策牵引、产业落地、治理风险、出海竞争归纳。 聚合键：产业落地:产业落地；包含2条候选。",
+      "link_grades": [
+        "C"
+      ],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P2",
+        "产业落地"
+      ]
+    },
+    {
+      "cluster_id": "C013",
+      "cluster_title": "Chinese investors fear missing out on SpaceX IPO after crackdown",
+      "primary_source": {
+        "name": "FT China",
+        "url": "https://www.ft.com/content/159a6df9-4f4f-4d69-8d3c-5fd893492a9d",
+        "grade": "C",
+        "importance_score": 0.64
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0040"
+      ],
+      "included_item_titles": [
+        "Chinese investors fear missing out on SpaceX IPO after crackdown"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-02T21:00:08+00:00",
+        "end": "2026-06-02T21:00:08+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.64,
+      "confidence_score": 0.65,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "C"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C016",
+      "cluster_title": "组织人事",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "组织人事",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未见重大新增。",
+      "status": "未见重大新增。",
+      "link_grades": [],
+      "domain_tags": []
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "N0001",
+      "title": "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/qwfb/202606/t20260603_728792.shtml",
+      "link_grade": "A",
+      "body_summary": "黑龙江检察机关依法对王莉霞涉嫌受贿案提起公诉 2026-06-03",
+      "category": "反腐政法",
+      "entities": [
+        "黑龙江"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "黑龙江"
+      ],
+      "domain_tags": [
+        "P0",
+        "反腐政法",
+        "反腐阶段:公诉"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0002",
+      "title": "黑龙江北大荒开展无人机AI田间苗情查验",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/photo/20260603/1fc6a585d2004d0e96aaec1b0bfb445d/c.html",
+      "link_grade": "B",
+      "body_summary": "黑龙江北大荒开展无人机AI田间苗情查验",
+      "category": "AI与科技产业",
+      "entities": [
+        "黑龙江"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "黑龙江"
+      ],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P0",
+        "产业落地"
+      ],
+      "importance_score": 0.91
+    },
+    {
+      "candidate_id": "N0003",
+      "title": "郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国家发改委",
+      "link": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260603_1405679.html",
+      "link_grade": "A",
+      "body_summary": "郑栅洁主任主持召开国有企业座谈会 围绕深化国资国企改革及推动国有企业更好服务国家重大战略听取意见建议",
+      "category": "宏观与市场",
+      "entities": [
+        "郑栅洁主任主持召开国有企业座谈会"
+      ],
+      "people": [],
+      "organizations": [
+        "郑栅洁主任主持召开国有企业座谈会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0004",
+      "title": "超员载客、违法载人事故频发 公安部交管局发出提示",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/legal/20260603/b3235794e730454cb8453239baad73f0/c.html",
+      "link_grade": "B",
+      "body_summary": "超员载客、违法载人事故频发 公安部交管局发出提示",
+      "category": "高层与政策",
+      "entities": [
+        "公安部交管局"
+      ],
+      "people": [],
+      "organizations": [
+        "公安部交管局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0005",
+      "title": "第二十七届全国检察理论研究年会在广西南宁召开",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/tt/202606/t20260603_728823.shtml",
+      "link_grade": "A",
+      "body_summary": "第二十七届全国检察理论研究年会在广西南宁召开",
+      "category": "地方与社会治理",
+      "entities": [
+        "广西",
+        "第二十七届全国检察理论研究年会"
+      ],
+      "people": [],
+      "organizations": [
+        "第二十七届全国检察理论研究年会"
+      ],
+      "locations": [
+        "广西"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0006",
+      "title": "广电总局部署微短剧有害低俗和侵权盗版专项治理",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "新华社",
+      "link": "http://www.news.cn/politics/20260603/03921dff52f34f6f922c85fec19b0f04/c.html",
+      "link_grade": "B",
+      "body_summary": "广电总局部署微短剧有害低俗和侵权盗版专项治理",
+      "category": "高层与政策",
+      "entities": [
+        "广电总局部署"
+      ],
+      "people": [],
+      "organizations": [
+        "广电总局部署"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0007",
+      "title": "完整版 《新闻联播》 20260603 19:00",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/03/VIDEojsgGEibjPsOWHRkLbD9260603.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 《新闻联播》 20260603 19:00",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0008",
+      "title": "完整版 [视频]韩正会见下任联合国秘书长候选人",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/03/VIDEbn9MvDZ7qpDQFgYm0jKV260603.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]韩正会见下任联合国秘书长候选人",
+      "category": "高层与政策",
+      "entities": [
+        "韩正会"
+      ],
+      "people": [],
+      "organizations": [
+        "韩正会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0009",
+      "title": "完整版 [视频]长线外资看好中国 持续加码硬科技",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/03/VIDEnQmSxBxX3dGH3OvBzvMO260603.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]长线外资看好中国 持续加码硬科技",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0010",
+      "title": "完整版 [视频]美丽中国行",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/03/VIDEqoRiuGdRYqjYZnUgU5pk260603.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]美丽中国行",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0011",
+      "title": "完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/03/VIDEQXFWsXC4bU1SHI1PM19k260603.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]树立和践行正确政绩观学习教育中央指导组工作座谈会暨继续派出中央指导组培训会议召开",
+      "category": "高层与政策",
+      "entities": [
+        "暨继续派出中央指导组培训会",
+        "树立和践行正确政绩观学习教育中央指导组工作座谈会"
+      ],
+      "people": [],
+      "organizations": [
+        "暨继续派出中央指导组培训会",
+        "树立和践行正确政绩观学习教育中央指导组工作座谈会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0012",
+      "title": "天津集中销毁毒品90余公斤",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/legal/20260603/97435f11113b4173a1cfe13d52a2c84e/c.html",
+      "link_grade": "B",
+      "body_summary": "天津集中销毁毒品90余公斤",
+      "category": "高层与政策",
+      "entities": [
+        "天津"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "天津"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0013",
+      "title": "外交部：斯威士兰与“台独”分裂势力捆绑没有前途",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/bmst/202606/t20260603_12769146.htm",
+      "link_grade": "A",
+      "body_summary": "外交部：斯威士兰与“台独”分裂势力捆绑没有前途",
+      "category": "涉台涉外",
+      "entities": [
+        "外交部"
+      ],
+      "people": [],
+      "organizations": [
+        "外交部"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0014",
+      "title": "国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/legal/20260603/c6215b0ae5ca4034aaa7c313cc6ea6d0/c.html",
+      "link_grade": "B",
+      "body_summary": "国家计算机病毒应急处理中心检测发现71款违法违规收集使用个人信息的移动应用",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0015",
+      "title": "国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769128.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：赖清德当局抹黑大陆社交软件表明其心虚胆寒",
+      "category": "涉台涉外",
+      "entities": [
+        "国台办",
+        "赖清德当局"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办",
+        "赖清德当局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0016",
+      "title": "国台办：第十八届海峡论坛将于6月中旬在福建举办",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769130.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：第十八届海峡论坛将于6月中旬在福建举办",
+      "category": "涉台涉外",
+      "entities": [
+        "国台办",
+        "福建",
+        "第十八届海峡论坛将于6月中旬在福建举办"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办",
+        "第十八届海峡论坛将于6月中旬在福建举办"
+      ],
+      "locations": [
+        "福建"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0017",
+      "title": "国台办：民进党当局跪美卖台且自欺欺人",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769127.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：民进党当局跪美卖台且自欺欺人",
+      "category": "涉台涉外",
+      "entities": [
+        "国台办",
+        "民进党当局"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办",
+        "民进党当局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0018",
+      "title": "国台办：民进党当局胆敢出卖民族利益必遭唾弃和惩罚",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769124.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：民进党当局胆敢出卖民族利益必遭唾弃和惩罚",
+      "category": "涉台涉外",
+      "entities": [
+        "国台办",
+        "民进党当局"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办",
+        "民进党当局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0019",
+      "title": "国台办：欢迎台湾业者参与大陆微短剧创作",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769126.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：欢迎台湾业者参与大陆微短剧创作",
+      "category": "涉台涉外",
+      "entities": [
+        "台湾",
+        "国台办"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办"
+      ],
+      "locations": [
+        "台湾"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0020",
+      "title": "国台办：大陆海警在相关海域执法巡查是正常履职行为",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769123.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：大陆海警在相关海域执法巡查是正常履职行为",
+      "category": "涉台涉外",
+      "entities": [
+        "国台办"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0021",
+      "title": "国台办：台湾前途在于两岸关系和平发展和国家统一",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769125.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：台湾前途在于两岸关系和平发展和国家统一",
+      "category": "涉台涉外",
+      "entities": [
+        "台湾",
+        "国台办"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办"
+      ],
+      "locations": [
+        "台湾"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0022",
+      "title": "国台办：会有更多台湾同胞充分认识“一国两制”优越性",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769129.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：会有更多台湾同胞充分认识“一国两制”优越性",
+      "category": "涉台涉外",
+      "entities": [
+        "台湾",
+        "国台办"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办"
+      ],
+      "locations": [
+        "台湾"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0023",
+      "title": "国台办：“闽超”推出对台系列活动助力两岸融合发展示范区建设",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/wyly/202606/t20260603_12769122.htm",
+      "link_grade": "A",
+      "body_summary": "国台办：“闽超”推出对台系列活动助力两岸融合发展示范区建设",
+      "category": "涉台涉外",
+      "entities": [
+        "国台办"
+      ],
+      "people": [],
+      "organizations": [
+        "国台办"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0024",
+      "title": "国务院台办新闻发布会辑录（2026-06-03）",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/xwdt/xwfb/xwfbh/202606/t20260603_12769117.htm",
+      "link_grade": "A",
+      "body_summary": "国务院台办新闻发布会辑录（2026-06-03）",
+      "category": "涉台涉外",
+      "entities": [
+        "国务院台办新闻发布会"
+      ],
+      "people": [],
+      "organizations": [
+        "国务院台办新闻发布会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0025",
+      "title": "中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "央行",
+      "link": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314191251365/index.html",
+      "link_grade": "A",
+      "body_summary": "中国人民银行副行长陶玲出席中国互联网金融协会成立十周年工作座谈会",
+      "category": "宏观与市场",
+      "entities": [
+        "中国人民银行副行长陶玲出席中国互联网金融协会",
+        "成立十周年工作座谈会"
+      ],
+      "people": [],
+      "organizations": [
+        "中国人民银行副行长陶玲出席中国互联网金融协会",
+        "成立十周年工作座谈会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0026",
+      "title": "中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "央行",
+      "link": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060314175989980/index.html",
+      "link_grade": "A",
+      "body_summary": "中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会议",
+      "category": "宏观与市场",
+      "entities": [
+        "上海",
+        "中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会"
+      ],
+      "people": [],
+      "organizations": [
+        "中国人民银行副行长邹澜出席上海合作组织成员国财长和央行行长会"
+      ],
+      "locations": [
+        "上海"
+      ],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0027",
+      "title": "一名潜逃境外10余年的经济犯罪嫌疑人被押解回国",
+      "time": "2026-06-03T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/legal/20260603/b3c50f4cd1d84abcb424c5de251b0b7a/c.html",
+      "link_grade": "B",
+      "body_summary": "一名潜逃境外10余年的经济犯罪嫌疑人被押解回国",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0028",
+      "title": "重大犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "重大犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0029",
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "link_grade": "A",
+      "body_summary": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "category": "地方与社会治理",
+      "entities": [
+        "云南",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "people": [],
+      "organizations": [
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "locations": [
+        "云南"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0030",
+      "title": "职务犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "职务犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0031",
+      "title": "经济犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "经济犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0032",
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "link_grade": "A",
+      "body_summary": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "category": "地方与社会治理",
+      "entities": [
+        "第五次全国人民法庭工作会"
+      ],
+      "people": [],
+      "organizations": [
+        "第五次全国人民法庭工作会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0033",
+      "title": "第一观察丨总书记寄望红色基因薪火相传",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/xinshidai/xiangqing/501621.html",
+      "link_grade": "A",
+      "body_summary": "第一观察丨总书记寄望红色基因薪火相传",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0034",
+      "title": "登录邮箱系统",
+      "time": null,
+      "source": "最高法",
+      "link": "http://mail.court.gov.cn/",
+      "link_grade": "A",
+      "body_summary": "登录邮箱系统",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0035",
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "link_grade": "A",
+      "body_summary": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法研判会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法研判会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0036",
+      "title": "兩岸跨境器官買賣鏈：台灣名醫涉非法仲介病人赴中國換肝換腎遭廢照",
+      "time": "2026-06-03T11:52:24+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/crkpg6gxpxro/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "台灣一宗非法器官移植案件，揭露兩岸近20年來持續不斷的跨境器官買賣鏈。案件涉及台灣肝臟名醫陳堯俐，與中國多名醫療人員合作，長期仲介台灣病患到中國醫院接受器官移植，每宗病例收取數十萬至數百萬元新台幣的仲介費。",
+      "category": "涉台涉外",
+      "entities": [
+        "長期仲介台灣病患到中國醫院"
+      ],
+      "people": [],
+      "organizations": [
+        "長期仲介台灣病患到中國醫院"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0037",
+      "title": "「飛去高雄看演唱會比上班快」：亞洲追星族如何改造高雄？",
+      "time": "2026-06-03T10:57:10+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/cp3pvn0pynwo/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "高雄市政府串聯官方與民間單位，在演唱會期間用主題燈光、捷運廣播、夜市券等，營造出整體的「城市應援」。這座曾以港口和重工業聞名的台灣南部城市，正逐漸轉型為亞洲歌迷心中的新興「演唱會之都」，但其經濟效益有多廣泛、能延續多久？",
+      "category": "涉台涉外",
+      "entities": [
+        "這座曾以港口和重工業聞名的台灣南部",
+        "高雄市政府"
+      ],
+      "people": [],
+      "organizations": [
+        "這座曾以港口和重工業聞名的台灣南部",
+        "高雄市政府"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0038",
+      "title": "Brussels unveils sweeping plan to boost Europe’s digital sovereignty",
+      "time": "2026-06-03T05:00:04+00:00",
+      "source": "FT China",
+      "link": "https://www.ft.com/content/1056546f-7239-4b67-b040-0b6aa4f5fb58",
+      "link_grade": "C",
+      "body_summary": "Also in this newsletter: Counterfeit cigarette use surges across Europe, new report finds",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0039",
+      "title": "The Return of the Great Powers — the perils of a ‘might is right’ world order",
+      "time": "2026-06-03T04:00:06+00:00",
+      "source": "FT China",
+      "link": "https://www.ft.com/content/b8478a33-f173-4fc0-9070-85f9c0f74909",
+      "link_grade": "C",
+      "body_summary": "Risk of war is the bleakest warning of Brendan Simms’ book on the competition between the US, Russia and China",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0040",
+      "title": "Chinese investors fear missing out on SpaceX IPO after crackdown",
+      "time": "2026-06-02T21:00:08+00:00",
+      "source": "FT China",
+      "link": "https://www.ft.com/content/159a6df9-4f4f-4d69-8d3c-5fd893492a9d",
+      "link_grade": "C",
+      "body_summary": "Beijing warns brokers about overseas share sales amid fears of capital flight",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0041",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "time": "2026-06-03T13:15:00+00:00",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "link_grade": "C",
+      "body_summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P2",
+        "产业落地"
+      ],
+      "importance_score": 0.69
+    },
+    {
+      "candidate_id": "N0042",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "time": "2026-06-03T12:00:00+00:00",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/wasmer",
+      "link_grade": "C",
+      "body_summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P2",
+        "产业落地"
+      ],
+      "importance_score": 0.69
+    }
+  ],
+  "quality_scores": {
+    "官方源覆盖率": "50%",
+    "组织人事覆盖": "0%",
+    "反腐政法覆盖": "100%",
+    "涉台涉外覆盖": "100%",
+    "AI栏目质量": "100%",
+    "链接可验证率": "100%",
+    "议题簇合并率": "47%",
+    "重复新闻率": "3%",
+    "低价值资讯占比": "0%",
+    "硬性检查通过数": "3/6",
+    "说明": "议题簇合并率低于60%时，应优先补充外部校验源或手动源，避免单条新闻改写。"
+  },
+  "benchmark_eval": {
+    "benchmark_name": "人工版议题敏感度样例",
+    "coverage_rate": "30%",
+    "matched_topics": [
+      "正确政绩观学习教育指导组",
+      "发改委国企座谈与资源安全",
+      "央行逆回购归零",
+      "国台办发布会",
+      "对台军售",
+      "王莉霞公诉"
+    ],
+    "missing_topics": [
+      "高考保障与基础教育",
+      "十四五经济社会发展成就",
+      "二手房成交修复",
+      "太空算力产业",
+      "中国大模型与企业Agent",
+      "美国AI安全监管",
+      "郑丽文访美",
+      "强迫劳动关税",
+      "欧盟技术主权",
+      "所罗门安全协议",
+      "中日航班与日本防务",
+      "中菲摩擦",
+      "伊朗局势",
+      "宁夏宣传部长调整"
+    ],
+    "required_section_gaps": [
+      "组织人事"
+    ],
+    "gap_summary": "自动版应重点补齐人工版中的跨源合并、背景链条和组织人事/反腐/涉台/AI稳定覆盖。"
+  },
+  "meta": {
+    "llm_used": false,
+    "pipeline_version": "research-daily-compiler-v1"
+  }
+}
