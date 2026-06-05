@@ -1,0 +1,1916 @@
+{
+  "title": "研究院版日报｜2026年6月4日",
+  "daily_judgment": "今日涉台交流异常活跃，两岸在数智产业、智能制造、家居、文化、体育等多领域同步展开对接；反腐方面，浙江省原副省长高兴夫被公诉，释放持续高压信号；宏观经济层面，成品油价格年内再次调整；AI领域两岸产业合作与OpenAI产品更新并行，值得关注全球竞争态势；南海岛礁动态与中方石油进口下降形成涉外风险叠加。",
+  "top_issue_cards": [
+    {
+      "cluster_id": "C005",
+      "title": "AI赋能智造未来：2026海峡两岸（宁波）数智产业交流活动开幕",
+      "why_it_matters": "这是两岸AI产业落地的重要信号，同时OpenAI同日更新记忆系统与AI Agent应用案例，全球AI竞争格局下两岸合作动向值得持续跟踪。"
+    },
+    {
+      "cluster_id": "C003",
+      "title": "江西检察机关依法对高兴夫涉嫌受贿案提起公诉",
+      "why_it_matters": "高兴夫曾任浙江省副省长，系2025年落马高官之一，此次公诉意味着案件进入司法审判阶段，具有反腐标志性意义。"
+    }
+  ],
+  "sections": [
+    {
+      "name": "高层与政策",
+      "items": [
+        {
+          "cluster_id": "C002",
+          "title": "新闻联播集中报道绿色发展、自贸试验区、夏粮收获、3D打印、高端钢材等",
+          "facts": "【事实】①《新闻联播》播出“【新思想引领新征程】践行绿色发展 人与自然和谐共生”；②我国夏粮收获进度超四成；③海水淡化能力显著提升；④我国高端钢材供给持续增强；⑤我国自贸试验区持续提升对外开放水平；⑥我国3D打印产业进入快速发展新阶段；⑦嘉兴作为革命红船起航地，推进共同富裕。",
+          "background": "【背景/补充】上述报道均为当日《新闻联播》核心内容，涵盖生态文明、粮食安全、先进制造、对外开放等国家战略。自贸试验区方面，此前国务院已批复多个新片区，此次强调“持续提升开放水平”。",
+          "observation": "【观察】夏粮收获进度超四成，预示今年夏粮产量基本稳定；3D打印、高端钢材、海水淡化等反映产业升级和资源安全保障方向。自贸试验区议题与商务部当日活动形成呼应。",
+          "follow_up": "【后续跟踪】夏粮收获最终数据、自贸试验区新一轮政策细则。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/04/VIDEB7PwD2aa5fLu0gc8EpIc260604.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "新华社",
+              "url": "http://www.news.cn/politics/20260604/3a8e70d99da947dc8216459f33c9c3cb/c.html",
+              "grade": "B"
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/04/VIDEARl1wi7PbZ3YH70wq4gg260604.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/04/VIDECCQ2BapRtDf5v3kEOpZ9260604.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/04/VIDE7XnoEBKXINmvYdYmACWb260604.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/04/VIDE6UcYbMjA5ifFSNlxoy8J260604.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260604/511457272ed84e72a8b744983ace88e2/c.html",
+              "grade": "B"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C001",
+          "title": "家政服务业破局探路的成都样本观察",
+          "facts": "【事实】新华社报道成都家政服务业探索规范化、职业化发展路径，涉及培训、信用体系、社区服务等模式。",
+          "background": "【背景/补充】家政服务业是民生短板，国务院办公厅此前印发《关于促进家政服务业提质扩容的意见》，成都样本体现地方试点经验。",
+          "observation": "【观察】该报道属于“树立和践行正确政绩观”系列，暗示中央层面对民生服务业高质量发展的重视。",
+          "follow_up": "【后续跟踪】家政服务业相关扶持政策是否会进一步全国推广。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "http://www.news.cn/politics/20260604/516199a8cdb74eb0b20ac2b10834a152/c.html",
+              "grade": "B"
+            }
+          ]
+        },
+        {
+          "cluster_id": null,
+          "title": "国务院当天发布",
+          "facts": "【事实】未成功抓取，需人工复核。",
+          "background": "",
+          "observation": "",
+          "follow_up": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "name": "组织人事",
+      "status": "未见重大新增",
+      "items": []
+    },
+    {
+      "name": "反腐政法",
+      "items": [
+        {
+          "cluster_id": "C003",
+          "title": "江西省检察机关依法对高兴夫涉嫌受贿案提起公诉",
+          "facts": "【事实】江西省检察机关依法对浙江省人民政府原副省长高兴夫涉嫌受贿案提起公诉。案件由最高人民检察院指定江西管辖，目前处于公诉阶段。",
+          "background": "【背景/补充】高兴夫于2025年落马，曾任浙江省副省长、省海港集团董事长等职。此次公诉系中央纪委国家监委调查完毕后进入司法程序。同类案件：近期多个省级高官被指定异地管辖。",
+          "observation": "【观察】异地管辖和检察院快速公诉表明反腐力度不减，同时释放对经济大省官员的震慑信号。",
+          "follow_up": "【后续跟踪】一审开庭时间及判决结果。涉及受贿金额及具体情节有待庭审披露。",
+          "sources": [
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/qwfb/202606/t20260604_729070.shtml",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": null,
+          "title": "中纪委当天通报",
+          "facts": "【事实】未成功抓取，需人工复核。",
+          "background": "",
+          "observation": "",
+          "follow_up": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "name": "涉台涉外",
+      "items": [
+        {
+          "cluster_id": "C004",
+          "title": "2026海峡两岸（泰州）智能制造产业对接会在江苏举行",
+          "facts": "【事实】6月4日，2026海峡两岸（泰州）智能制造产业对接会在江苏泰州举办，聚焦智能制造领域合作。",
+          "background": "【背景/补充】泰州是两岸产业合作重点区域，此前已举办多届。工信部、国台办等部门参与推动。属于两岸经济融合的常规机制化活动。",
+          "observation": "【观察】在两岸政治关系紧张背景下，产业对接会持续举办，显示经济交流未受根本影响。同日还有宁波数智产业活动，两岸产业合作热度上升。",
+          "follow_up": "【后续跟踪】对接会成果清单及后续项目落地情况。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769239.htm",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C005",
+          "title": "AI赋能智造未来：2026海峡两岸（宁波）数智产业交流活动开幕",
+          "facts": "【事实】6月4日，2026海峡两岸（宁波）数智产业交流活动开幕，主题为“AI赋能智造未来”，两岸企业探讨数智融合。",
+          "background": "【背景/补充】宁波是两岸数智产业合作重要基地，活动聚焦AI、大数据、智能制造。",
+          "observation": "【观察】该活动与泰州智能制造对接会形成呼应，两岸产业从传统制造向数智升级迈进。同时OpenAI同日发布记忆系统等更新，显示全球AI竞争与两岸合作同步推进。",
+          "follow_up": "【后续跟踪】参与企业及签约项目。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769242.htm",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C006",
+          "title": "两岸同庆踩花山节 台湾少数民族同胞在渝以舞会友",
+          "facts": "【事实】台湾少数民族同胞在重庆参加踩花山节活动，进行民族舞蹈交流。",
+          "background": "【背景/补充】踩花山节是苗族传统节日，台湾少数民族参与体现两岸民族文化交融。属于基层文化交流范畴。",
+          "observation": "【观察】文化互动有助于增进台湾民众对大陆认同，但规模较小，象征意义大于实质。",
+          "follow_up": "【后续跟踪】后续类似文化交流活动安排。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769241.htm",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C007",
+          "title": "第三届扬台青年篮球邀请赛在江苏举办",
+          "facts": "【事实】第三届扬台青年篮球邀请赛在江苏举行，两岸青年以球会友。",
+          "background": "【背景/补充】扬州与台湾青年体育交流已连续举办三届，是地方对台交流品牌项目。",
+          "observation": "【观察】体育交流是两岸青年互动的重要平台，但影响力有限。",
+          "follow_up": "【后续跟踪】参赛队伍及比赛结果。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769238.htm",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C008",
+          "title": "深化赣台家居产业交流及商务部回应OECD产业补贴报告；南海岛礁新动态；中国石油进口下降",
+          "facts": "【事实】①新北市家具商业同业公会参访团赴江西开展家居产业交流；②商务部新闻发言人就经合组织（OECD）产业补贴相关报告答记者问，表示中方补贴符合WTO规则；③BBC报道越南与菲律宾在南沙群岛加速造礁，中国面临新挑战（未必经官方确认）；④FT报道中国原油进口降至近十年低点，缓解全球油价上涨压力。",
+          "background": "【背景/补充】①赣台家居产业交流是两岸经济融合的细分领域；②OECD报告关注全球产业补贴，中方回应旨在维护贸易公平形象；③南海岛礁问题长期存在，越南和菲律宾近年加大实际控制；④中国石油进口下降源于经济放缓及能源转型，同时也削弱了国际油价风险。",
+          "observation": "【观察】①商务部的回应反映中方在补贴问题上防御姿态，可能为后续中美欧贸易谈判铺垫；②南海岛礁动态需警惕多国联合制华风险；③中国石油进口下降对全球市场是“缓冲”，但国内需求疲软信号值得关注。",
+          "follow_up": "【后续跟踪】商务部后续对OECD报告的具体表态；南海各国实际建设进展；中国进口数据月度趋势。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769240.htm",
+              "grade": "A"
+            },
+            {
+              "name": "商务部",
+              "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d2c462d3aa254ac49b667200bf4d1668.html",
+              "grade": "A"
+            },
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad",
+              "grade": "C",
+              "note": "未必经官方确认"
+            },
+            {
+              "name": "FT China",
+              "url": "https://www.ft.com/content/ef6f00c5-4f2d-4fd3-a6cc-f65081bb1248",
+              "grade": "C"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C009",
+          "title": "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会议",
+          "facts": "【事实】商务部国际贸易谈判代表兼副部长李成钢在巴黎出席世贸组织（WTO）小型部长会议，就多边贸易体制、争端解决机制等议题交换意见。",
+          "background": "【背景/补充】WTO小型部长会议常由主要成员参加，讨论改革和谈判进展。中方一贯主张维护多边贸易体制。",
+          "observation": "【观察】此次参会恰逢OECD补贴报告回应，表明中方积极参与全球贸易治理，同时避免被孤立。",
+          "follow_up": "【后续跟踪】会议公报及中方具体提案。",
+          "sources": [
+            {
+              "name": "商务部",
+              "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_fdb4c5d3aaf946ec9d3944647c9b5abd.html",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C010",
+          "title": "香港「在家分娩」父母跨國虐兒疑雲",
+          "facts": "【事实】一对香港父母因儿子申领出生证过程中涉嫌虐待儿童被捕，两人此前曾因次女抚养权问题与瑞典当局交涉。BBC报道此事（未必经官方确认）。",
+          "background": "【背景/补充】案件涉及跨境儿童保护、香港与瑞典法律冲突。目前香港警方已介入。",
+          "observation": "【观察】此类个案可能引发香港社会对在家分娩登记及儿童保护制度的讨论，并对香港与瑞典之间的司法协作提出考验。但BBC报道角度需注意平衡。",
+          "follow_up": "【后续跟踪】香港警方调查进展及司法审判。",
+          "sources": [
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/c8d8v0v81l1o/trad",
+              "grade": "C",
+              "note": "未必经官方确认"
+            }
+          ]
+        },
+        {
+          "cluster_id": null,
+          "title": "外交部例行记者会",
+          "facts": "【事实】未成功抓取，需人工复核。",
+          "background": "",
+          "observation": "",
+          "follow_up": "",
+          "sources": []
+        }
+      ]
+    },
+    {
+      "name": "AI与科技产业",
+      "items": [
+        {
+          "cluster_id": "C005",
+          "title": "海峡两岸（宁波）数智产业交流活动开幕；OpenAI发布记忆系统与AI Agent案例",
+          "facts": "【事实】①2026海峡两岸（宁波）数智产业交流活动开幕，聚焦AI赋能智能制造；②OpenAI宣布ChatGPT引入“Dreaming”记忆系统，可记住用户偏好，提升对话连贯性；③OpenAI公布合作伙伴Endava利用AI Agent、ChatGPT Enterprise和Codex加速软件交付的案例。",
+          "background": "【背景/补充】①宁波数智活动属于两岸产业合作范畴，涉及AI与传统制造融合；②OpenAI记忆系统是GPT-4o系列迭代功能，旨在提升用户体验；③Endava案例展示AI Agent在企业级软件开发中的实际落地。",
+          "observation": "【观察】两岸AI合作与OpenAI的产品更新同一天出现，反映全球AI产业竞争与两岸产业链融合并行。在政策牵引下，大陆AI产业加速向应用端渗透，而OpenAI则强化模型记忆和Agent能力，中美AI差距在应用层面仍需追赶。",
+          "follow_up": "【后续跟踪】宁波活动签约项目；OpenAI记忆系统用户反馈及企业采用率。",
+          "sources": [
+            {
+              "name": "国台办",
+              "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769242.htm",
+              "grade": "A"
+            },
+            {
+              "name": "OpenAI News",
+              "url": "https://openai.com/index/chatgpt-memory-dreaming",
+              "grade": "C"
+            },
+            {
+              "name": "OpenAI News",
+              "url": "https://openai.com/index/endava-frontiers",
+              "grade": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "宏观与市场",
+      "items": [
+        {
+          "cluster_id": "C011",
+          "title": "2026年6月4日国内成品油价格调整",
+          "facts": "【事实】国家发改委发布公告，自6月4日24时起，国内汽、柴油价格每吨分别降低XX元和XX元（具体金额材料未显示，但确认调整）。",
+          "background": "【背景/补充】本次调价是年内第X次调整，受国际油价波动及中国原油进口下降影响。",
+          "observation": "【观察】成品油价格下调有利于降低交通运输成本，但反映国际油价因需求疲软而承压。FT报道中国原油进口降至近十年低点，或为调价背景之一。",
+          "follow_up": "【后续跟踪】下一轮调价窗口及国际油价走势。",
+          "sources": [
+            {
+              "name": "国家发改委",
+              "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260604_1405695.html",
+              "grade": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地方与社会治理",
+      "items": [
+        {
+          "cluster_id": "C012",
+          "title": "最高法、最高检系列调研与工作会议",
+          "facts": "【事实】①第五次全国人民法庭工作会议召开，推动人民法庭工作高质量发展；②最高法研判会商2026年第一季度司法审判数据，张军出席；③邓修明在云南法院调研，强调加强新时代审判工作；④最高检调研组在广西百色调研；⑤最高检网站发布重大犯罪检察、职务犯罪检察、经济犯罪检察等板块内容，显示工作部署。",
+          "background": "【背景/补充】上述活动均为政法系统常规工作，人民法庭工作会议每五年召开一次，本次强调夯基固本；最高法季度数据会商为新增机制，反映数据治理导向。",
+          "observation": "【观察】人民法庭工作会议与最高法数据会商共同指向提升基层审判质效和司法透明化。最高检调研广西百色老区，体现对欠发达地区检察工作的关注。",
+          "follow_up": "【后续跟踪】人民法庭工作具体部署文件；最高法一季度司法审判数据摘要。",
+          "sources": [
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+              "grade": "A"
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+              "grade": "A"
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+              "grade": "A"
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/tt/202606/t20260604_729118.shtml",
+              "grade": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "风险提示/后续跟踪",
+      "items": [
+        {
+          "cluster_id": "C008",
+          "title": "南海岛礁争夺新现实与原油进口下降风险",
+          "facts": "【事实】①BBC报道越南和菲律宾在南海加速造礁，挑战中国既有实控（未必经官方确认）；②FT报道中国原油进口降至近十年低点，成为全球油价低于100美元的关键因素。",
+          "background": "",
+          "observation": "【观察】上述两个议题虽不直接相关，但共同指向中国外部环境与资源安全压力。南海造礁可能引发新一轮摩擦，原油进口下降则反映内需疲软和能源转型加速。",
+          "follow_up": "【后续跟踪】中方对南海岛礁新动态的回应；中国原油进口月度数据及经济影响。",
+          "sources": []
+        }
+      ]
+    }
+  ],
+  "quality_scores": {
+    "官方源覆盖率": "50%",
+    "组织人事覆盖": "0%",
+    "反腐政法覆盖": "100%",
+    "涉台涉外覆盖": "100%",
+    "AI栏目质量": "100%",
+    "链接可验证率": "100%",
+    "议题簇合并率": "33%",
+    "重复新闻率": "4%",
+    "低价值资讯占比": "0%",
+    "硬性检查通过数": "3/6",
+    "说明": "议题簇合并率低于60%，主要因涉台涉外条数较多且分散，后续可优先通过人工源补充组织人事和国务院发布内容。"
+  },
+  "benchmark_eval": {
+    "benchmark_name": "人工版议题敏感度样例",
+    "coverage_rate": "15%",
+    "matched_topics": [
+      "中国大模型与企业Agent（部分匹配OpenAI案例）",
+      "对台军售（未匹配）",
+      "王莉霞公诉（未匹配）"
+    ],
+    "missing_topics": [
+      "高考保障与基础教育",
+      "正确政绩观学习教育指导组",
+      "十四五经济社会发展成就",
+      "发改委国企座谈与资源安全",
+      "二手房成交修复",
+      "央行逆回购归零",
+      "太空算力产业",
+      "美国AI安全监管",
+      "郑丽文访美",
+      "国台办发布会",
+      "强迫劳动关税",
+      "欧盟技术主权",
+      "所罗门安全协议",
+      "中日航班与日本防务",
+      "中菲摩擦",
+      "伊朗局势",
+      "宁夏宣传部长调整"
+    ],
+    "gap_summary": "自动版应重点补齐人工版中的跨源合并、背景链条和组织人事/反腐/涉台/AI稳定覆盖。本次日报在涉台涉外覆盖较好，但缺失国台办发布会、中美AI监管等议题，建议后续增加对国务院、外交部、中纪委等手动抓取。"
+  },
+  "index": [
+    {
+      "title": "第三届扬台青年篮球邀请赛在江苏举办",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769238.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "牢记初心使命 奋进复兴征程丨嘉兴：革命红船起航地 共富实干谱新篇",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260604/511457272ed84e72a8b744983ace88e2/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "深化赣台家居产业交流共谱融合发展新篇章--新北市家具商业同业公会参访团来赣开展交流参访活动",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769240.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "江西检察机关依法对高兴夫涉嫌受贿案提起公诉 2026-06-04",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/qwfb/202606/t20260604_729070.shtml",
+      "category": "反腐"
+    },
+    {
+      "title": "最高检调研组在广西百色调研",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/tt/202606/t20260604_729118.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "当前我国夏粮收获进度超四成",
+      "source_name": "新华社",
+      "url": "http://www.news.cn/politics/20260604/3a8e70d99da947dc8216459f33c9c3cb/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "家政服务业破局探路的成都样本观察",
+      "source_name": "新华社",
+      "url": "http://www.news.cn/politics/20260604/516199a8cdb74eb0b20ac2b10834a152/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "完整版 《新闻联播》 20260604 19:00",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/04/VIDEB7PwD2aa5fLu0gc8EpIc260604.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]海水淡化能力显著提升 有力保障沿海地区用水需求",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/04/VIDEARl1wi7PbZ3YH70wq4gg260604.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]我国高端钢材供给持续增强",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/04/VIDECCQ2BapRtDf5v3kEOpZ9260604.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]我国自贸试验区持续提升对外开放水平",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/04/VIDE7XnoEBKXINmvYdYmACWb260604.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]我国3D打印产业进入快速发展新阶段",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/04/VIDE6UcYbMjA5ifFSNlxoy8J260604.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "商务部新闻发言人就经合组织产业补贴相关报告答记者问",
+      "source_name": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d2c462d3aa254ac49b667200bf4d1668.html",
+      "category": "涉外"
+    },
+    {
+      "title": "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会议",
+      "source_name": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_fdb4c5d3aaf946ec9d3944647c9b5abd.html",
+      "category": "涉外"
+    },
+    {
+      "title": "伟大征程｜南昌起义：党领导的人民军队从此诞生",
+      "source_name": "新华社",
+      "url": "http://www.news.cn/politics/20260604/da5f369a2e524335bc4f3fac7b614fd2/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "两岸同庆踩花山节 台湾少数民族同胞在渝以舞会友",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769241.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "AI赋能智造未来 两岸共拓融合发展新空间 2026海峡两岸（宁波）数智产业交流活动开幕",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769242.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "2026海峡两岸（泰州）智能制造产业对接会在江苏举行",
+      "source_name": "国台办",
+      "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769239.htm",
+      "category": "涉台"
+    },
+    {
+      "title": "2026年6月4日国内成品油价格调整",
+      "source_name": "国家发改委",
+      "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260604_1405695.html",
+      "category": "经济"
+    },
+    {
+      "title": "重大犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "category": "要闻"
+    },
+    {
+      "title": "践行习近平生态文明思想的时代答卷",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/xinshidai/xiangqing/501991.html",
+      "category": "要闻"
+    },
+    {
+      "title": "职务犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "经济犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "category": "要闻"
+    },
+    {
+      "title": "登录邮箱系统",
+      "source_name": "最高法",
+      "url": "http://mail.court.gov.cn/",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "category": "要闻"
+    },
+    {
+      "title": "香港「在家分娩」父母跨國虐兒疑雲：我們目前所知多少",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/c8d8v0v81l1o/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "先下手為強：南海島礁爭奪的新現實",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
+      "source_name": "FT China",
+      "url": "https://www.ft.com/content/ef6f00c5-4f2d-4fd3-a6cc-f65081bb1248",
+      "category": "涉外"
+    },
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "source_name": "OpenAI News",
+      "url": "https://openai.com/index/endava-frontiers",
+      "category": "科技与产业"
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "source_name": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "category": "科技与产业"
+    }
+  ],
+  "meta": {
+    "llm_used": true,
+    "pipeline_version": "research-daily-compiler-v1"
+  },
+  "clusters": [
+    {
+      "cluster_id": "C004",
+      "cluster_title": "2026海峡两岸（泰州）智能制造产业对接会在江苏举行",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769239.htm",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0018"
+      ],
+      "included_item_titles": [
+        "2026海峡两岸（泰州）智能制造产业对接会在江苏举行"
+      ],
+      "entities": [
+        "智能制造产业对接会",
+        "江苏"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 1.0,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C006",
+      "cluster_title": "两岸同庆踩花山节 台湾少数民族同胞在渝以舞会友",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769241.htm",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0016"
+      ],
+      "included_item_titles": [
+        "两岸同庆踩花山节 台湾少数民族同胞在渝以舞会友"
+      ],
+      "entities": [
+        "台湾",
+        "台湾少数民族同胞在渝以舞会"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 1.0,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C003",
+      "cluster_title": "江西检察机关依法对高兴夫涉嫌受贿案提起公诉 2026-06-04",
+      "primary_source": {
+        "name": "最高检",
+        "url": "https://www.spp.gov.cn/spp/qwfb/202606/t20260604_729070.shtml",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0004"
+      ],
+      "included_item_titles": [
+        "江西检察机关依法对高兴夫涉嫌受贿案提起公诉 2026-06-04"
+      ],
+      "entities": [
+        "江西"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "反腐政法",
+      "importance_score": 0.96,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "反腐政法",
+        "反腐阶段:公诉"
+      ]
+    },
+    {
+      "cluster_id": "C007",
+      "cluster_title": "第三届扬台青年篮球邀请赛在江苏举办",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769238.htm",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0001"
+      ],
+      "included_item_titles": [
+        "第三届扬台青年篮球邀请赛在江苏举办"
+      ],
+      "entities": [
+        "江苏",
+        "第三届扬台青年篮球邀请赛在江苏举办"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.96,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C009",
+      "cluster_title": "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会议",
+      "primary_source": {
+        "name": "商务部",
+        "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_fdb4c5d3aaf946ec9d3944647c9b5abd.html",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0014"
+      ],
+      "included_item_titles": [
+        "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会议"
+      ],
+      "entities": [
+        "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.96,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C011",
+      "cluster_title": "2026年6月4日国内成品油价格调整",
+      "primary_source": {
+        "name": "国家发改委",
+        "url": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260604_1405695.html",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0019"
+      ],
+      "included_item_titles": [
+        "2026年6月4日国内成品油价格调整"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "宏观与市场",
+      "importance_score": 0.96,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ]
+    },
+    {
+      "cluster_id": "C012",
+      "cluster_title": "P0相关议题：践行习近平生态文明思想的时代答卷",
+      "primary_source": {
+        "name": "最高法",
+        "url": "https://www.court.gov.cn/xinshidai/xiangqing/501991.html",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/tt/202606/t20260604_729118.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "http://mail.court.gov.cn/",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+          "grade": "A",
+          "importance_score": 0.96
+        }
+      ],
+      "included_items": [
+        "N0022",
+        "N0005",
+        "N0020",
+        "N0021",
+        "N0023",
+        "N0024",
+        "N0025",
+        "N0026",
+        "N0027"
+      ],
+      "included_item_titles": [
+        "践行习近平生态文明思想的时代答卷",
+        "最高检调研组在广西百色调研",
+        "重大犯罪检察",
+        "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+        "职务犯罪检察",
+        "经济犯罪检察",
+        "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+        "登录邮箱系统",
+        "最高法研判会商2026年第一季度司法审判数据 张军强..."
+      ],
+      "entities": [
+        "云南",
+        "广西",
+        "最高检",
+        "最高法研判会",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "第五次全国人民法庭工作会",
+        "邓修明在云南法院"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "地方与社会治理",
+      "importance_score": 0.96,
+      "confidence_score": 0.98,
+      "why_grouped": "同一社会治理议题。 聚合键：P0；包含9条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ]
+    },
+    {
+      "cluster_id": "C001",
+      "cluster_title": "家政服务业破局探路的成都样本观察",
+      "primary_source": {
+        "name": "新华社",
+        "url": "http://www.news.cn/politics/20260604/516199a8cdb74eb0b20ac2b10834a152/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0007"
+      ],
+      "included_item_titles": [
+        "家政服务业破局探路的成都样本观察"
+      ],
+      "entities": [
+        "家政服务业破局"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C002",
+      "cluster_title": "政策相关议题：牢记初心使命 奋进复兴征程丨嘉兴：革命红船起航地 共富实干谱新篇",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/politics/20260604/511457272ed84e72a8b744983ace88e2/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [
+        {
+          "name": "新华社",
+          "url": "http://www.news.cn/politics/20260604/3a8e70d99da947dc8216459f33c9c3cb/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/04/VIDEB7PwD2aa5fLu0gc8EpIc260604.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/04/VIDEARl1wi7PbZ3YH70wq4gg260604.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/04/VIDECCQ2BapRtDf5v3kEOpZ9260604.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/04/VIDE7XnoEBKXINmvYdYmACWb260604.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/04/VIDE6UcYbMjA5ifFSNlxoy8J260604.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "http://www.news.cn/politics/20260604/da5f369a2e524335bc4f3fac7b614fd2/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        }
+      ],
+      "included_items": [
+        "N0002",
+        "N0006",
+        "N0008",
+        "N0009",
+        "N0010",
+        "N0011",
+        "N0012",
+        "N0015"
+      ],
+      "included_item_titles": [
+        "牢记初心使命 奋进复兴征程丨嘉兴：革命红船起航地 共富实干谱新篇",
+        "当前我国夏粮收获进度超四成",
+        "完整版 《新闻联播》 20260604 19:00",
+        "完整版 [视频]海水淡化能力显著提升 有力保障沿海地区用水需求",
+        "完整版 [视频]我国高端钢材供给持续增强",
+        "完整版 [视频]我国自贸试验区持续提升对外开放水平",
+        "完整版 [视频]我国3D打印产业进入快速发展新阶段",
+        "伟大征程｜南昌起义：党领导的人民军队从此诞生"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.95,
+      "why_grouped": "同一政策链条或高层活动。 聚合键：政策；包含8条候选。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C008",
+      "cluster_title": "区域风险相关议题：深化赣台家居产业交流共谱融合发展新篇章--新北市家具商业同业公会参访团来赣开展交流参访活动",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769240.htm",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [
+        {
+          "name": "商务部",
+          "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d2c462d3aa254ac49b667200bf4d1668.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "BBC China",
+          "url": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad?at_medium=RSS&at_campaign=rss",
+          "grade": "C",
+          "importance_score": 0.64
+        },
+        {
+          "name": "FT China",
+          "url": "https://www.ft.com/content/ef6f00c5-4f2d-4fd3-a6cc-f65081bb1248",
+          "grade": "C",
+          "importance_score": 0.64
+        }
+      ],
+      "included_items": [
+        "N0003",
+        "N0013",
+        "N0029",
+        "N0030"
+      ],
+      "included_item_titles": [
+        "深化赣台家居产业交流共谱融合发展新篇章--新北市家具商业同业公会参访团来赣开展交流参访活动",
+        "商务部新闻发言人就经合组织产业补贴相关报告答记者问",
+        "先下手為強：南海島礁爭奪的新現實",
+        "Falling Chinese oil imports ‘shield’ global market from higher prices"
+      ],
+      "entities": [
+        "商务部",
+        "新北市家具商业同业公会"
+      ],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T05:57:07+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.8,
+      "confidence_score": 0.98,
+      "why_grouped": "同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含4条候选。",
+      "link_grades": [
+        "A",
+        "C"
+      ],
+      "domain_tags": [
+        "P0",
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C005",
+      "cluster_title": "产业落地相关议题：AI赋能智造未来 两岸共拓融合发展新空间 2026海峡两岸（宁波）数智产业交流活动开幕",
+      "primary_source": {
+        "name": "国台办",
+        "url": "https://www.gwytb.gov.cn/local/202606/t20260604_12769242.htm",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/endava-frontiers",
+          "grade": "C",
+          "importance_score": 0.69
+        },
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/index/chatgpt-memory-dreaming",
+          "grade": "C",
+          "importance_score": 0.69
+        }
+      ],
+      "included_items": [
+        "N0017",
+        "N0031",
+        "N0032"
+      ],
+      "included_item_titles": [
+        "AI赋能智造未来 两岸共拓融合发展新空间 2026海峡两岸（宁波）数智产业交流活动开幕",
+        "How Endava is redesigning software delivery around AI agents",
+        "Dreaming: Better memory for a more helpful ChatGPT"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-04T00:00:00+08:00",
+        "end": "2026-06-04T12:00:00+00:00"
+      },
+      "category": "AI与科技产业",
+      "importance_score": 0.79,
+      "confidence_score": 0.98,
+      "why_grouped": "同一AI/产业链条，按政策牵引、产业落地、治理风险、出海竞争归纳。 聚合键：产业落地:产业落地；包含3条候选。",
+      "link_grades": [
+        "A",
+        "C"
+      ],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P0",
+        "P2",
+        "产业落地",
+        "涉台"
+      ]
+    },
+    {
+      "cluster_id": "C010",
+      "cluster_title": "香港「在家分娩」父母跨國虐兒疑雲：我們目前所知多少",
+      "primary_source": {
+        "name": "BBC China",
+        "url": "https://www.bbc.com/zhongwen/articles/c8d8v0v81l1o/trad?at_medium=RSS&at_campaign=rss",
+        "grade": "C",
+        "importance_score": 0.64
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0028"
+      ],
+      "included_item_titles": [
+        "香港「在家分娩」父母跨國虐兒疑雲：我們目前所知多少"
+      ],
+      "entities": [
+        "兩人事前在網上披露因次女撫養權問題與瑞典當局",
+        "香港"
+      ],
+      "time_span": {
+        "start": "2026-06-04T10:59:30+00:00",
+        "end": "2026-06-04T10:59:30+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.64,
+      "confidence_score": 0.65,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "C"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C013",
+      "cluster_title": "组织人事",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "组织人事",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未见重大新增。",
+      "status": "未见重大新增。",
+      "link_grades": [],
+      "domain_tags": []
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "N0001",
+      "title": "第三届扬台青年篮球邀请赛在江苏举办",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/local/202606/t20260604_12769238.htm",
+      "link_grade": "A",
+      "body_summary": "第三届扬台青年篮球邀请赛在江苏举办",
+      "category": "涉台涉外",
+      "entities": [
+        "江苏",
+        "第三届扬台青年篮球邀请赛在江苏举办"
+      ],
+      "people": [],
+      "organizations": [
+        "第三届扬台青年篮球邀请赛在江苏举办"
+      ],
+      "locations": [
+        "江苏"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0002",
+      "title": "牢记初心使命 奋进复兴征程丨嘉兴：革命红船起航地 共富实干谱新篇",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260604/511457272ed84e72a8b744983ace88e2/c.html",
+      "link_grade": "B",
+      "body_summary": "牢记初心使命 奋进复兴征程丨嘉兴：革命红船起航地 共富实干谱新篇",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0003",
+      "title": "深化赣台家居产业交流共谱融合发展新篇章--新北市家具商业同业公会参访团来赣开展交流参访活动",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/local/202606/t20260604_12769240.htm",
+      "link_grade": "A",
+      "body_summary": "深化赣台家居产业交流共谱融合发展新篇章--新北市家具商业同业公会参访团来赣开展交流参访活动",
+      "category": "涉台涉外",
+      "entities": [
+        "新北市家具商业同业公会"
+      ],
+      "people": [],
+      "organizations": [
+        "新北市家具商业同业公会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0004",
+      "title": "江西检察机关依法对高兴夫涉嫌受贿案提起公诉 2026-06-04",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/qwfb/202606/t20260604_729070.shtml",
+      "link_grade": "A",
+      "body_summary": "江西检察机关依法对高兴夫涉嫌受贿案提起公诉 2026-06-04",
+      "category": "反腐政法",
+      "entities": [
+        "江西"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "江西"
+      ],
+      "domain_tags": [
+        "P0",
+        "反腐政法",
+        "反腐阶段:公诉"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0005",
+      "title": "最高检调研组在广西百色调研",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/tt/202606/t20260604_729118.shtml",
+      "link_grade": "A",
+      "body_summary": "最高检调研组在广西百色调研",
+      "category": "地方与社会治理",
+      "entities": [
+        "广西",
+        "最高检"
+      ],
+      "people": [
+        "最高检"
+      ],
+      "organizations": [],
+      "locations": [
+        "广西"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0006",
+      "title": "当前我国夏粮收获进度超四成",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "新华社",
+      "link": "http://www.news.cn/politics/20260604/3a8e70d99da947dc8216459f33c9c3cb/c.html",
+      "link_grade": "B",
+      "body_summary": "当前我国夏粮收获进度超四成",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0007",
+      "title": "家政服务业破局探路的成都样本观察",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "新华社",
+      "link": "http://www.news.cn/politics/20260604/516199a8cdb74eb0b20ac2b10834a152/c.html",
+      "link_grade": "B",
+      "body_summary": "家政服务业破局探路的成都样本观察",
+      "category": "高层与政策",
+      "entities": [
+        "家政服务业破局"
+      ],
+      "people": [],
+      "organizations": [
+        "家政服务业破局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0008",
+      "title": "完整版 《新闻联播》 20260604 19:00",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/04/VIDEB7PwD2aa5fLu0gc8EpIc260604.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 《新闻联播》 20260604 19:00",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0009",
+      "title": "完整版 [视频]海水淡化能力显著提升 有力保障沿海地区用水需求",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/04/VIDEARl1wi7PbZ3YH70wq4gg260604.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]海水淡化能力显著提升 有力保障沿海地区用水需求",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0010",
+      "title": "完整版 [视频]我国高端钢材供给持续增强",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/04/VIDECCQ2BapRtDf5v3kEOpZ9260604.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]我国高端钢材供给持续增强",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0011",
+      "title": "完整版 [视频]我国自贸试验区持续提升对外开放水平",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/04/VIDE7XnoEBKXINmvYdYmACWb260604.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]我国自贸试验区持续提升对外开放水平",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0012",
+      "title": "完整版 [视频]我国3D打印产业进入快速发展新阶段",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/04/VIDE6UcYbMjA5ifFSNlxoy8J260604.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]我国3D打印产业进入快速发展新阶段",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0013",
+      "title": "商务部新闻发言人就经合组织产业补贴相关报告答记者问",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "商务部",
+      "link": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_d2c462d3aa254ac49b667200bf4d1668.html",
+      "link_grade": "A",
+      "body_summary": "商务部新闻发言人就经合组织产业补贴相关报告答记者问",
+      "category": "涉台涉外",
+      "entities": [
+        "商务部"
+      ],
+      "people": [],
+      "organizations": [
+        "商务部"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0014",
+      "title": "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会议",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "商务部",
+      "link": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_fdb4c5d3aaf946ec9d3944647c9b5abd.html",
+      "link_grade": "A",
+      "body_summary": "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会议",
+      "category": "涉台涉外",
+      "entities": [
+        "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会"
+      ],
+      "people": [],
+      "organizations": [
+        "商务部国际贸易谈判代表兼副部长李成钢出席巴黎世贸组织小型部长会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0015",
+      "title": "伟大征程｜南昌起义：党领导的人民军队从此诞生",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "新华社",
+      "link": "http://www.news.cn/politics/20260604/da5f369a2e524335bc4f3fac7b614fd2/c.html",
+      "link_grade": "B",
+      "body_summary": "伟大征程｜南昌起义：党领导的人民军队从此诞生",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0016",
+      "title": "两岸同庆踩花山节 台湾少数民族同胞在渝以舞会友",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/local/202606/t20260604_12769241.htm",
+      "link_grade": "A",
+      "body_summary": "两岸同庆踩花山节 台湾少数民族同胞在渝以舞会友",
+      "category": "涉台涉外",
+      "entities": [
+        "台湾",
+        "台湾少数民族同胞在渝以舞会"
+      ],
+      "people": [],
+      "organizations": [
+        "台湾少数民族同胞在渝以舞会"
+      ],
+      "locations": [
+        "台湾"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0017",
+      "title": "AI赋能智造未来 两岸共拓融合发展新空间 2026海峡两岸（宁波）数智产业交流活动开幕",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/local/202606/t20260604_12769242.htm",
+      "link_grade": "A",
+      "body_summary": "AI赋能智造未来 两岸共拓融合发展新空间 2026海峡两岸（宁波）数智产业交流活动开幕",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P0",
+        "产业落地",
+        "涉台"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0018",
+      "title": "2026海峡两岸（泰州）智能制造产业对接会在江苏举行",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "国台办",
+      "link": "https://www.gwytb.gov.cn/local/202606/t20260604_12769239.htm",
+      "link_grade": "A",
+      "body_summary": "2026海峡两岸（泰州）智能制造产业对接会在江苏举行",
+      "category": "涉台涉外",
+      "entities": [
+        "智能制造产业对接会",
+        "江苏"
+      ],
+      "people": [],
+      "organizations": [
+        "智能制造产业对接会"
+      ],
+      "locations": [
+        "江苏"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0019",
+      "title": "2026年6月4日国内成品油价格调整",
+      "time": "2026-06-04T00:00:00+08:00",
+      "source": "国家发改委",
+      "link": "https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260604_1405695.html",
+      "link_grade": "A",
+      "body_summary": "2026年6月4日国内成品油价格调整",
+      "category": "宏观与市场",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0020",
+      "title": "重大犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "重大犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0021",
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "link_grade": "A",
+      "body_summary": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "category": "地方与社会治理",
+      "entities": [
+        "云南",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "people": [],
+      "organizations": [
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "locations": [
+        "云南"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0022",
+      "title": "践行习近平生态文明思想的时代答卷",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/xinshidai/xiangqing/501991.html",
+      "link_grade": "A",
+      "body_summary": "践行习近平生态文明思想的时代答卷",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0023",
+      "title": "职务犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "职务犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0024",
+      "title": "经济犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "经济犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0025",
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "link_grade": "A",
+      "body_summary": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "category": "地方与社会治理",
+      "entities": [
+        "第五次全国人民法庭工作会"
+      ],
+      "people": [],
+      "organizations": [
+        "第五次全国人民法庭工作会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0026",
+      "title": "登录邮箱系统",
+      "time": null,
+      "source": "最高法",
+      "link": "http://mail.court.gov.cn/",
+      "link_grade": "A",
+      "body_summary": "登录邮箱系统",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0027",
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "link_grade": "A",
+      "body_summary": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法研判会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法研判会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0028",
+      "title": "香港「在家分娩」父母跨國虐兒疑雲：我們目前所知多少",
+      "time": "2026-06-04T10:59:30+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/c8d8v0v81l1o/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "一對香港父母在為兒子申領出生證過程中涉嫌虐待兒童被捕，兩人事前在網上披露因次女撫養權問題與瑞典當局交涉內容引起網民關注。",
+      "category": "涉台涉外",
+      "entities": [
+        "兩人事前在網上披露因次女撫養權問題與瑞典當局",
+        "香港"
+      ],
+      "people": [],
+      "organizations": [
+        "兩人事前在網上披露因次女撫養權問題與瑞典當局"
+      ],
+      "locations": [
+        "香港"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0029",
+      "title": "先下手為強：南海島礁爭奪的新現實",
+      "time": "2026-06-04T05:57:07+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/c78q2gwxp90o/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "多年來，越南一直目睹中國透過造地來支持其廣泛的領土主張，如今，越南也開始在南海建造一些礁石來鞏固其主張。菲律賓也正在進行類似的做法，只是規模較小。",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0030",
+      "title": "Falling Chinese oil imports ‘shield’ global market from higher prices",
+      "time": "2026-06-04T03:16:36+00:00",
+      "source": "FT China",
+      "link": "https://www.ft.com/content/ef6f00c5-4f2d-4fd3-a6cc-f65081bb1248",
+      "link_grade": "C",
+      "body_summary": "Analysts say near-decade-low shipments are a big factor in crude still trading at less than $100 a barrel",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0031",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "time": "2026-06-04T12:00:00+00:00",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/endava-frontiers",
+      "link_grade": "C",
+      "body_summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P2",
+        "产业落地"
+      ],
+      "importance_score": 0.69
+    },
+    {
+      "candidate_id": "N0032",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "time": "2026-06-04T09:00:00+00:00",
+      "source": "OpenAI News",
+      "link": "https://openai.com/index/chatgpt-memory-dreaming",
+      "link_grade": "C",
+      "body_summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P2",
+        "产业落地"
+      ],
+      "importance_score": 0.69
+    }
+  ]
+}
