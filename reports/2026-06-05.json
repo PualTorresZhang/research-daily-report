@@ -1,0 +1,1953 @@
+{
+  "title": "研究院版日报｜2026年6月5日",
+  "daily_judgment": "今日重点集中在中国人民银行副行长陆磊出席加勒比开发银行2026年年会、P0相关议题：习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈、完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦。该判断来自结构化议题簇，未调用 LLM 深度改写。",
+  "top_issue_cards": [
+    {
+      "cluster_id": "C011",
+      "title": "中国人民银行副行长陆磊出席加勒比开发银行2026年年会",
+      "why_it_matters": "单条高优先级候选，暂无可交叉合并来源。"
+    },
+    {
+      "cluster_id": "C012",
+      "title": "P0相关议题：习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "why_it_matters": "同一社会治理议题。 聚合键：P0；包含10条候选。"
+    },
+    {
+      "cluster_id": "C001",
+      "title": "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦",
+      "why_it_matters": "单条高优先级候选，暂无可交叉合并来源。"
+    },
+    {
+      "cluster_id": "C002",
+      "title": "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦",
+      "why_it_matters": "单条高优先级候选，暂无可交叉合并来源。"
+    },
+    {
+      "cluster_id": "C003",
+      "title": "公安部网安局相关议题：假冒学历认证等网站 公安部网安局发布典型案例",
+      "why_it_matters": "同一政策链条或高层活动。 聚合键：公安部网安局；包含2条候选。"
+    }
+  ],
+  "sections": [
+    {
+      "name": "高层与政策",
+      "items": [
+        {
+          "cluster_id": "C001",
+          "title": "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦",
+          "facts": "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/05/VIDEIDjZHdqfWV7WVJdF1sCu260605.shtml",
+              "grade": "B",
+              "importance_score": 0.94
+            }
+          ]
+        },
+        {
+          "cluster_id": "C002",
+          "title": "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦",
+          "facts": "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/05/VIDE7bS4mmJF8fo6HtIDD6ox260605.shtml",
+              "grade": "B",
+              "importance_score": 0.94
+            }
+          ]
+        },
+        {
+          "cluster_id": "C003",
+          "title": "公安部网安局相关议题：假冒学历认证等网站 公安部网安局发布典型案例",
+          "facts": "假冒学历认证等网站 公安部网安局发布典型案例；假冒学历认证等网站 公安部网安局发布典型案例",
+          "background": " 聚合依据：同一政策链条或高层活动。 聚合键：公安部网安局；包含2条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260605/ac15bbae60ee4e3f8a7c8831efc3df8f/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/legal/20260605/1745fcfc0311479eb9abc86fdeb3e7eb/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        },
+        {
+          "cluster_id": "C004",
+          "title": "市场监管总局公布传统工艺市场“打假清源”典型案例",
+          "facts": "市场监管总局公布传统工艺市场“打假清源”典型案例",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/legal/20260605/9d510f32defd4a5d8ee1fac148c3792a/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        },
+        {
+          "cluster_id": "C005",
+          "title": "政策相关议题：镜观中国丨全面绿色转型 共建美丽中国",
+          "facts": "镜观中国丨全面绿色转型 共建美丽中国；芒种：仲夏始，“三夏”时，耕耘又收获；红外相机拍到大熊猫、雪豹同一天“遛娃”",
+          "background": " 聚合依据：同一政策链条或高层活动。 聚合键：政策；包含7条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260605/bbb6662e7d5a4596a9ef10c6f3921cf1/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260605/b2515b28fc6e44bdb0ec8cc94fb56520/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/local/20260605/a1707cb9e74b46aab342c69427e0bb64/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/local/20260605/9189de2063954d5e904587a7828908ce/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/05/VIDEYgzKDmM12c3iPhXr0kP6260605.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/05/VIDEfnf0p2Hcz22jG5q5jRv0260605.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260605/3d251b697bc3413987bf7ab480d9a5f8/c.html",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织人事",
+      "items": [],
+      "status": "未见重大新增。"
+    },
+    {
+      "name": "反腐政法",
+      "items": [],
+      "status": "未成功抓取，需人工复核。"
+    },
+    {
+      "name": "涉台涉外",
+      "items": [
+        {
+          "cluster_id": "C007",
+          "title": "完整版 [视频]黎真主党称将继续抵抗以色列的占领 以指责黎真主党破坏稳定",
+          "facts": "完整版 [视频]黎真主党称将继续抵抗以色列的占领 以指责黎真主党破坏稳定",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/05/VIDE53TmDi8xj05QwReBevJM260605.shtml",
+              "grade": "B",
+              "importance_score": 0.86
+            }
+          ]
+        },
+        {
+          "cluster_id": "C006",
+          "title": "区域风险相关议题：习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+          "facts": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈；PwC cuts partner payouts in China Evergrande fallout；The US-China decoupling fantasy, with Jessica Chen Weiss",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含3条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "商务部",
+              "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_a91cca5983484a6e8bf3d56db43d7b8f.html",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "FT China",
+              "url": "https://www.ft.com/content/b098c3ad-b372-4ae4-ba4b-5e73031ccae8",
+              "grade": "C",
+              "importance_score": 0.64
+            },
+            {
+              "name": "FT China",
+              "url": "https://www.ft.com/content/34a8939c-ba23-4f20-a414-8ae807dd87ae",
+              "grade": "C",
+              "importance_score": 0.64
+            }
+          ]
+        },
+        {
+          "cluster_id": "C009",
+          "title": "中國禁止訪台新西蘭議員入境 我們都知道甚麼",
+          "facts": "中國禁止訪台新西蘭議員入境 我們都知道甚麼",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/c9wewv7rn4xo/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C",
+              "importance_score": 0.69
+            }
+          ]
+        },
+        {
+          "cluster_id": "C010",
+          "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?",
+          "facts": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?",
+          "background": "对象与议题类型见议题簇实体和聚合理由，需结合外交部回应或外媒交叉校验。 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/ckgpgk74l0xo/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C",
+              "importance_score": 0.64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI与科技产业",
+      "items": [
+        {
+          "cluster_id": "C008",
+          "title": "产业落地相关议题：数智中国丨“有活没人干、有人没活干”不能都怪AI",
+          "facts": "数智中国丨“有活没人干、有人没活干”不能都怪AI；数智中国丨AI时代，户口还重要吗？户籍制度怎么改?；Humanoids bring AI’s creative destruction to the shop floor",
+          "background": "按政策牵引、产业落地、治理风险、出海竞争归纳，普通企业案例降权。 聚合依据：同一AI/产业链条，按政策牵引、产业落地、治理风险、出海竞争归纳。 聚合键：产业落地:产业落地；包含3条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "经济日报",
+              "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013539.shtml",
+              "grade": "B",
+              "importance_score": 0.83
+            },
+            {
+              "name": "经济日报",
+              "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013541.shtml",
+              "grade": "B",
+              "importance_score": 0.83
+            },
+            {
+              "name": "FT China",
+              "url": "https://www.ft.com/content/7531654f-6399-422b-a93c-97d487a76d54",
+              "grade": "C",
+              "importance_score": 0.69
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "宏观与市场",
+      "items": [
+        {
+          "cluster_id": "C011",
+          "title": "中国人民银行副行长陆磊出席加勒比开发银行2026年年会",
+          "facts": "中国人民银行副行长陆磊出席加勒比开发银行2026年年会",
+          "background": " 聚合依据：单条高优先级候选，暂无可交叉合并来源。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "央行",
+              "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060516430689094/index.html",
+              "grade": "A",
+              "importance_score": 0.96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地方与社会治理",
+      "items": [
+        {
+          "cluster_id": "C012",
+          "title": "P0相关议题：习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+          "facts": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈；最高检发布6件生态环境检察公益诉讼典型案例；【世界环境日】崖沙燕的手账日记",
+          "background": " 聚合依据：同一社会治理议题。 聚合键：P0；包含10条候选。",
+          "observation": "该条由结构化议题簇生成，未调用 LLM 深度改写；需人工复核判断层。",
+          "follow_up": "关注是否出现A/B级来源补充、后续表态、执行细则或案件阶段推进。",
+          "sources": [
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/tt/202606/t20260605_729187.shtml",
+              "grade": "A",
+              "importance_score": 1.0
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/xwfbh/wsfbt/202606/t20260605_729172.shtml#1",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zdgz/tj/202606/t20260605_729146.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/sp/202606/t20260605_729191.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "http://mail.court.gov.cn/",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+              "grade": "A",
+              "importance_score": 0.96
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+              "grade": "A",
+              "importance_score": 0.96
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "title": "镜观中国丨全面绿色转型 共建美丽中国",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260605/bbb6662e7d5a4596a9ef10c6f3921cf1/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "芒种：仲夏始，“三夏”时，耕耘又收获",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260605/b2515b28fc6e44bdb0ec8cc94fb56520/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "红外相机拍到大熊猫、雪豹同一天“遛娃”",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/local/20260605/a1707cb9e74b46aab342c69427e0bb64/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "河南多地以科技赋能助力“三夏”生产",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/local/20260605/9189de2063954d5e904587a7828908ce/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "最高检发布6件生态环境检察公益诉讼典型案例",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/xwfbh/wsfbt/202606/t20260605_729172.shtml#1",
+      "category": "要闻"
+    },
+    {
+      "title": "市场监管总局公布传统工艺市场“打假清源”典型案例",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/legal/20260605/9d510f32defd4a5d8ee1fac148c3792a/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "完整版 《新闻联播》 20260605 21:00",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/05/VIDEYgzKDmM12c3iPhXr0kP6260605.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]黎真主党称将继续抵抗以色列的占领 以指责黎真主党破坏稳定",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/05/VIDE53TmDi8xj05QwReBevJM260605.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/05/VIDE7bS4mmJF8fo6HtIDD6ox260605.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]环境日：全民参与 共建美丽中国",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/05/VIDEfnf0p2Hcz22jG5q5jRv0260605.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/05/VIDEIDjZHdqfWV7WVJdF1sCu260605.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "假冒学历认证等网站 公安部网安局发布典型案例",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260605/ac15bbae60ee4e3f8a7c8831efc3df8f/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "假冒学历认证等网站 公安部网安局发布典型案例",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/legal/20260605/1745fcfc0311479eb9abc86fdeb3e7eb/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "source_name": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_a91cca5983484a6e8bf3d56db43d7b8f.html",
+      "category": "涉外"
+    },
+    {
+      "title": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/tt/202606/t20260605_729187.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "中国人民银行副行长陆磊出席加勒比开发银行2026年年会",
+      "source_name": "央行",
+      "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060516430689094/index.html",
+      "category": "经济"
+    },
+    {
+      "title": "【世界环境日】崖沙燕的手账日记",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zdgz/tj/202606/t20260605_729146.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "“薪事”大于天｜案“鉴”",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/sp/202606/t20260605_729191.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "“从0到1”，哈工大向基础研究发起冲锋",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260605/3d251b697bc3413987bf7ab480d9a5f8/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "重大犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "category": "要闻"
+    },
+    {
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "category": "要闻"
+    },
+    {
+      "title": "登录邮箱系统",
+      "source_name": "最高法",
+      "url": "http://mail.court.gov.cn/",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+      "category": "要闻"
+    },
+    {
+      "title": "数智中国丨“有活没人干、有人没活干”不能都怪AI",
+      "source_name": "经济日报",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013539.shtml",
+      "category": "科技与产业"
+    },
+    {
+      "title": "数智中国丨AI时代，户口还重要吗？户籍制度怎么改?",
+      "source_name": "经济日报",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013541.shtml",
+      "category": "科技与产业"
+    },
+    {
+      "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgpgk74l0xo/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "中國禁止訪台新西蘭議員入境 我們都知道甚麼",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/c9wewv7rn4xo/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "PwC cuts partner payouts in China Evergrande fallout",
+      "source_name": "FT China",
+      "url": "https://www.ft.com/content/b098c3ad-b372-4ae4-ba4b-5e73031ccae8",
+      "category": "涉外"
+    },
+    {
+      "title": "Humanoids bring AI’s creative destruction to the shop floor",
+      "source_name": "FT China",
+      "url": "https://www.ft.com/content/7531654f-6399-422b-a93c-97d487a76d54",
+      "category": "科技与产业"
+    },
+    {
+      "title": "The US-China decoupling fantasy, with Jessica Chen Weiss",
+      "source_name": "FT China",
+      "url": "https://www.ft.com/content/34a8939c-ba23-4f20-a414-8ae807dd87ae",
+      "category": "涉外"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": "C011",
+      "cluster_title": "中国人民银行副行长陆磊出席加勒比开发银行2026年年会",
+      "primary_source": {
+        "name": "央行",
+        "url": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060516430689094/index.html",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0016"
+      ],
+      "included_item_titles": [
+        "中国人民银行副行长陆磊出席加勒比开发银行2026年年会"
+      ],
+      "entities": [
+        "中国人民银行副行长陆磊出席加勒比开发银行2026年年会"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "宏观与市场",
+      "importance_score": 0.96,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ]
+    },
+    {
+      "cluster_id": "C012",
+      "cluster_title": "P0相关议题：习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "primary_source": {
+        "name": "最高检",
+        "url": "https://www.spp.gov.cn/tt/202606/t20260605_729187.shtml",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/xwfbh/wsfbt/202606/t20260605_729172.shtml#1",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zdgz/tj/202606/t20260605_729146.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/sp/202606/t20260605_729191.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "http://mail.court.gov.cn/",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+          "grade": "A",
+          "importance_score": 0.96
+        }
+      ],
+      "included_items": [
+        "N0015",
+        "N0005",
+        "N0017",
+        "N0018",
+        "N0020",
+        "N0021",
+        "N0022",
+        "N0023",
+        "N0024",
+        "N0025"
+      ],
+      "included_item_titles": [
+        "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+        "最高检发布6件生态环境检察公益诉讼典型案例",
+        "【世界环境日】崖沙燕的手账日记",
+        "“薪事”大于天｜案“鉴”",
+        "重大犯罪检察",
+        "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+        "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+        "登录邮箱系统",
+        "最高法研判会商2026年第一季度司法审判数据 张军强...",
+        "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力"
+      ],
+      "entities": [
+        "云南",
+        "国家主席通伦举行会",
+        "最高法召开未成年人保护专题研讨会",
+        "最高法研判会",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "第五次全国人民法庭工作会",
+        "邓修明在云南法院"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "地方与社会治理",
+      "importance_score": 0.96,
+      "confidence_score": 0.98,
+      "why_grouped": "同一社会治理议题。 聚合键：P0；包含10条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ]
+    },
+    {
+      "cluster_id": "C001",
+      "cluster_title": "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/05/VIDEIDjZHdqfWV7WVJdF1sCu260605.shtml",
+        "grade": "B",
+        "importance_score": 0.94
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0011"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦"
+      ],
+      "entities": [
+        "李强会"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.94,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C002",
+      "cluster_title": "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/05/VIDE7bS4mmJF8fo6HtIDD6ox260605.shtml",
+        "grade": "B",
+        "importance_score": 0.94
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0009"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦"
+      ],
+      "entities": [
+        "赵乐际会"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.94,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C003",
+      "cluster_title": "公安部网安局相关议题：假冒学历认证等网站 公安部网安局发布典型案例",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/politics/20260605/ac15bbae60ee4e3f8a7c8831efc3df8f/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/legal/20260605/1745fcfc0311479eb9abc86fdeb3e7eb/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        }
+      ],
+      "included_items": [
+        "N0012",
+        "N0013"
+      ],
+      "included_item_titles": [
+        "假冒学历认证等网站 公安部网安局发布典型案例",
+        "假冒学历认证等网站 公安部网安局发布典型案例"
+      ],
+      "entities": [
+        "公安部网安局"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.85,
+      "why_grouped": "同一政策链条或高层活动。 聚合键：公安部网安局；包含2条候选。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C004",
+      "cluster_title": "市场监管总局公布传统工艺市场“打假清源”典型案例",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/legal/20260605/9d510f32defd4a5d8ee1fac148c3792a/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0006"
+      ],
+      "included_item_titles": [
+        "市场监管总局公布传统工艺市场“打假清源”典型案例"
+      ],
+      "entities": [
+        "市场监管总局"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C005",
+      "cluster_title": "政策相关议题：镜观中国丨全面绿色转型 共建美丽中国",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/politics/20260605/bbb6662e7d5a4596a9ef10c6f3921cf1/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260605/b2515b28fc6e44bdb0ec8cc94fb56520/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/local/20260605/a1707cb9e74b46aab342c69427e0bb64/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/local/20260605/9189de2063954d5e904587a7828908ce/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/05/VIDEYgzKDmM12c3iPhXr0kP6260605.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/05/VIDEfnf0p2Hcz22jG5q5jRv0260605.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260605/3d251b697bc3413987bf7ab480d9a5f8/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        }
+      ],
+      "included_items": [
+        "N0001",
+        "N0002",
+        "N0003",
+        "N0004",
+        "N0007",
+        "N0010",
+        "N0019"
+      ],
+      "included_item_titles": [
+        "镜观中国丨全面绿色转型 共建美丽中国",
+        "芒种：仲夏始，“三夏”时，耕耘又收获",
+        "红外相机拍到大熊猫、雪豹同一天“遛娃”",
+        "河南多地以科技赋能助力“三夏”生产",
+        "完整版 《新闻联播》 20260605 21:00",
+        "完整版 [视频]环境日：全民参与 共建美丽中国",
+        "“从0到1”，哈工大向基础研究发起冲锋"
+      ],
+      "entities": [
+        "河南"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.95,
+      "why_grouped": "同一政策链条或高层活动。 聚合键：政策；包含7条候选。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C007",
+      "cluster_title": "完整版 [视频]黎真主党称将继续抵抗以色列的占领 以指责黎真主党破坏稳定",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/05/VIDE53TmDi8xj05QwReBevJM260605.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0008"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]黎真主党称将继续抵抗以色列的占领 以指责黎真主党破坏稳定"
+      ],
+      "entities": [
+        "以色列"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C008",
+      "cluster_title": "产业落地相关议题：数智中国丨“有活没人干、有人没活干”不能都怪AI",
+      "primary_source": {
+        "name": "经济日报",
+        "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013539.shtml",
+        "grade": "B",
+        "importance_score": 0.83
+      },
+      "supporting_sources": [
+        {
+          "name": "经济日报",
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013541.shtml",
+          "grade": "B",
+          "importance_score": 0.83
+        },
+        {
+          "name": "FT China",
+          "url": "https://www.ft.com/content/7531654f-6399-422b-a93c-97d487a76d54",
+          "grade": "C",
+          "importance_score": 0.69
+        }
+      ],
+      "included_items": [
+        "N0026",
+        "N0027",
+        "N0031"
+      ],
+      "included_item_titles": [
+        "数智中国丨“有活没人干、有人没活干”不能都怪AI",
+        "数智中国丨AI时代，户口还重要吗？户籍制度怎么改?",
+        "Humanoids bring AI’s creative destruction to the shop floor"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T04:00:16+00:00"
+      },
+      "category": "AI与科技产业",
+      "importance_score": 0.78,
+      "confidence_score": 0.98,
+      "why_grouped": "同一AI/产业链条，按政策牵引、产业落地、治理风险、出海竞争归纳。 聚合键：产业落地:产业落地；包含3条候选。",
+      "link_grades": [
+        "B",
+        "C"
+      ],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P1",
+        "产业落地",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C006",
+      "cluster_title": "区域风险相关议题：习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "primary_source": {
+        "name": "商务部",
+        "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_a91cca5983484a6e8bf3d56db43d7b8f.html",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [
+        {
+          "name": "FT China",
+          "url": "https://www.ft.com/content/b098c3ad-b372-4ae4-ba4b-5e73031ccae8",
+          "grade": "C",
+          "importance_score": 0.64
+        },
+        {
+          "name": "FT China",
+          "url": "https://www.ft.com/content/34a8939c-ba23-4f20-a414-8ae807dd87ae",
+          "grade": "C",
+          "importance_score": 0.64
+        }
+      ],
+      "included_items": [
+        "N0014",
+        "N0030",
+        "N0032"
+      ],
+      "included_item_titles": [
+        "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+        "PwC cuts partner payouts in China Evergrande fallout",
+        "The US-China decoupling fantasy, with Jessica Chen Weiss"
+      ],
+      "entities": [
+        "国家主席通伦举行会"
+      ],
+      "time_span": {
+        "start": "2026-06-05T00:00:00+08:00",
+        "end": "2026-06-05T04:00:26+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.76,
+      "confidence_score": 0.98,
+      "why_grouped": "同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含3条候选。",
+      "link_grades": [
+        "A",
+        "C"
+      ],
+      "domain_tags": [
+        "P0",
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C009",
+      "cluster_title": "中國禁止訪台新西蘭議員入境 我們都知道甚麼",
+      "primary_source": {
+        "name": "BBC China",
+        "url": "https://www.bbc.com/zhongwen/articles/c9wewv7rn4xo/trad?at_medium=RSS&at_campaign=rss",
+        "grade": "C",
+        "importance_score": 0.69
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0029"
+      ],
+      "included_item_titles": [
+        "中國禁止訪台新西蘭議員入境 我們都知道甚麼"
+      ],
+      "entities": [
+        "北京"
+      ],
+      "time_span": {
+        "start": "2026-06-05T09:25:08+00:00",
+        "end": "2026-06-05T09:25:08+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.69,
+      "confidence_score": 0.65,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "C"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "贸易科技战"
+      ]
+    },
+    {
+      "cluster_id": "C010",
+      "cluster_title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?",
+      "primary_source": {
+        "name": "BBC China",
+        "url": "https://www.bbc.com/zhongwen/articles/ckgpgk74l0xo/trad?at_medium=RSS&at_campaign=rss",
+        "grade": "C",
+        "importance_score": 0.64
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0028"
+      ],
+      "included_item_titles": [
+        "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?"
+      ],
+      "entities": [
+        "香港"
+      ],
+      "time_span": {
+        "start": "2026-06-05T09:31:05+00:00",
+        "end": "2026-06-05T09:31:05+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.64,
+      "confidence_score": 0.65,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "C"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C013",
+      "cluster_title": "组织人事",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "组织人事",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未见重大新增。",
+      "status": "未见重大新增。",
+      "link_grades": [],
+      "domain_tags": []
+    },
+    {
+      "cluster_id": "C014",
+      "cluster_title": "反腐政法",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "反腐政法",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未成功抓取，需人工复核。",
+      "status": "未成功抓取，需人工复核。",
+      "link_grades": [],
+      "domain_tags": []
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "N0001",
+      "title": "镜观中国丨全面绿色转型 共建美丽中国",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260605/bbb6662e7d5a4596a9ef10c6f3921cf1/c.html",
+      "link_grade": "B",
+      "body_summary": "镜观中国丨全面绿色转型 共建美丽中国",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0002",
+      "title": "芒种：仲夏始，“三夏”时，耕耘又收获",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260605/b2515b28fc6e44bdb0ec8cc94fb56520/c.html",
+      "link_grade": "B",
+      "body_summary": "芒种：仲夏始，“三夏”时，耕耘又收获",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0003",
+      "title": "红外相机拍到大熊猫、雪豹同一天“遛娃”",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/local/20260605/a1707cb9e74b46aab342c69427e0bb64/c.html",
+      "link_grade": "B",
+      "body_summary": "红外相机拍到大熊猫、雪豹同一天“遛娃”",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0004",
+      "title": "河南多地以科技赋能助力“三夏”生产",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/local/20260605/9189de2063954d5e904587a7828908ce/c.html",
+      "link_grade": "B",
+      "body_summary": "河南多地以科技赋能助力“三夏”生产",
+      "category": "高层与政策",
+      "entities": [
+        "河南"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "河南"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0005",
+      "title": "最高检发布6件生态环境检察公益诉讼典型案例",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/xwfbh/wsfbt/202606/t20260605_729172.shtml#1",
+      "link_grade": "A",
+      "body_summary": "最高检发布6件生态环境检察公益诉讼典型案例",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0006",
+      "title": "市场监管总局公布传统工艺市场“打假清源”典型案例",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/legal/20260605/9d510f32defd4a5d8ee1fac148c3792a/c.html",
+      "link_grade": "B",
+      "body_summary": "市场监管总局公布传统工艺市场“打假清源”典型案例",
+      "category": "高层与政策",
+      "entities": [
+        "市场监管总局"
+      ],
+      "people": [],
+      "organizations": [
+        "市场监管总局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0007",
+      "title": "完整版 《新闻联播》 20260605 21:00",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/05/VIDEYgzKDmM12c3iPhXr0kP6260605.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 《新闻联播》 20260605 21:00",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0008",
+      "title": "完整版 [视频]黎真主党称将继续抵抗以色列的占领 以指责黎真主党破坏稳定",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/05/VIDE53TmDi8xj05QwReBevJM260605.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]黎真主党称将继续抵抗以色列的占领 以指责黎真主党破坏稳定",
+      "category": "涉台涉外",
+      "entities": [
+        "以色列"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "以色列"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0009",
+      "title": "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/05/VIDE7bS4mmJF8fo6HtIDD6ox260605.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]赵乐际会见老挝人民革命党中央总书记、国家主席通伦",
+      "category": "高层与政策",
+      "entities": [
+        "赵乐际会"
+      ],
+      "people": [],
+      "organizations": [
+        "赵乐际会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.94
+    },
+    {
+      "candidate_id": "N0010",
+      "title": "完整版 [视频]环境日：全民参与 共建美丽中国",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/05/VIDEfnf0p2Hcz22jG5q5jRv0260605.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]环境日：全民参与 共建美丽中国",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0011",
+      "title": "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/05/VIDEIDjZHdqfWV7WVJdF1sCu260605.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]李强会见老挝人民革命党中央总书记、国家主席通伦",
+      "category": "高层与政策",
+      "entities": [
+        "李强会"
+      ],
+      "people": [],
+      "organizations": [
+        "李强会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.94
+    },
+    {
+      "candidate_id": "N0012",
+      "title": "假冒学历认证等网站 公安部网安局发布典型案例",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260605/ac15bbae60ee4e3f8a7c8831efc3df8f/c.html",
+      "link_grade": "B",
+      "body_summary": "假冒学历认证等网站 公安部网安局发布典型案例",
+      "category": "高层与政策",
+      "entities": [
+        "公安部网安局"
+      ],
+      "people": [],
+      "organizations": [
+        "公安部网安局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0013",
+      "title": "假冒学历认证等网站 公安部网安局发布典型案例",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/legal/20260605/1745fcfc0311479eb9abc86fdeb3e7eb/c.html",
+      "link_grade": "B",
+      "body_summary": "假冒学历认证等网站 公安部网安局发布典型案例",
+      "category": "高层与政策",
+      "entities": [
+        "公安部网安局"
+      ],
+      "people": [],
+      "organizations": [
+        "公安部网安局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0014",
+      "title": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "商务部",
+      "link": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_a91cca5983484a6e8bf3d56db43d7b8f.html",
+      "link_grade": "A",
+      "body_summary": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "category": "涉台涉外",
+      "entities": [
+        "国家主席通伦举行会"
+      ],
+      "people": [],
+      "organizations": [
+        "国家主席通伦举行会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0015",
+      "title": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/tt/202606/t20260605_729187.shtml",
+      "link_grade": "A",
+      "body_summary": "习近平同老挝人民革命党中央总书记、国家主席通伦举行会谈",
+      "category": "地方与社会治理",
+      "entities": [
+        "国家主席通伦举行会"
+      ],
+      "people": [],
+      "organizations": [
+        "国家主席通伦举行会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0016",
+      "title": "中国人民银行副行长陆磊出席加勒比开发银行2026年年会",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "央行",
+      "link": "http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026060516430689094/index.html",
+      "link_grade": "A",
+      "body_summary": "中国人民银行副行长陆磊出席加勒比开发银行2026年年会",
+      "category": "宏观与市场",
+      "entities": [
+        "中国人民银行副行长陆磊出席加勒比开发银行2026年年会"
+      ],
+      "people": [],
+      "organizations": [
+        "中国人民银行副行长陆磊出席加勒比开发银行2026年年会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "宏观与市场"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0017",
+      "title": "【世界环境日】崖沙燕的手账日记",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zdgz/tj/202606/t20260605_729146.shtml",
+      "link_grade": "A",
+      "body_summary": "【世界环境日】崖沙燕的手账日记",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0018",
+      "title": "“薪事”大于天｜案“鉴”",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/sp/202606/t20260605_729191.shtml",
+      "link_grade": "A",
+      "body_summary": "“薪事”大于天｜案“鉴”",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0019",
+      "title": "“从0到1”，哈工大向基础研究发起冲锋",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260605/3d251b697bc3413987bf7ab480d9a5f8/c.html",
+      "link_grade": "B",
+      "body_summary": "“从0到1”，哈工大向基础研究发起冲锋",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0020",
+      "title": "重大犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "重大犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0021",
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "link_grade": "A",
+      "body_summary": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "category": "地方与社会治理",
+      "entities": [
+        "云南",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "people": [],
+      "organizations": [
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "locations": [
+        "云南"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0022",
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "link_grade": "A",
+      "body_summary": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "category": "地方与社会治理",
+      "entities": [
+        "第五次全国人民法庭工作会"
+      ],
+      "people": [],
+      "organizations": [
+        "第五次全国人民法庭工作会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0023",
+      "title": "登录邮箱系统",
+      "time": null,
+      "source": "最高法",
+      "link": "http://mail.court.gov.cn/",
+      "link_grade": "A",
+      "body_summary": "登录邮箱系统",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0024",
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "link_grade": "A",
+      "body_summary": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法研判会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法研判会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0025",
+      "title": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+      "link_grade": "A",
+      "body_summary": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法召开未成年人保护专题研讨会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法召开未成年人保护专题研讨会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0026",
+      "title": "数智中国丨“有活没人干、有人没活干”不能都怪AI",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "经济日报",
+      "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013539.shtml",
+      "link_grade": "B",
+      "body_summary": "数智中国丨“有活没人干、有人没活干”不能都怪AI",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P1",
+        "产业落地"
+      ],
+      "importance_score": 0.83
+    },
+    {
+      "candidate_id": "N0027",
+      "title": "数智中国丨AI时代，户口还重要吗？户籍制度怎么改?",
+      "time": "2026-06-05T00:00:00+08:00",
+      "source": "经济日报",
+      "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260605_3013541.shtml",
+      "link_grade": "B",
+      "body_summary": "数智中国丨AI时代，户口还重要吗？户籍制度怎么改?",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P1",
+        "产业落地"
+      ],
+      "importance_score": 0.83
+    },
+    {
+      "candidate_id": "N0028",
+      "title": "中國大陸「開戶特種兵」湧入香港，資金外流之門為何收窄?",
+      "time": "2026-06-05T09:31:05+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpgk74l0xo/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "張先生有種感覺，他覺得門正在關上。他要趁門完全關緊之前，把自己的資金往外送一些。但出來一看，很多人都有同樣的想法，所以大家都在排著隊。",
+      "category": "涉台涉外",
+      "entities": [
+        "香港"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "香港"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0029",
+      "title": "中國禁止訪台新西蘭議員入境 我們都知道甚麼",
+      "time": "2026-06-05T09:25:08+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/c9wewv7rn4xo/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "中國首次制裁四名近期訪問過台灣的新西蘭民選代表，台北、惠靈頓以至於坎培拉均表達不滿。北京警告相關人士「必將付出代價」。",
+      "category": "涉台涉外",
+      "entities": [
+        "北京"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "北京"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "贸易科技战"
+      ],
+      "importance_score": 0.69
+    },
+    {
+      "candidate_id": "N0030",
+      "title": "PwC cuts partner payouts in China Evergrande fallout",
+      "time": "2026-06-05T04:00:26+00:00",
+      "source": "FT China",
+      "link": "https://www.ft.com/content/b098c3ad-b372-4ae4-ba4b-5e73031ccae8",
+      "link_grade": "C",
+      "body_summary": "Proceeds from a 2022 disposal will no longer be distributed as firm deals with fines and looming lawsuit",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0031",
+      "title": "Humanoids bring AI’s creative destruction to the shop floor",
+      "time": "2026-06-05T04:00:16+00:00",
+      "source": "FT China",
+      "link": "https://www.ft.com/content/7531654f-6399-422b-a93c-97d487a76d54",
+      "link_grade": "C",
+      "body_summary": "The anxiety of those whose jobs are at risk won’t be enough to stave off the march of the androids",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P1",
+        "产业落地",
+        "涉外"
+      ],
+      "importance_score": 0.69
+    },
+    {
+      "candidate_id": "N0032",
+      "title": "The US-China decoupling fantasy, with Jessica Chen Weiss",
+      "time": "2026-06-05T04:00:00+00:00",
+      "source": "FT China",
+      "link": "https://www.ft.com/content/34a8939c-ba23-4f20-a414-8ae807dd87ae",
+      "link_grade": "C",
+      "body_summary": "Despite their differences, the world’s economic superpowers are bound together",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.64
+    }
+  ],
+  "quality_scores": {
+    "官方源覆盖率": "43%",
+    "组织人事覆盖": "0%",
+    "反腐政法覆盖": "0%",
+    "涉台涉外覆盖": "100%",
+    "AI栏目质量": "100%",
+    "链接可验证率": "100%",
+    "议题簇合并率": "42%",
+    "重复新闻率": "4%",
+    "低价值资讯占比": "0%",
+    "硬性检查通过数": "2/6",
+    "说明": "议题簇合并率低于60%时，应优先补充外部校验源或手动源，避免单条新闻改写。"
+  },
+  "benchmark_eval": {
+    "benchmark_name": "人工版议题敏感度样例",
+    "coverage_rate": "0%",
+    "matched_topics": [],
+    "missing_topics": [
+      "高考保障与基础教育",
+      "正确政绩观学习教育指导组",
+      "十四五经济社会发展成就",
+      "发改委国企座谈与资源安全",
+      "二手房成交修复",
+      "央行逆回购归零",
+      "太空算力产业",
+      "中国大模型与企业Agent",
+      "美国AI安全监管",
+      "郑丽文访美",
+      "国台办发布会",
+      "对台军售",
+      "强迫劳动关税",
+      "欧盟技术主权",
+      "所罗门安全协议",
+      "中日航班与日本防务",
+      "中菲摩擦",
+      "伊朗局势",
+      "宁夏宣传部长调整",
+      "王莉霞公诉"
+    ],
+    "required_section_gaps": [
+      "反腐政法",
+      "组织人事"
+    ],
+    "gap_summary": "自动版应重点补齐人工版中的跨源合并、背景链条和组织人事/反腐/涉台/AI稳定覆盖。"
+  },
+  "meta": {
+    "llm_used": false,
+    "pipeline_version": "research-daily-compiler-v1"
+  }
+}
