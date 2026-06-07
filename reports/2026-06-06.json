@@ -1,0 +1,1220 @@
+{
+  "title": "研究院版日报｜2026年6月6日",
+  "daily_judgment": "今日外交动作密集：韩正在俄罗斯出席论坛并会见普京，同时习近平访朝行程公布，中东美伊冲突升级。国内层面，财政金融政策组合拳加码扩内需，最高法、最高检集中发布司法审判数据与重点工作。AI领域大厂裁员引发关注。涉台与反腐栏目因系统未成功抓取需人工复核。",
+  "top_issue_cards": [
+    {
+      "cluster_id": "C002",
+      "title": "韩正出席圣彼得堡国际经济论坛并会见俄罗斯总统",
+      "why_it_matters": "在中俄战略协作深化背景下，韩正此次高规格出席论坛并会见普京，释放双边经贸与政治互信信号，对研判中俄合作走向具有指标意义。"
+    },
+    {
+      "cluster_id": "C004",
+      "title": "美军袭击伊朗沿海地区，伊朗反击美第五舰队",
+      "why_it_matters": "中东冲突急剧升级，可能影响全球能源价格与海运安全，也牵动中美俄在中东的博弈立场。"
+    }
+  ],
+  "sections": [
+    {
+      "name": "高层与政策",
+      "items": [
+        {
+          "cluster_id": "C001",
+          "title": "新闻联播：财政金融“组合拳”更大力度支持扩内需",
+          "facts": "【事实】6月6日央视《新闻联播》报道，财政金融政策“组合拳”将加大力度支持扩大内需，具体措施包括财政贴息、结构性货币政策工具等。",
+          "background": "【背景/补充】此前4月政治局会议已提出“积极扩大国内需求”，降准降息预期持续。此次“组合拳”提法可能是正式政策宣示的前奏。",
+          "observation": "【观察】扩内需是当前经济工作重点，财政与金融联动表明政策协同力度加强，可能为后续专项债加速发行或消费刺激措施铺垫。",
+          "follow_up": "【后续跟踪】关注国务院层面是否发布具体实施方案，以及6月MLF利率是否调整。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/06/VIDEOJr26dGlRl4iSckbUe6S260606.shtml",
+              "grade": "B"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C002",
+          "title": "韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞",
+          "facts": "【事实】6月6日，国家副主席韩正在俄罗斯圣彼得堡出席第二十九届圣彼得堡国际经济论坛全会并致辞，随后会见俄罗斯总统普京。",
+          "background": "【背景/补充】圣彼得堡国际经济论坛是俄方年度重要经济外交平台。韩正此行系今年4月俄总统普京访华后双方高层互动的延续，也是继5月李强总理访俄后的又一次高层接触。",
+          "observation": "【观察】韩正出席论坛并单独会见普京，显示中方对中俄经贸合作的重视，可能涉及能源、基础设施、金融结算等议题。",
+          "follow_up": "【后续跟踪】关注论坛期间是否发布中俄联合声明或签署合作文件。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/06/VIDEHBGlXQqiE7ArzoJEd730260606.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/06/VIDECH1WOikGEW4mRdO165rH260606.shtml",
+              "grade": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "组织人事",
+      "items": [],
+      "status": "未见重大新增。"
+    },
+    {
+      "name": "反腐政法",
+      "items": [],
+      "status": "未成功抓取，需人工复核。"
+    },
+    {
+      "name": "涉台涉外",
+      "items": [
+        {
+          "cluster_id": "C003",
+          "title": "中国—新西兰第34届经贸联委会举行",
+          "facts": "【事实】6月6日，中国—新西兰第34届经贸联委会举行，具体成果未披露。来源：商务部官网。",
+          "background": "【背景/补充】中新关系近期因AUKUS、五眼联盟等出现波折，但经贸合作仍是压舱石。联委会为年度机制，讨论贸易、投资、农业等议题。",
+          "observation": "【观察】在西方对华“脱钩”压力下，新西兰保持相对务实态度，此次会议或涉及乳制品、木材等贸易便利化安排。",
+          "follow_up": "【后续跟踪】关注会后联合声明细节，尤其是关于数字经济和绿色合作的表述。",
+          "sources": [
+            {
+              "name": "商务部",
+              "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_1b3f6de0f330437896ce6998e589191a.html",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C004",
+          "title": "美军袭击伊朗沿海地区，伊朗称打击美海军第五舰队",
+          "facts": "【事实】6月6日，央视新闻联播报道，美军袭击伊朗部分沿海地区，伊朗军方声称对美海军第五舰队重要设施实施了打击。",
+          "background": "【背景/补充】此前伊朗核问题谈判陷入僵局，以色列与美国持续施压。此次冲突是近年来美伊之间规模最大的直接军事对抗。",
+          "observation": "【观察】事件迅速升级，可能引发霍尔木兹海峡通行中断风险，国际油价已出现波动。中国作为伊朗石油主要进口国之一需关注能源供应安全。",
+          "follow_up": "【后续跟踪】跟踪联合国安理会紧急会议、伊朗是否封锁海峡、美国后续军事反应。",
+          "sources": [
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/06/VIDEnZU1aonNJ9EuNrnP4w1d260606.shtml",
+              "grade": "B"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C003",
+          "title": "习近平时隔近七年将访问朝鲜会见金正恩（BBC报道）",
+          "facts": "【事实】BBC于6月5日报道，习近平即将对朝鲜进行时隔近七年的访问，与金正恩会面。消息来源为匿名外交人士，未必经官方确认。",
+          "background": "【背景/补充】习近平上次访朝为2019年6月。此次访问距离会见美俄领导人仅数周，显示中方在东北亚外交中的活跃角色。",
+          "observation": "【观察】若成行，将是中国对朝鲜战略支持的重要信号，也可能在半岛无核化问题上协调立场。但当前美伊冲突可能分散全球注意力。",
+          "follow_up": "【后续跟踪】等待中国外交部或朝中社正式公布日程。",
+          "sources": [
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/c0r2r29nzz4o/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C003",
+          "title": "中国整治微短剧中软色情、暴力和拜金内容（BBC报道）",
+          "facts": "【事实】BBC报道，中国相关部门近期加大了对网络微短剧的监管力度，重点整治软色情、暴力和拜金主义内容。",
+          "background": "【背景/补充】微短剧近年来在中国市场爆发式增长，但内容质量参差。此轮整治延续了2024年以来对网络视听内容的规范趋势。",
+          "observation": "【观察】监管收紧可能影响短视频平台的内容生产与商业变现模式，但有利于行业长期健康发展。",
+          "follow_up": "【后续跟踪】关注广电总局是否发布正式管理办法。",
+          "sources": [
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/c8r8r88z5yko/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C"
+            }
+          ]
+        }
+      ],
+      "status": "涉台部分未成功抓取，需人工复核。"
+    },
+    {
+      "name": "AI与科技产业",
+      "items": [
+        {
+          "cluster_id": "C006",
+          "title": "经济日报：AI浪潮下，大厂产生降本裁员“冲动”",
+          "facts": "【事实】经济日报发表文章指出，在AI技术快速迭代背景下，部分科技大厂出现通过裁员降低成本的倾向，可能导致结构性失业问题。",
+          "background": "【背景/补充】2024年以来多家中国互联网公司（如百度、阿里、腾讯）已进行多轮组织调整，AI替代人工岗位的焦虑持续升温。",
+          "observation": "【观察】官方媒体关注此话题，或预示政策层面将出台应对AI就业冲击的举措，如技能培训补贴或社会保障调整。",
+          "follow_up": "【后续跟踪】关注人社部是否出台应对AI就业影响的指导意见。",
+          "sources": [
+            {
+              "name": "经济日报",
+              "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260606_3014702.shtml",
+              "grade": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "宏观与市场",
+      "items": [],
+      "status": "未见重大新增。"
+    },
+    {
+      "name": "地方与社会治理",
+      "items": [
+        {
+          "cluster_id": "C007",
+          "title": "最高法：邓修明在云南法院调研，强调审判工作服务中国式现代化",
+          "facts": "【事实】最高法副院长邓修明在云南法院调研时强调，加强新时代审判工作，服务在中国式现代化进程中开创云南发展新局面。来源：最高法官网。",
+          "background": "【背景/补充】邓修明此前任江苏省委政法委书记，2024年调任最高法。此次调研是最高法2026年基层走访系列活动之一。",
+          "observation": "【观察】云南地处边疆，审判工作需兼顾民族地区稳定与“一带一路”司法保障，此次调研或为相关司法解释铺路。",
+          "follow_up": "【后续跟踪】关注云南高院是否出台服务边境贸易的司法意见。",
+          "sources": [
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C007",
+          "title": "第五次全国人民法庭工作会议召开，推动法庭工作高质量发展",
+          "facts": "【事实】6月6日，第五次全国人民法庭工作会议召开，主题为推动人民法庭工作高质量发展，为加强新时代审判工作夯基固本。来源：最高法。",
+          "background": "【背景/补充】人民法庭是基层法院的派出机构，承担大量民商事纠纷化解。此次会议是对2019年第四次工作会议以来经验的总结和再部署。",
+          "observation": "【观察】会议强调“夯基固本”和“高质量发展”，预计后续将出台人民法庭建设标准化文件，提升基层司法能力。",
+          "follow_up": "【后续跟踪】关注会议是否发布《关于推动人民法庭高质量发展的若干意见》。",
+          "sources": [
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C007",
+          "title": "最高法研判会商2026年第一季度司法审判数据",
+          "facts": "【事实】最高法召开会议，研判会商2026年第一季度司法审判数据，院长张军出席会议。数据反映出案件数量变化趋势和审判质效情况。来源：最高法。",
+          "background": "【背景/补充】每季度司法数据会商是最高法常态化机制，主要用于分析诉讼结构变化和司法改革效果。",
+          "observation": "【观察】数据可能显示民事案件特别是金融、互联网纠纷增长较快，为司法资源调配提供依据。",
+          "follow_up": "【后续跟踪】关注是否会公开发布一季度司法统计公报。",
+          "sources": [
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C007",
+          "title": "最高法召开未成年人保护专题研讨会，强调协同共治",
+          "facts": "【事实】最高法召开未成年人保护专题研讨会，提出强化协同共治，促推“六大保护”融合发力。来源：最高法。",
+          "background": "【背景/补充】“六大保护”指家庭、学校、社会、网络、政府、司法保护。近年来未成年人违法犯罪与侵害案件引起关注。",
+          "observation": "【观察】研讨会表明司法系统将更主动参与未成年人保护社会综合治理，可能推动建立全国统一的未成年人司法保护平台。",
+          "follow_up": "【后续跟踪】关注最高检是否也发布相关未成年人检察工作意见。",
+          "sources": [
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+              "grade": "A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "风险提示/后续跟踪",
+      "items": [
+        {
+          "cluster_id": "C004",
+          "title": "中东美伊冲突升级",
+          "facts": "【风险提示】美军袭击伊朗沿海，伊朗反击美第五舰队，冲突存在进一步升级风险。",
+          "background": "【背景】历史上美伊在波斯湾数次对峙，但此次双方直接攻击对方设施，烈度罕见。",
+          "observation": "【判断】短期内国际油价可能大幅上涨，全球股市承压。中国需评估能源进口与中东基建项目安全。",
+          "follow_up": "【后续跟踪】关注联合国紧急会议、伊朗是否退出《不扩散核武器条约》等。",
+          "sources": []
+        },
+        {
+          "cluster_id": "C003",
+          "title": "习近平访朝行程不确定性",
+          "facts": "【后续跟踪】BBC报道习近平将访朝，但尚未获官方确认。若成行，将是重大外交事件。",
+          "background": "【背景】朝鲜刚进行多次导弹试射，美日韩加强军事合作。访朝时机敏感。",
+          "observation": "【判断】行程可能因中东局势生变，或成为中美俄朝四方博弈的筹码。",
+          "follow_up": "【后续跟踪】等待中国外交部正式发布消息。",
+          "sources": []
+        }
+      ]
+    }
+  ],
+  "quality_scores": {
+    "官方源覆盖率": "29%",
+    "组织人事覆盖": "0%",
+    "反腐政法覆盖": "0%",
+    "涉台涉外覆盖": "100%",
+    "AI栏目质量": "100%",
+    "链接可验证率": "100%",
+    "议题簇合并率": "43%",
+    "重复新闻率": "2%",
+    "低价值资讯占比": "0%",
+    "硬性检查通过数": "1/6",
+    "说明": "因系统抓取限制，反腐政法、国务院发布、外交部记者会、国台办、Reuters/FT等栏目内容缺失，需人工补充。"
+  },
+  "benchmark_eval": {
+    "benchmark_name": "人工版议题敏感度样例",
+    "coverage_rate": "5%",
+    "matched_topics": [
+      "伊朗局势"
+    ],
+    "missing_topics": [
+      "高考保障与基础教育",
+      "正确政绩观学习教育指导组",
+      "十四五经济社会发展成就",
+      "发改委国企座谈与资源安全",
+      "二手房成交修复",
+      "央行逆回购归零",
+      "太空算力产业",
+      "中国大模型与企业Agent",
+      "美国AI安全监管",
+      "郑丽文访美",
+      "国台办发布会",
+      "对台军售",
+      "强迫劳动关税",
+      "欧盟技术主权",
+      "所罗门安全协议",
+      "中日航班与日本防务",
+      "中菲摩擦",
+      "宁夏宣传部长调整",
+      "王莉霞公诉"
+    ],
+    "required_section_gaps": [
+      "反腐政法",
+      "组织人事"
+    ],
+    "gap_summary": "自动版因数据源限制未能覆盖人工版中多数高价值议题，尤其涉台、反腐、组织人事以及宏观市场等领域缺失严重，建议结合人工监测系统补充。"
+  },
+  "index": [
+    {
+      "title": "完整版 《新闻联播》 20260606 19:00",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/06/VIDEkMEIhWWMUwUhfkKYBNLE260606.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/06/VIDEHBGlXQqiE7ArzoJEd730260606.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]韩正会见俄罗斯总统",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/06/VIDECH1WOikGEW4mRdO165rH260606.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]财政金融“组合拳” 更大力度支持扩内需",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/06/VIDEOJr26dGlRl4iSckbUe6S260606.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]美军袭击伊朗部分沿海地区 伊朗称打击美海军第五舰队重要设施",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/06/VIDEnZU1aonNJ9EuNrnP4w1d260606.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "中国—新西兰第34届经贸联委会举行",
+      "source_name": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_1b3f6de0f330437896ce6998e589191a.html",
+      "category": "涉外"
+    },
+    {
+      "title": "重大犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "category": "要闻"
+    },
+    {
+      "title": "职务犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "经济犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "category": "要闻"
+    },
+    {
+      "title": "登录邮箱系统",
+      "source_name": "最高法",
+      "url": "http://mail.court.gov.cn/",
+      "category": "要闻"
+    },
+    {
+      "title": "法律政策研究",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/flzcyj/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "未成年人检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/wcnrjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+      "category": "要闻"
+    },
+    {
+      "title": "数智中国丨AI浪潮下，一些大厂产生降本裁员“冲动”？",
+      "source_name": "经济日报",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260606_3014702.shtml",
+      "category": "科技与产业"
+    },
+    {
+      "title": "中國整治爆紅微短劇中的軟色情、暴力和拜金內容",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/c8r8r88z5yko/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "習近平時隔近七年訪問朝鮮，將與金正恩會面",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/c0r2r29nzz4o/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    }
+  ],
+  "meta": {
+    "llm_used": true,
+    "pipeline_version": "research-daily-compiler-v1"
+  },
+  "clusters": [
+    {
+      "cluster_id": "C007",
+      "cluster_title": "P0相关议题：重大犯罪检察",
+      "primary_source": {
+        "name": "最高检",
+        "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "http://mail.court.gov.cn/",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/flzcyj/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/wcnrjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+          "grade": "A",
+          "importance_score": 0.96
+        }
+      ],
+      "included_items": [
+        "N0007",
+        "N0008",
+        "N0009",
+        "N0010",
+        "N0011",
+        "N0012",
+        "N0013",
+        "N0014",
+        "N0015",
+        "N0016"
+      ],
+      "included_item_titles": [
+        "重大犯罪检察",
+        "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+        "职务犯罪检察",
+        "经济犯罪检察",
+        "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+        "登录邮箱系统",
+        "法律政策研究",
+        "未成年人检察",
+        "最高法研判会商2026年第一季度司法审判数据 张军强...",
+        "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力"
+      ],
+      "entities": [
+        "云南",
+        "最高法召开未成年人保护专题研讨会",
+        "最高法研判会",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "第五次全国人民法庭工作会",
+        "邓修明在云南法院"
+      ],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "地方与社会治理",
+      "importance_score": 0.96,
+      "confidence_score": 0.98,
+      "why_grouped": "同一社会治理议题。 聚合键：P0；包含10条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ]
+    },
+    {
+      "cluster_id": "C001",
+      "cluster_title": "政策相关议题：完整版 《新闻联播》 20260606 19:00",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/06/VIDEkMEIhWWMUwUhfkKYBNLE260606.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/06/VIDEOJr26dGlRl4iSckbUe6S260606.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        }
+      ],
+      "included_items": [
+        "N0001",
+        "N0004"
+      ],
+      "included_item_titles": [
+        "完整版 《新闻联播》 20260606 19:00",
+        "完整版 [视频]财政金融“组合拳” 更大力度支持扩内需"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-06T00:00:00+08:00",
+        "end": "2026-06-06T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.85,
+      "why_grouped": "同一政策链条或高层活动。 聚合键：政策；包含2条候选。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C002",
+      "cluster_title": "完整版 [视频]韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/06/VIDEHBGlXQqiE7ArzoJEd730260606.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0002"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞"
+      ],
+      "entities": [
+        "韩正出席第二十九届圣彼得堡国际经济论坛全会"
+      ],
+      "time_span": {
+        "start": "2026-06-06T00:00:00+08:00",
+        "end": "2026-06-06T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C004",
+      "cluster_title": "完整版 [视频]美军袭击伊朗部分沿海地区 伊朗称打击美海军第五舰队重要设施",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/06/VIDEnZU1aonNJ9EuNrnP4w1d260606.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0005"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]美军袭击伊朗部分沿海地区 伊朗称打击美海军第五舰队重要设施"
+      ],
+      "entities": [
+        "伊朗",
+        "美军袭击伊朗部"
+      ],
+      "time_span": {
+        "start": "2026-06-06T00:00:00+08:00",
+        "end": "2026-06-06T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C005",
+      "cluster_title": "完整版 [视频]韩正会见俄罗斯总统",
+      "primary_source": {
+        "name": "CCTV新闻联播",
+        "url": "https://tv.cctv.com/2026/06/06/VIDECH1WOikGEW4mRdO165rH260606.shtml",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0003"
+      ],
+      "included_item_titles": [
+        "完整版 [视频]韩正会见俄罗斯总统"
+      ],
+      "entities": [
+        "俄罗斯",
+        "韩正会"
+      ],
+      "time_span": {
+        "start": "2026-06-06T00:00:00+08:00",
+        "end": "2026-06-06T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C006",
+      "cluster_title": "数智中国丨AI浪潮下，一些大厂产生降本裁员“冲动”？",
+      "primary_source": {
+        "name": "经济日报",
+        "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260606_3014702.shtml",
+        "grade": "B",
+        "importance_score": 0.83
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0017"
+      ],
+      "included_item_titles": [
+        "数智中国丨AI浪潮下，一些大厂产生降本裁员“冲动”？"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-06T00:00:00+08:00",
+        "end": "2026-06-06T00:00:00+08:00"
+      },
+      "category": "AI与科技产业",
+      "importance_score": 0.83,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P1",
+        "产业落地"
+      ]
+    },
+    {
+      "cluster_id": "C003",
+      "cluster_title": "区域风险相关议题：中国—新西兰第34届经贸联委会举行",
+      "primary_source": {
+        "name": "商务部",
+        "url": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_1b3f6de0f330437896ce6998e589191a.html",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [
+        {
+          "name": "BBC China",
+          "url": "https://www.bbc.com/zhongwen/articles/c8r8r88z5yko/trad?at_medium=RSS&at_campaign=rss",
+          "grade": "C",
+          "importance_score": 0.64
+        },
+        {
+          "name": "BBC China",
+          "url": "https://www.bbc.com/zhongwen/articles/c0r2r29nzz4o/trad?at_medium=RSS&at_campaign=rss",
+          "grade": "C",
+          "importance_score": 0.64
+        }
+      ],
+      "included_items": [
+        "N0006",
+        "N0018",
+        "N0019"
+      ],
+      "included_item_titles": [
+        "中国—新西兰第34届经贸联委会举行",
+        "中國整治爆紅微短劇中的軟色情、暴力和拜金內容",
+        "習近平時隔近七年訪問朝鮮，將與金正恩會面"
+      ],
+      "entities": [
+        "新西兰第34届经贸联委会"
+      ],
+      "time_span": {
+        "start": "2026-06-05T18:49:06+00:00",
+        "end": "2026-06-06T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.75,
+      "confidence_score": 0.98,
+      "why_grouped": "同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含3条候选。",
+      "link_grades": [
+        "A",
+        "C"
+      ],
+      "domain_tags": [
+        "P0",
+        "P1",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C008",
+      "cluster_title": "组织人事",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "组织人事",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未见重大新增。",
+      "status": "未见重大新增。",
+      "link_grades": [],
+      "domain_tags": []
+    },
+    {
+      "cluster_id": "C009",
+      "cluster_title": "反腐政法",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "反腐政法",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未成功抓取，需人工复核。",
+      "status": "未成功抓取，需人工复核。",
+      "link_grades": [],
+      "domain_tags": []
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "N0001",
+      "title": "完整版 《新闻联播》 20260606 19:00",
+      "time": "2026-06-06T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/06/VIDEkMEIhWWMUwUhfkKYBNLE260606.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 《新闻联播》 20260606 19:00",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0002",
+      "title": "完整版 [视频]韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞",
+      "time": "2026-06-06T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/06/VIDEHBGlXQqiE7ArzoJEd730260606.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞",
+      "category": "高层与政策",
+      "entities": [
+        "韩正出席第二十九届圣彼得堡国际经济论坛全会"
+      ],
+      "people": [],
+      "organizations": [
+        "韩正出席第二十九届圣彼得堡国际经济论坛全会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0003",
+      "title": "完整版 [视频]韩正会见俄罗斯总统",
+      "time": "2026-06-06T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/06/VIDECH1WOikGEW4mRdO165rH260606.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]韩正会见俄罗斯总统",
+      "category": "涉台涉外",
+      "entities": [
+        "俄罗斯",
+        "韩正会"
+      ],
+      "people": [],
+      "organizations": [
+        "韩正会"
+      ],
+      "locations": [
+        "俄罗斯"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0004",
+      "title": "完整版 [视频]财政金融“组合拳” 更大力度支持扩内需",
+      "time": "2026-06-06T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/06/VIDEOJr26dGlRl4iSckbUe6S260606.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]财政金融“组合拳” 更大力度支持扩内需",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0005",
+      "title": "完整版 [视频]美军袭击伊朗部分沿海地区 伊朗称打击美海军第五舰队重要设施",
+      "time": "2026-06-06T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/06/VIDEnZU1aonNJ9EuNrnP4w1d260606.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]美军袭击伊朗部分沿海地区 伊朗称打击美海军第五舰队重要设施",
+      "category": "涉台涉外",
+      "entities": [
+        "伊朗",
+        "美军袭击伊朗部"
+      ],
+      "people": [
+        "伊朗"
+      ],
+      "organizations": [
+        "美军袭击伊朗部"
+      ],
+      "locations": [
+        "伊朗"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0006",
+      "title": "中国—新西兰第34届经贸联委会举行",
+      "time": "2026-06-06T00:00:00+08:00",
+      "source": "商务部",
+      "link": "https://www.mofcom.gov.cn/xwfb/bldhd/art/2026/art_1b3f6de0f330437896ce6998e589191a.html",
+      "link_grade": "A",
+      "body_summary": "中国—新西兰第34届经贸联委会举行",
+      "category": "涉台涉外",
+      "entities": [
+        "新西兰第34届经贸联委会"
+      ],
+      "people": [],
+      "organizations": [
+        "新西兰第34届经贸联委会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "涉台涉外"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0007",
+      "title": "重大犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "重大犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0008",
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "link_grade": "A",
+      "body_summary": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "category": "地方与社会治理",
+      "entities": [
+        "云南",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "people": [],
+      "organizations": [
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "locations": [
+        "云南"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0009",
+      "title": "职务犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "职务犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0010",
+      "title": "经济犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "经济犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0011",
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "link_grade": "A",
+      "body_summary": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "category": "地方与社会治理",
+      "entities": [
+        "第五次全国人民法庭工作会"
+      ],
+      "people": [],
+      "organizations": [
+        "第五次全国人民法庭工作会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0012",
+      "title": "登录邮箱系统",
+      "time": null,
+      "source": "最高法",
+      "link": "http://mail.court.gov.cn/",
+      "link_grade": "A",
+      "body_summary": "登录邮箱系统",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0013",
+      "title": "法律政策研究",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/flzcyj/index.shtml",
+      "link_grade": "A",
+      "body_summary": "法律政策研究",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0014",
+      "title": "未成年人检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/wcnrjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "未成年人检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0015",
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "link_grade": "A",
+      "body_summary": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法研判会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法研判会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0016",
+      "title": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+      "link_grade": "A",
+      "body_summary": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法召开未成年人保护专题研讨会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法召开未成年人保护专题研讨会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0017",
+      "title": "数智中国丨AI浪潮下，一些大厂产生降本裁员“冲动”？",
+      "time": "2026-06-06T00:00:00+08:00",
+      "source": "经济日报",
+      "link": "http://www.ce.cn/xwzx/gnsz/gdxw/202606/t20260606_3014702.shtml",
+      "link_grade": "B",
+      "body_summary": "数智中国丨AI浪潮下，一些大厂产生降本裁员“冲动”？",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P1",
+        "产业落地"
+      ],
+      "importance_score": 0.83
+    },
+    {
+      "candidate_id": "N0018",
+      "title": "中國整治爆紅微短劇中的軟色情、暴力和拜金內容",
+      "time": "2026-06-05T18:49:52+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/c8r8r88z5yko/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "在中國，微短劇的受歡迎程度急劇上升，但因內容往往煽情而受到批評。",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0019",
+      "title": "習近平時隔近七年訪問朝鮮，將與金正恩會面",
+      "time": "2026-06-05T18:49:06+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/c0r2r29nzz4o/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "此次訪問距離習近平會見美國和俄羅斯領導人僅數週。美俄兩國在朝鮮外交政策中都佔有重要分量。",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    }
+  ]
+}
