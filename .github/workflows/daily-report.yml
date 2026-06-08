@@ -56,6 +56,13 @@ jobs:
           REPORT_TIMEZONE: Asia/Shanghai
         timeout-minutes: 8
         run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            BEIJING_HOUR="$(TZ=Asia/Shanghai date +%H)"
+            if [ "$BEIJING_HOUR" != "10" ]; then
+              echo "Scheduled run started at Beijing hour ${BEIJING_HOUR}; expected 10. Skip delayed run."
+              exit 0
+            fi
+          fi
           if [ -n "${{ github.event.inputs.report_date }}" ]; then
             REPORT_DATE="${{ github.event.inputs.report_date }}"
           else

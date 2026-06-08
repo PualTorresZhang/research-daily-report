@@ -69,26 +69,6 @@ def render_markdown(report: dict) -> str:
             lines.append("")
         section_number += 1
 
-    if report.get("quality_scores"):
-        lines.extend([f"## {chinese_number(section_number)}、质量自检表", ""])
-        lines.extend(["| 指标 | 结果 |", "| --- | --- |"])
-        for key, value in report["quality_scores"].items():
-            lines.append(f"| {key} | {value} |")
-        lines.append("")
-        section_number += 1
-
-    benchmark = report.get("benchmark_eval") or {}
-    if benchmark:
-        lines.extend([f"## {chinese_number(section_number)}、人工版 Benchmark 差距", ""])
-        lines.append(f"- 覆盖率：{benchmark.get('coverage_rate', '0%')}")
-        if benchmark.get("missing_topics"):
-            lines.append(f"- 未覆盖议题：{'、'.join(benchmark.get('missing_topics', [])[:12])}")
-        if benchmark.get("required_section_gaps"):
-            lines.append(f"- 稳定栏目缺口：{'、'.join(benchmark.get('required_section_gaps', []))}")
-        lines.append(f"- 说明：{benchmark.get('gap_summary', '')}")
-        lines.append("")
-        section_number += 1
-
     lines.extend([f"## {chinese_number(section_number)}、原文索引", ""])
     for idx, item in enumerate(report.get("index", []), 1):
         lines.append(
