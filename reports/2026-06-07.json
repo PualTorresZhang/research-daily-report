@@ -1,0 +1,1520 @@
+{
+  "report_date": "2026-06-07",
+  "format": {
+    "title": "研究院版日报｜2026年6月7日"
+  },
+  "daily_judgment": "今日主要议题集中在高层涉外经贸（韩正出席白俄罗斯专场）、防灾预警（红色山洪预警）及政法系统社会治理动态（最高法最高检多项部署）。AI与科技产业方面，最高检发布AI创意视频，体现检察系统在技术应用上的探索。组织人事和反腐政法栏目因抓取失败需人工复核；涉台涉外部分官方渠道未抓取，仅有一条商务部涉外活动及两条BBC分析（来源级别较低，需交叉验证）。",
+  "top_issue_cards": [
+    {
+      "cluster_id": "C004",
+      "title": "韩正出席“共享大市场·出口中国”白俄罗斯专场活动",
+      "why_it_matters": "体现中国拓展东欧经贸合作，推动出口多元化，对研判中白经贸关系和白俄罗斯局势有参考价值。"
+    },
+    {
+      "cluster_id": "C002",
+      "title": "水利部和中国气象局联合发布红色山洪灾害预警",
+      "why_it_matters": "红色预警为最高级别，预示强降雨可能引发山洪，需关注灾害响应及后续损失。"
+    },
+    {
+      "cluster_id": "C003",
+      "title": "【AI创意视频】外卖盒里的悄悄话",
+      "why_it_matters": "最高检利用AI技术进行公益宣传，反映AI在政法宣传领域的创新应用，可视为AI产业落地的一个侧面。"
+    }
+  ],
+  "sections": [
+    {
+      "name": "高层与政策",
+      "items": [
+        {
+          "cluster_id": "C001",
+          "title": "青海G109小峡口改建工程建成通车及多项基础设施进展",
+          "facts": "青海G109小峡口改建工程建成通车（新华社）；我国持续优化完善农村公路网络（新闻联播）；我国船舶海工装备产业加速提质升级（新闻联播）；平陆运河船闸创三项“世界之最”（新华社）。",
+          "background": "上述工程属于国家基础设施建设和产业升级重点领域，G109是进藏通道，农村公路网络优化服务于乡村振兴，船舶海工装备升级符合海洋强国战略，平陆运河是西部陆海新通道的关键工程。",
+          "observation": "今日集中报道多项基础设施进展，显示政策层面持续推动交通、水利和高端制造投资，为经济稳增长提供支撑。",
+          "follow_up": "关注后续G109全线通车时间节点、平陆运河通航进展及船舶海工订单情况。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260607/a28d17d8886446b98b25dddf0f3dc6f7/c.html",
+              "grade": "B"
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/07/VIDEppotQGGNDNKq7JB4lULh260607.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "CCTV新闻联播",
+              "url": "https://tv.cctv.com/2026/06/07/VIDEpWbZlkmgRBYRKX09QXaR260607.shtml",
+              "grade": "B"
+            },
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260607/b4ba6afc80594eeca01368474fd6525f/c.html",
+              "grade": "B"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C002",
+          "title": "水利部和中国气象局联合发布红色山洪灾害气象预警",
+          "facts": "6月7日18时，水利部和中国气象局联合发布红色山洪灾害气象预警（新华社）。",
+          "background": "红色预警为最高级别，通常意味着发生山洪灾害的风险很高，需要提前转移人员。预警区域未在材料中明确，需关注具体地区。",
+          "observation": "红色预警发布后，相关省份需立即启动应急响应，可能影响当地生产和交通，需跟踪后续灾害及经济损失。",
+          "follow_up": "关注预警区域的实际降雨和山洪发生情况，以及救灾响应措施。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260607/2868b35c3d2c42cfb9405be913fd35b0/c.html",
+              "grade": "B"
+            }
+          ]
+        }
+      ],
+      "status": ""
+    },
+    {
+      "name": "组织人事",
+      "items": [],
+      "status": "未见重大新增。"
+    },
+    {
+      "name": "反腐政法",
+      "items": [],
+      "status": "未成功抓取，需人工复核。"
+    },
+    {
+      "name": "涉台涉外",
+      "items": [
+        {
+          "cluster_id": "C004",
+          "title": "韩正出席“共享大市场·出口中国”白俄罗斯专场活动并致辞",
+          "facts": "国家副主席韩正出席在明斯克举行的“共享大市场·出口中国”白俄罗斯专场活动并致辞（商务部）。",
+          "background": "该活动旨在促进白俄罗斯对华出口，加强双边经贸合作。韩正是中国国家领导人，出席此类专场活动体现高层对中白关系的重视。白俄罗斯是“一带一路”沿线重要节点，也是中国在东欧的战略伙伴。",
+          "observation": "此举释放中国继续深化与白俄罗斯经贸合作的信号，在西方对白俄罗斯制裁背景下，中国作为替代市场的角色凸显。",
+          "follow_up": "关注后续中白双边贸易数据，以及白俄罗斯对华出口结构的变化。",
+          "sources": [
+            {
+              "name": "商务部",
+              "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_1888fdc0c1474d78a07b54f59f9992db.html",
+              "grade": "A"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C005",
+          "title": "BBC分析：中国房地产巨头退潮中的国资角色及中朝关系",
+          "facts": "BBC发布两篇分析文章，一篇认为中国房地产巨头退场中，国资以接管、拆解、敷衍等不同方式处置过去的地方政府“包税人”；另一篇称在“习金峰会”上，朝鲜领导金正恩手握新筹码，（BBC China，未必经官方确认）。",
+          "background": "第一篇涉及房地产风险处置中的央地关系与国有资本行为，第二篇涉及中朝高层互动背景。两篇均为外部媒体报道，观点仅供参考。",
+          "observation": "BBC文章反映了外媒对中国房地产风险处置路径和中朝关系的观察，虽未官方确认，但可作为风险提示和舆情参考。",
+          "follow_up": "关注中国官方对房地产风险处置的最新表态，以及中朝领导人互动后续动态。",
+          "sources": [
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C"
+            },
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/czrxg2d17m0o/trad?at_medium=RSS&at_campaign=rss",
+              "grade": "C"
+            }
+          ]
+        }
+      ],
+      "status": ""
+    },
+    {
+      "name": "AI与科技产业",
+      "items": [
+        {
+          "cluster_id": "C003",
+          "title": "最高检发布AI创意视频《外卖盒里的悄悄话》",
+          "facts": "最高人民检察院发布AI创意视频“外卖盒里的悄悄话”，利用AI技术制作宣传内容（最高检）。",
+          "background": "该视频属于公益宣传，内容未明确，但表明最高检正在探索AI在司法宣传中的应用。此前检察机关已应用AI辅助办案，此次是创意宣传领域的尝试。",
+          "observation": "这是AI技术在政法宣传领域的产业落地案例，体现AI应用的多元化。值得关注其他政府部门是否会跟进类似应用，以及技术来源是否为国产AI。",
+          "follow_up": "关注最高检是否发布更多AI相关应用，以及公众和舆论对AI制作宣传的反应。",
+          "sources": [
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/sp/202606/t20260607_729217.shtml",
+              "grade": "A"
+            }
+          ]
+        }
+      ],
+      "status": ""
+    },
+    {
+      "name": "宏观与市场",
+      "items": [],
+      "status": "未见重大新增。"
+    },
+    {
+      "name": "地方与社会治理",
+      "items": [
+        {
+          "cluster_id": "C006",
+          "title": "最高法最高检多项工作部署（调研、会议、专题）",
+          "facts": "最高人民法院审判委员会副部级专职委员邓修明在云南法院调研，强调加强审判工作、服务云南发展；最高法召开第五次全国人民法庭工作会议，推动人民法庭工作高质量发展；最高法研判会商2026年第一季度司法审判数据；最高法召开未成年人保护专题研讨会；最高检发布重大犯罪检察、职务犯罪检察、经济犯罪检察等栏目信息（最高法、最高检）。",
+          "background": "这些都是最高法和最高检的常规性工作部署，但集中发布表明系统内近期重点。邓修明调研云南反映对边疆省份法治建设的关注；人民法庭工作会议是五年一次的机制性会议；未成年人保护专题研讨会强调六大保护协同。",
+          "observation": "政法系统正通过调研和会议推动审判工作现代化、基层法庭建设和未成年人保护，显示社会治理法治化进程的持续推进。",
+          "follow_up": "关注后续是否有具体政策出台，如人民法庭建设标准、未成年人保护协同机制文件。",
+          "sources": [
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+              "grade": "A"
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+              "grade": "A"
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+              "grade": "A"
+            },
+            {
+              "name": "最高法",
+              "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+              "grade": "A"
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+              "grade": "A"
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+              "grade": "A"
+            },
+            {
+              "name": "最高检",
+              "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+              "grade": "A"
+            }
+          ]
+        }
+      ],
+      "status": ""
+    },
+    {
+      "name": "风险提示/后续跟踪",
+      "items": [
+        {
+          "cluster_id": "C002",
+          "title": "红色山洪灾害预警后续",
+          "facts": "水利部和中国气象局发布红色山洪预警，需关注实际灾情。",
+          "background": "",
+          "observation": "需跟踪预警区域受灾情况，评估对农业、基础设施和人员安全的影响。",
+          "follow_up": "关注后续应急管理部通报，以及是否有因灾死亡或财产损失。",
+          "sources": [
+            {
+              "name": "新华社",
+              "url": "https://www.news.cn/politics/20260607/2868b35c3d2c42cfb9405be913fd35b0/c.html",
+              "grade": "B"
+            }
+          ]
+        },
+        {
+          "cluster_id": "C005",
+          "title": "房地产风险处置及中朝关系走向",
+          "facts": "BBC分析中国房地产巨头退潮中国资角色不明，以及中朝关系新动向（C级，未必经官方确认）。",
+          "background": "",
+          "observation": "外媒分析可能反映关注点，需留意官方是否释放新信号或政策变化。",
+          "follow_up": "关注房地产领域是否有新的国资介入案例，以及中朝之间是否有高层会晤公开声明。",
+          "sources": [
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad",
+              "grade": "C"
+            },
+            {
+              "name": "BBC China",
+              "url": "https://www.bbc.com/zhongwen/articles/czrxg2d17m0o/trad",
+              "grade": "C"
+            }
+          ]
+        }
+      ],
+      "status": ""
+    }
+  ],
+  "quality_scores": {
+    "官方源覆盖率": "36%",
+    "组织人事覆盖": "0%",
+    "反腐政法覆盖": "0%",
+    "涉台涉外覆盖": "100%",
+    "AI栏目质量": "100%",
+    "链接可验证率": "100%",
+    "议题簇合并率": "50%",
+    "重复新闻率": "7%",
+    "低价值资讯占比": "0%",
+    "硬性检查通过数": "1/6",
+    "说明": "议题簇合并率低于60%时，应优先补充外部校验源或手动源，避免单条新闻改写。"
+  },
+  "benchmark_eval": {
+    "benchmark_name": "人工版议题敏感度样例",
+    "coverage_rate": "5%",
+    "matched_topics": [
+      "高考保障与基础教育"
+    ],
+    "missing_topics": [
+      "正确政绩观学习教育指导组",
+      "十四五经济社会发展成就",
+      "发改委国企座谈与资源安全",
+      "二手房成交修复",
+      "央行逆回购归零",
+      "太空算力产业",
+      "中国大模型与企业Agent",
+      "美国AI安全监管",
+      "郑丽文访美",
+      "国台办发布会",
+      "对台军售",
+      "强迫劳动关税",
+      "欧盟技术主权",
+      "所罗门安全协议",
+      "中日航班与日本防务",
+      "中菲摩擦",
+      "伊朗局势",
+      "宁夏宣传部长调整",
+      "王莉霞公诉"
+    ],
+    "required_section_gaps": [
+      "反腐政法",
+      "组织人事"
+    ],
+    "gap_summary": "自动版应重点补齐人工版中的跨源合并、背景链条和组织人事/反腐/涉台/AI稳定覆盖。"
+  },
+  "title": "研究院版日报｜2026年6月7日",
+  "index": [
+    {
+      "title": "韩正出席“共享大市场·出口中国”白俄罗斯专场活动并致辞",
+      "source_name": "商务部",
+      "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_1888fdc0c1474d78a07b54f59f9992db.html",
+      "category": "涉外"
+    },
+    {
+      "title": "青海G109小峡口改建工程建成通车",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/a28d17d8886446b98b25dddf0f3dc6f7/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "镜观中国丨共守一片蓝",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/photo/20260607/cdd95bc4c9684b47afcaa9590e2ad51d/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "秀我中国丨高考倒计时一小时 他们奔向人生的下一段故事",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/1594de5543b2420c8044975d9261e624/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "省水60% 、创造多项纪录，这个枢纽有多厉害？",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/5918eb6dee164472a04c2b0f9a161dfb/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "河南唐河县全面排查整治“被贷款”问题",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/legal/20260607/45a7c4bdb2ee4cb2959166f2cc731aec/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "水利部和中国气象局6月7日18时联合发布红色山洪灾害气象预警",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/2868b35c3d2c42cfb9405be913fd35b0/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "新华视点丨2026高考作文“上新”，折射语文教育哪些新趋势",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/545b795d4bdc48819ebf2f445bdc52a9/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "新华社权威速览丨职工医保个人账户跨省共济指南来了",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/d35ad9e08ec248f285888647935b191d/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "微视频丨像对待生命一样关爱海洋",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/03ada18b32c743199307f34bb334a853/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "完整版 《新闻联播》 20260607 19:00",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/07/VIDEDXMLq9HcrbO78iCSvgE3260607.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]我国船舶海工装备产业加速提质升级",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/07/VIDEpWbZlkmgRBYRKX09QXaR260607.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]我国持续优化完善农村公路网络",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/07/VIDEppotQGGNDNKq7JB4lULh260607.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]国际联播快讯",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/07/VIDE3Egi0D1kFD6MoXWqRAzP260607.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "完整版 [视频]国内联播快讯",
+      "source_name": "CCTV新闻联播",
+      "url": "https://tv.cctv.com/2026/06/07/VIDED3mB4Y5OeCdKLBJu5dPp260607.shtml",
+      "category": "附：新闻联播"
+    },
+    {
+      "title": "向大海：奔赴平陆运河丨这座船闸何以揽下三项“世界之最”？",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/politics/20260607/b4ba6afc80594eeca01368474fd6525f/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "【双语MV】当国风遇上检察蓝：一蔬一菜，皆是守护",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/sp/202606/t20260607_729220.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "【AI创意视频】外卖盒里的悄悄话",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/sp/202606/t20260607_729217.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "“城超”探索文体旅商融合发展“长红”之路",
+      "source_name": "新华社",
+      "url": "https://www.news.cn/local/20260607/f215f7bbd4bf4edda7ca4de4f9208645/c.html",
+      "category": "要闻"
+    },
+    {
+      "title": "重大犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "category": "要闻"
+    },
+    {
+      "title": "职务犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "经济犯罪检察",
+      "source_name": "最高检",
+      "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "category": "要闻"
+    },
+    {
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "category": "要闻"
+    },
+    {
+      "title": "登录邮箱系统",
+      "source_name": "最高法",
+      "url": "http://mail.court.gov.cn/",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "category": "要闻"
+    },
+    {
+      "title": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "source_name": "最高法",
+      "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+      "category": "要闻"
+    },
+    {
+      "title": "中國房地產巨頭退潮途中 國資如何對待當年的政府「包稅人」",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    },
+    {
+      "title": "「鮮血凝成的友誼」：中國與朝鮮愛恨交織的關係",
+      "source_name": "BBC China",
+      "url": "https://www.bbc.com/zhongwen/articles/czrxg2d17m0o/trad?at_medium=RSS&at_campaign=rss",
+      "category": "热点地区"
+    }
+  ],
+  "meta": {
+    "llm_used": true,
+    "pipeline_version": "research-daily-compiler-v1"
+  },
+  "clusters": [
+    {
+      "cluster_id": "C003",
+      "cluster_title": "【AI创意视频】外卖盒里的悄悄话",
+      "primary_source": {
+        "name": "最高检",
+        "url": "https://www.spp.gov.cn/spp/sp/202606/t20260607_729217.shtml",
+        "grade": "A",
+        "importance_score": 1.0
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0018"
+      ],
+      "included_item_titles": [
+        "【AI创意视频】外卖盒里的悄悄话"
+      ],
+      "entities": [],
+      "time_span": {
+        "start": "2026-06-07T00:00:00+08:00",
+        "end": "2026-06-07T00:00:00+08:00"
+      },
+      "category": "AI与科技产业",
+      "importance_score": 1.0,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P0",
+        "产业落地"
+      ]
+    },
+    {
+      "cluster_id": "C004",
+      "cluster_title": "韩正出席“共享大市场·出口中国”白俄罗斯专场活动并致辞",
+      "primary_source": {
+        "name": "商务部",
+        "url": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_1888fdc0c1474d78a07b54f59f9992db.html",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0001"
+      ],
+      "included_item_titles": [
+        "韩正出席“共享大市场·出口中国”白俄罗斯专场活动并致辞"
+      ],
+      "entities": [
+        "俄罗斯"
+      ],
+      "time_span": {
+        "start": "2026-06-07T00:00:00+08:00",
+        "end": "2026-06-07T00:00:00+08:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.96,
+      "confidence_score": 0.8,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ]
+    },
+    {
+      "cluster_id": "C006",
+      "cluster_title": "P0相关议题：【双语MV】当国风遇上检察蓝：一蔬一菜，皆是守护",
+      "primary_source": {
+        "name": "最高检",
+        "url": "https://www.spp.gov.cn/spp/sp/202606/t20260607_729220.shtml",
+        "grade": "A",
+        "importance_score": 0.96
+      },
+      "supporting_sources": [
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高检",
+          "url": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "http://mail.court.gov.cn/",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+          "grade": "A",
+          "importance_score": 0.96
+        },
+        {
+          "name": "最高法",
+          "url": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+          "grade": "A",
+          "importance_score": 0.96
+        }
+      ],
+      "included_items": [
+        "N0017",
+        "N0020",
+        "N0021",
+        "N0022",
+        "N0023",
+        "N0024",
+        "N0025",
+        "N0026",
+        "N0027"
+      ],
+      "included_item_titles": [
+        "【双语MV】当国风遇上检察蓝：一蔬一菜，皆是守护",
+        "重大犯罪检察",
+        "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+        "职务犯罪检察",
+        "经济犯罪检察",
+        "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+        "登录邮箱系统",
+        "最高法研判会商2026年第一季度司法审判数据 张军强...",
+        "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力"
+      ],
+      "entities": [
+        "云南",
+        "最高法召开未成年人保护专题研讨会",
+        "最高法研判会",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "第五次全国人民法庭工作会",
+        "邓修明在云南法院"
+      ],
+      "time_span": {
+        "start": "2026-06-07T00:00:00+08:00",
+        "end": "2026-06-07T00:00:00+08:00"
+      },
+      "category": "地方与社会治理",
+      "importance_score": 0.96,
+      "confidence_score": 0.98,
+      "why_grouped": "同一社会治理议题。 聚合键：P0；包含9条候选。",
+      "link_grades": [
+        "A"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ]
+    },
+    {
+      "cluster_id": "C001",
+      "cluster_title": "政策相关议题：青海G109小峡口改建工程建成通车",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/politics/20260607/a28d17d8886446b98b25dddf0f3dc6f7/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/photo/20260607/cdd95bc4c9684b47afcaa9590e2ad51d/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260607/1594de5543b2420c8044975d9261e624/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260607/5918eb6dee164472a04c2b0f9a161dfb/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/legal/20260607/45a7c4bdb2ee4cb2959166f2cc731aec/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260607/545b795d4bdc48819ebf2f445bdc52a9/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260607/d35ad9e08ec248f285888647935b191d/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260607/03ada18b32c743199307f34bb334a853/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/07/VIDEDXMLq9HcrbO78iCSvgE3260607.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/07/VIDEpWbZlkmgRBYRKX09QXaR260607.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/07/VIDEppotQGGNDNKq7JB4lULh260607.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/07/VIDE3Egi0D1kFD6MoXWqRAzP260607.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "CCTV新闻联播",
+          "url": "https://tv.cctv.com/2026/06/07/VIDED3mB4Y5OeCdKLBJu5dPp260607.shtml",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/politics/20260607/b4ba6afc80594eeca01368474fd6525f/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        },
+        {
+          "name": "新华社",
+          "url": "https://www.news.cn/local/20260607/f215f7bbd4bf4edda7ca4de4f9208645/c.html",
+          "grade": "B",
+          "importance_score": 0.86
+        }
+      ],
+      "included_items": [
+        "N0002",
+        "N0003",
+        "N0004",
+        "N0005",
+        "N0006",
+        "N0008",
+        "N0009",
+        "N0010",
+        "N0011",
+        "N0012",
+        "N0013",
+        "N0014",
+        "N0015",
+        "N0016",
+        "N0019"
+      ],
+      "included_item_titles": [
+        "青海G109小峡口改建工程建成通车",
+        "镜观中国丨共守一片蓝",
+        "秀我中国丨高考倒计时一小时 他们奔向人生的下一段故事",
+        "省水60% 、创造多项纪录，这个枢纽有多厉害？",
+        "河南唐河县全面排查整治“被贷款”问题",
+        "新华视点丨2026高考作文“上新”，折射语文教育哪些新趋势",
+        "新华社权威速览丨职工医保个人账户跨省共济指南来了",
+        "微视频丨像对待生命一样关爱海洋",
+        "完整版 《新闻联播》 20260607 19:00",
+        "完整版 [视频]我国船舶海工装备产业加速提质升级",
+        "完整版 [视频]我国持续优化完善农村公路网络",
+        "完整版 [视频]国际联播快讯",
+        "完整版 [视频]国内联播快讯",
+        "向大海：奔赴平陆运河丨这座船闸何以揽下三项“世界之最”？",
+        "“城超”探索文体旅商融合发展“长红”之路"
+      ],
+      "entities": [
+        "河南",
+        "青海"
+      ],
+      "time_span": {
+        "start": "2026-06-07T00:00:00+08:00",
+        "end": "2026-06-07T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.95,
+      "why_grouped": "同一政策链条或高层活动。 聚合键：政策；包含15条候选。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C002",
+      "cluster_title": "水利部和中国气象局6月7日18时联合发布红色山洪灾害气象预警",
+      "primary_source": {
+        "name": "新华社",
+        "url": "https://www.news.cn/politics/20260607/2868b35c3d2c42cfb9405be913fd35b0/c.html",
+        "grade": "B",
+        "importance_score": 0.86
+      },
+      "supporting_sources": [],
+      "included_items": [
+        "N0007"
+      ],
+      "included_item_titles": [
+        "水利部和中国气象局6月7日18时联合发布红色山洪灾害气象预警"
+      ],
+      "entities": [
+        "水利部和中国气象局"
+      ],
+      "time_span": {
+        "start": "2026-06-07T00:00:00+08:00",
+        "end": "2026-06-07T00:00:00+08:00"
+      },
+      "category": "高层与政策",
+      "importance_score": 0.86,
+      "confidence_score": 0.75,
+      "why_grouped": "单条高优先级候选，暂无可交叉合并来源。",
+      "link_grades": [
+        "B"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ]
+    },
+    {
+      "cluster_id": "C005",
+      "cluster_title": "区域风险相关议题：中國房地產巨頭退潮途中 國資如何對待當年的政府「包稅人」",
+      "primary_source": {
+        "name": "BBC China",
+        "url": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad?at_medium=RSS&at_campaign=rss",
+        "grade": "C",
+        "importance_score": 0.64
+      },
+      "supporting_sources": [
+        {
+          "name": "BBC China",
+          "url": "https://www.bbc.com/zhongwen/articles/czrxg2d17m0o/trad?at_medium=RSS&at_campaign=rss",
+          "grade": "C",
+          "importance_score": 0.64
+        }
+      ],
+      "included_items": [
+        "N0028",
+        "N0029"
+      ],
+      "included_item_titles": [
+        "中國房地產巨頭退潮途中 國資如何對待當年的政府「包稅人」",
+        "「鮮血凝成的友誼」：中國與朝鮮愛恨交織的關係"
+      ],
+      "entities": [
+        "國資如何對待當年的政府",
+        "有的"
+      ],
+      "time_span": {
+        "start": "2026-06-07T12:54:31+00:00",
+        "end": "2026-06-07T13:13:21+00:00"
+      },
+      "category": "涉台涉外",
+      "importance_score": 0.64,
+      "confidence_score": 0.75,
+      "why_grouped": "同一对象国家/地区与议题类型。 聚合键：涉外:区域风险；包含2条候选。",
+      "link_grades": [
+        "C"
+      ],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ]
+    },
+    {
+      "cluster_id": "C007",
+      "cluster_title": "组织人事",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "组织人事",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未见重大新增。",
+      "status": "未见重大新增。",
+      "link_grades": [],
+      "domain_tags": []
+    },
+    {
+      "cluster_id": "C008",
+      "cluster_title": "反腐政法",
+      "primary_source": {},
+      "supporting_sources": [],
+      "included_items": [],
+      "included_item_titles": [],
+      "entities": [],
+      "time_span": {
+        "start": null,
+        "end": null
+      },
+      "category": "反腐政法",
+      "importance_score": 0.0,
+      "confidence_score": 0.0,
+      "why_grouped": "未成功抓取，需人工复核。",
+      "status": "未成功抓取，需人工复核。",
+      "link_grades": [],
+      "domain_tags": []
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "N0001",
+      "title": "韩正出席“共享大市场·出口中国”白俄罗斯专场活动并致辞",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "商务部",
+      "link": "https://www.mofcom.gov.cn/xwfb/ldrhd/art/2026/art_1888fdc0c1474d78a07b54f59f9992db.html",
+      "link_grade": "A",
+      "body_summary": "韩正出席“共享大市场·出口中国”白俄罗斯专场活动并致辞",
+      "category": "涉台涉外",
+      "entities": [
+        "俄罗斯"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "俄罗斯"
+      ],
+      "domain_tags": [
+        "P0",
+        "涉台涉外",
+        "涉外"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0002",
+      "title": "青海G109小峡口改建工程建成通车",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/a28d17d8886446b98b25dddf0f3dc6f7/c.html",
+      "link_grade": "B",
+      "body_summary": "青海G109小峡口改建工程建成通车",
+      "category": "高层与政策",
+      "entities": [
+        "青海"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "青海"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0003",
+      "title": "镜观中国丨共守一片蓝",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/photo/20260607/cdd95bc4c9684b47afcaa9590e2ad51d/c.html",
+      "link_grade": "B",
+      "body_summary": "镜观中国丨共守一片蓝",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0004",
+      "title": "秀我中国丨高考倒计时一小时 他们奔向人生的下一段故事",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/1594de5543b2420c8044975d9261e624/c.html",
+      "link_grade": "B",
+      "body_summary": "秀我中国丨高考倒计时一小时 他们奔向人生的下一段故事",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0005",
+      "title": "省水60% 、创造多项纪录，这个枢纽有多厉害？",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/5918eb6dee164472a04c2b0f9a161dfb/c.html",
+      "link_grade": "B",
+      "body_summary": "省水60% 、创造多项纪录，这个枢纽有多厉害？",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0006",
+      "title": "河南唐河县全面排查整治“被贷款”问题",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/legal/20260607/45a7c4bdb2ee4cb2959166f2cc731aec/c.html",
+      "link_grade": "B",
+      "body_summary": "河南唐河县全面排查整治“被贷款”问题",
+      "category": "高层与政策",
+      "entities": [
+        "河南"
+      ],
+      "people": [],
+      "organizations": [],
+      "locations": [
+        "河南"
+      ],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0007",
+      "title": "水利部和中国气象局6月7日18时联合发布红色山洪灾害气象预警",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/2868b35c3d2c42cfb9405be913fd35b0/c.html",
+      "link_grade": "B",
+      "body_summary": "水利部和中国气象局6月7日18时联合发布红色山洪灾害气象预警",
+      "category": "高层与政策",
+      "entities": [
+        "水利部和中国气象局"
+      ],
+      "people": [],
+      "organizations": [
+        "水利部和中国气象局"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0008",
+      "title": "新华视点丨2026高考作文“上新”，折射语文教育哪些新趋势",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/545b795d4bdc48819ebf2f445bdc52a9/c.html",
+      "link_grade": "B",
+      "body_summary": "新华视点丨2026高考作文“上新”，折射语文教育哪些新趋势",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0009",
+      "title": "新华社权威速览丨职工医保个人账户跨省共济指南来了",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/d35ad9e08ec248f285888647935b191d/c.html",
+      "link_grade": "B",
+      "body_summary": "新华社权威速览丨职工医保个人账户跨省共济指南来了",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0010",
+      "title": "微视频丨像对待生命一样关爱海洋",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/03ada18b32c743199307f34bb334a853/c.html",
+      "link_grade": "B",
+      "body_summary": "微视频丨像对待生命一样关爱海洋",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0011",
+      "title": "完整版 《新闻联播》 20260607 19:00",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/07/VIDEDXMLq9HcrbO78iCSvgE3260607.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 《新闻联播》 20260607 19:00",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0012",
+      "title": "完整版 [视频]我国船舶海工装备产业加速提质升级",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/07/VIDEpWbZlkmgRBYRKX09QXaR260607.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]我国船舶海工装备产业加速提质升级",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0013",
+      "title": "完整版 [视频]我国持续优化完善农村公路网络",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/07/VIDEppotQGGNDNKq7JB4lULh260607.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]我国持续优化完善农村公路网络",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0014",
+      "title": "完整版 [视频]国际联播快讯",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/07/VIDE3Egi0D1kFD6MoXWqRAzP260607.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]国际联播快讯",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0015",
+      "title": "完整版 [视频]国内联播快讯",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "CCTV新闻联播",
+      "link": "https://tv.cctv.com/2026/06/07/VIDED3mB4Y5OeCdKLBJu5dPp260607.shtml",
+      "link_grade": "B",
+      "body_summary": "完整版 [视频]国内联播快讯",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0016",
+      "title": "向大海：奔赴平陆运河丨这座船闸何以揽下三项“世界之最”？",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/politics/20260607/b4ba6afc80594eeca01368474fd6525f/c.html",
+      "link_grade": "B",
+      "body_summary": "向大海：奔赴平陆运河丨这座船闸何以揽下三项“世界之最”？",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0017",
+      "title": "【双语MV】当国风遇上检察蓝：一蔬一菜，皆是守护",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/sp/202606/t20260607_729220.shtml",
+      "link_grade": "A",
+      "body_summary": "【双语MV】当国风遇上检察蓝：一蔬一菜，皆是守护",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0018",
+      "title": "【AI创意视频】外卖盒里的悄悄话",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/sp/202606/t20260607_729217.shtml",
+      "link_grade": "A",
+      "body_summary": "【AI创意视频】外卖盒里的悄悄话",
+      "category": "AI与科技产业",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "AI",
+        "AI与科技产业",
+        "P0",
+        "产业落地"
+      ],
+      "importance_score": 1.0
+    },
+    {
+      "candidate_id": "N0019",
+      "title": "“城超”探索文体旅商融合发展“长红”之路",
+      "time": "2026-06-07T00:00:00+08:00",
+      "source": "新华社",
+      "link": "https://www.news.cn/local/20260607/f215f7bbd4bf4edda7ca4de4f9208645/c.html",
+      "link_grade": "B",
+      "body_summary": "“城超”探索文体旅商融合发展“长红”之路",
+      "category": "高层与政策",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "高层与政策"
+      ],
+      "importance_score": 0.86
+    },
+    {
+      "candidate_id": "N0020",
+      "title": "重大犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzdfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "重大犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0021",
+      "title": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501641.html",
+      "link_grade": "A",
+      "body_summary": "邓修明在云南法院调研时强调 加强新时代审判工作 服务在中国式现代化进程中开创云南发展新局面",
+      "category": "地方与社会治理",
+      "entities": [
+        "云南",
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "people": [],
+      "organizations": [
+        "服务在中国式现代化进程中开创云南发展新局",
+        "邓修明在云南法院"
+      ],
+      "locations": [
+        "云南"
+      ],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0022",
+      "title": "职务犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjzwfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "职务犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0023",
+      "title": "经济犯罪检察",
+      "time": null,
+      "source": "最高检",
+      "link": "https://www.spp.gov.cn/spp/zgjjjfzjc/index.shtml",
+      "link_grade": "A",
+      "body_summary": "经济犯罪检察",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0024",
+      "title": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/500991.html",
+      "link_grade": "A",
+      "body_summary": "第五次全国人民法庭工作会议召开 推动人民法庭工作高质量发展再上新台阶 为加强新时代审判工作夯基固本",
+      "category": "地方与社会治理",
+      "entities": [
+        "第五次全国人民法庭工作会"
+      ],
+      "people": [],
+      "organizations": [
+        "第五次全国人民法庭工作会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0025",
+      "title": "登录邮箱系统",
+      "time": null,
+      "source": "最高法",
+      "link": "http://mail.court.gov.cn/",
+      "link_grade": "A",
+      "body_summary": "登录邮箱系统",
+      "category": "地方与社会治理",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0026",
+      "title": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/497241.html",
+      "link_grade": "A",
+      "body_summary": "最高法研判会商2026年第一季度司法审判数据 张军强...",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法研判会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法研判会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0027",
+      "title": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "time": null,
+      "source": "最高法",
+      "link": "https://www.court.gov.cn/zixun/xiangqing/501611.html",
+      "link_grade": "A",
+      "body_summary": "最高法召开未成年人保护专题研讨会 强化协同共治 促推六大保护融合发力",
+      "category": "地方与社会治理",
+      "entities": [
+        "最高法召开未成年人保护专题研讨会"
+      ],
+      "people": [],
+      "organizations": [
+        "最高法召开未成年人保护专题研讨会"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P0",
+        "地方与社会治理"
+      ],
+      "importance_score": 0.96
+    },
+    {
+      "candidate_id": "N0028",
+      "title": "中國房地產巨頭退潮途中 國資如何對待當年的政府「包稅人」",
+      "time": "2026-06-07T13:13:21+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/cx21j3x28zpo/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "中國房地產巨頭退場途中大多有國有資本的參與。有的被「國資乾爹」接管，有的被「國資清算人」拆解，有的被「國資站台者」敷衍。一隻看不見的手，似乎正在按照一套清晰的優先級，逐一處置過去的「包稅人」。",
+      "category": "涉台涉外",
+      "entities": [
+        "國資如何對待當年的政府",
+        "有的"
+      ],
+      "people": [
+        "有的"
+      ],
+      "organizations": [
+        "國資如何對待當年的政府"
+      ],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    },
+    {
+      "candidate_id": "N0029",
+      "title": "「鮮血凝成的友誼」：中國與朝鮮愛恨交織的關係",
+      "time": "2026-06-07T12:54:31+00:00",
+      "source": "BBC China",
+      "link": "https://www.bbc.com/zhongwen/articles/czrxg2d17m0o/trad?at_medium=RSS&at_campaign=rss",
+      "link_grade": "C",
+      "body_summary": "在「習金峰會」上，朝鮮領導人金正恩手握著新的籌碼。",
+      "category": "涉台涉外",
+      "entities": [],
+      "people": [],
+      "organizations": [],
+      "locations": [],
+      "domain_tags": [
+        "P1",
+        "涉台涉外"
+      ],
+      "importance_score": 0.64
+    }
+  ]
+}
